@@ -21,8 +21,8 @@ SUPABASE_URL    = os.getenv("SUPABASE_URL")
 SUPABASE_KEY    = os.getenv("SUPABASE_KEY")
 SUPABASE_TABLE  = "MarquesBrownlee"
 URL_FILE        = "urls.txt"
-RUN_TEST_URLS   = True   # Set to False to process all URLs from urls.txt
-TEST_URL_COUNT  = 3
+RUN_TEST_URLS   = False  # False = process ALL URLs from urls.txt (full production)
+TEST_URL_COUNT  = 3      # only used when RUN_TEST_URLS = True
 # ──────────────────────────────────────────────────────────────────────────────
 
 def get_supabase_client():

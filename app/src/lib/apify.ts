@@ -105,7 +105,8 @@ export interface MappedTranscript {
 }
 
 export function mapTranscript(item: any): MappedTranscript | null {
-  const url: string | undefined = item.videoUrl || item.url
+  // supreme_coder returns the source URL as `inputUrl`; other actors use videoUrl/url.
+  const url: string | undefined = item.videoUrl || item.url || item.inputUrl
   const id: string | undefined =
     item.videoId || item.video_id || item.id || (url ? extractVideoId(url) : undefined)
   if (!id) return null

@@ -41,13 +41,14 @@ EMBED_MODEL = "@cf/baai/bge-large-en-v1.5"
 MAX_VIDEOS_PER_CHANNEL = "50"
 # A running pipeline job older than this (minutes) is force-failed by the Cron
 # poller so a dead Apify run can't leave a job stuck 'running' forever.
-MAX_JOB_AGE_MIN = "15"
+MAX_JOB_AGE_MIN = "30"
 # Apify Store actor slugs (verify each exists at apify.com/store before deploy).
 # streamers/youtube-scraper is the most popular YouTube channel/video scraper
 # and accepts the input shape pipeline.ts uses (startUrls, maxResults, etc.).
 APIFY_VIDEO_ACTOR = "streamers/youtube-scraper"
-# pintostudio/youtube-transcript-scraper is a free, reliable transcript actor.
-APIFY_TRANSCRIPT_ACTOR = "pintostudio/youtube-transcript-scraper"
+# supreme_coder/youtube-transcript-scraper: batch transcript actor that takes a
+# `urls` array (same one the drive-script pipeline uses successfully).
+APIFY_TRANSCRIPT_ACTOR = "supreme_coder/youtube-transcript-scraper"
 # Set after first deploy so Apify webhooks can call back:
 PUBLIC_URL = "https://youtube-personas.dhumketu.workers.dev"
 

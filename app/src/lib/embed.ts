@@ -188,7 +188,7 @@ export async function embedTranscript(env: Env, job: EmbedJob): Promise<number> 
 // and fail mid-way. Bound it to a small batch; the rest stay 'pending' for the
 // next click or the Cron drain. pending_seen is the TRUE pending total so the
 // caller can tell how many remain.
-const EMBED_NOW_BATCH = 8
+const EMBED_NOW_BATCH = 5
 
 export async function embedChannelNow(
   env: Env,

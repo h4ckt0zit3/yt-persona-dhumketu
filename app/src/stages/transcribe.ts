@@ -37,11 +37,11 @@ export async function startTranscriptExtraction(
   if (!pending || pending.length === 0) return { jobId: '', count: 0 }
 
   const urls: string[] = pending.map((v: VideoRow) => v.video_url)
+  // supreme_coder/youtube-transcript-scraper takes a `urls` array of {url}
+  // objects + `languages` (proven shape — same as the drive-script pipeline).
   const input = {
-    startUrls: urls.map((url) => ({ url })),
-    videoUrls: urls,
-    language: 'en',
-    proxy: { useApifyProxy: true },
+    urls: urls.map((url) => ({ url })),
+    languages: ['en'],
   }
   const jobId = crypto.randomUUID()
   const run = await startActorRun(env, env.APIFY_TRANSCRIPT_ACTOR, input, '/api/webhooks/apify', jobId)
@@ -71,39 +71,44 @@ export async function handleTranscriptDataset(env: Env, jobId: string, datasetId
   const nicheId = channel?.niche_id ?? null
 
   const items = await getDatasetItems(env, datasetId)
-  let stored = 0
-  const storedIds = new Set<string>()
-
+  // Build all rows first, then write in BULK. The Workers free plan caps
+  // subrequests (~50) per invocation, so per-item upsert+update (2 calls × up
+  // to 50 videos = 100+) would die mid-batch and strand the job in 'processing'
+  // with half the videos stuck. One upsert + two scoped updates keeps this to a
+  // handful of calls regardless of batch size. (Dedupe guards against an actor
+  // emitting the same video twice → Postgres "cannot affect row a second time".)
+  const byId = new Map<string, Record<string, unknown>>()
   for (const item of items) {
     const t = mapTranscript(item)
     if (!t) continue
-
     const cleanedText = minimalClean(t.text)
+    byId.set(t.video_id, {
+      video_id: t.video_id,
+      channel_id: channelId,
+      niche_id: nicheId,
+      language: t.language ?? 'en',
+      raw_text: cleanedText,
+      word_count: wordCount(cleanedText),
+      extraction_method: 'youtube_captions',
+      embedding_status: 'pending',
+    })
+  }
+  const rows = [...byId.values()]
+  const storedIds = [...byId.keys()]
 
-    await db.from('transcripts').upsert(
-      {
-        video_id: t.video_id,
-        channel_id: channelId,
-        niche_id: nicheId,
-        language: t.language ?? 'en',
-        raw_text: cleanedText,
-        word_count: wordCount(cleanedText),
-        extraction_method: 'youtube_captions',
-        embedding_status: 'pending',
-      },
-      { onConflict: 'video_id' },
-    )
-    await db.from('videos').update({ transcript_status: 'completed', has_transcript: true }).eq('video_id', t.video_id)
-    storedIds.add(t.video_id)
-    stored++
+  if (rows.length > 0) {
+    const { error } = await db.from('transcripts').upsert(rows, { onConflict: 'video_id' })
+    if (error) throw new Error(`transcripts upsert failed: ${error.message}`)
+    await db.from('videos').update({ transcript_status: 'completed', has_transcript: true }).in('video_id', storedIds)
   }
 
   // Fail ONLY this job's batch members that returned no transcript — scoped via
-  // the video_ids recorded on the job. The old channel-wide "mark every
-  // 'processing' row failed" wrongly failed videos from other/concurrent runs.
+  // the video_ids recorded on the job. The old channel-wide sweep wrongly failed
+  // videos from other/concurrent runs.
   const { data: job } = await db.from('pipeline_jobs').select('input_params').eq('id', jobId).maybeSingle()
   const batch: string[] = job?.input_params?.video_ids ?? []
-  const failedIds = batch.filter((id) => !storedIds.has(id))
+  const storedSet = new Set(storedIds)
+  const failedIds = batch.filter((id) => !storedSet.has(id))
   if (failedIds.length > 0) {
     await db.from('videos').update({ transcript_status: 'failed' }).in('video_id', failedIds)
   } else if (batch.length === 0) {
@@ -116,7 +121,7 @@ export async function handleTranscriptDataset(env: Env, jobId: string, datasetId
       .eq('transcript_status', 'processing')
   }
 
-  await finishJob(env, jobId, { transcripts_stored: stored, raw_items: items.length, failed: failedIds.length })
+  await finishJob(env, jobId, { transcripts_stored: storedIds.length, raw_items: items.length, failed: failedIds.length })
   // Embeddings are produced by the Cron drain (drainPendingEmbeddings).
 }
 
