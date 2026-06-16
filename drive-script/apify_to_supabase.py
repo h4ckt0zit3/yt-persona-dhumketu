@@ -83,6 +83,23 @@ urls = load_urls()
 URL_LIST = urls[:TEST_URL_COUNT] if RUN_TEST_URLS else urls
 
 
+def load_existing_titles(sb) -> set:
+    """Titles already stored — so re-running the pipeline skips duplicates
+    (the app's 'Full ingest' button can be clicked repeatedly)."""
+    titles = set()
+    start, page = 0, 1000
+    while True:
+        resp = sb.table(SUPABASE_TABLE).select("file_name").range(start, start + page - 1).execute()
+        rows = resp.data or []
+        for r in rows:
+            if r.get("file_name"):
+                titles.add(r["file_name"])
+        if len(rows) < page:
+            break
+        start += page
+    return titles
+
+
 def main():
     # 1. Run Apify actor
     client = ApifyClient(APIFY_API_TOKEN)
@@ -103,6 +120,11 @@ def main():
     # 2. Upload to Supabase
     sb = get_supabase_client()
     success = 0
+    skipped_dupes = 0
+    # Skip videos already stored so re-running doesn't create duplicate
+    # transcripts (idempotent ingest).
+    existing = load_existing_titles(sb)
+    print(f"  ℹ {len(existing)} videos already stored — duplicates will be skipped.\n")
 
     for item in items:
         segments = item.get("transcript", [])
@@ -118,6 +140,10 @@ def main():
             or item.get("inputUrl", "unknown")
         )
 
+        if title in existing:
+            skipped_dupes += 1
+            continue
+
         # Retry mechanism for Supabase insertion to handle network timeouts
         max_retries = 5
         for attempt in range(max_retries):
@@ -126,6 +152,7 @@ def main():
                     {"file_name": title, "content": raw_text}
                 ).execute()
                 success += 1
+                existing.add(title)
                 print(f"  ✓ {title[:70]}")
                 break
             except Exception as e:
@@ -138,7 +165,7 @@ def main():
 
         time.sleep(0.5)
 
-    print(f"\nDone! {success}/{len(items)} videos uploaded.")
+    print(f"\nDone! {success}/{len(items)} videos uploaded. ({skipped_dupes} duplicates skipped.)")
 
 
 if __name__ == "__main__":
