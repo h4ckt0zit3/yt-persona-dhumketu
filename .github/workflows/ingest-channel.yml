@@ -1,0 +1,54 @@
+name: ingest one channel
+
+on:
+  workflow_dispatch:
+    inputs:
+      channel_url:
+        description: "YouTube channel URL"
+        required: true
+      channel_id:
+        description: "App channel id (e.g. CH001)"
+        required: true
+      max_videos:
+        description: "Max videos to ingest"
+        required: false
+        default: "50"
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    defaults:
+      run:
+        working-directory: drive-script
+    env:
+      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+      SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+      APIFY_API_TOKEN: ${{ secrets.APIFY_API_TOKEN }}
+      GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+      GROQ_API_KEYS: ${{ secrets.GROQ_API_KEYS }}
+      HF_TOKEN: ${{ secrets.HF_TOKEN }}
+      CHANNEL_URL: ${{ inputs.channel_url }}
+      CHANNEL_ID: ${{ inputs.channel_id }}
+      MAX_VIDEOS: ${{ inputs.max_videos }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+          cache-dependency-path: drive-script/requirements.txt
+      - name: Cache HuggingFace model
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-minilm-v1
+      - run: pip install -r requirements.txt
+      - name: Ingest channel (Apify → transcripts, tagged)
+        run: python ingest_channel.py
+      - name: Clean (Groq)
+        run: python clean_data
+      - name: Chunk
+        run: python chunking.py
+      - name: Embed (MiniLM)
+        run: python embedding.py
