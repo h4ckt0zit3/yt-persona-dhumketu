@@ -1,0 +1,101 @@
+channel_id,niche_id,channel_name,channel_url,subscriber_count,total_videos,avg_views,format_type,language,country,description,last_scraped,status
+CH1401,N015,TechWorld with Nana,https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA/,1400000,200,100000,Monologue/Screencast,en,DE,DevOps structured tutorials on K8s Docker Jenkins Terraform,2026-04-16,active
+CH1402,N015,KodeKloud,https://www.youtube.com/@KodeKloud/,500000,500,30000,Monologue/Screencast,en,IN,Lab-focused DevOps tutorials with hands-on practice,2026-04-16,active
+CH1403,N015,Fireship,https://www.youtube.com/@Fireship/,3500000,800,500000,Monologue/Screencast,en,US,DevOps and cloud concepts in 100 seconds,2026-04-16,active
+CH1404,N015,freeCodeCamp,https://www.youtube.com/@freecodecamp/,11400000,2000,500000,Monologue/Screencast,en,US,Free full-length DevOps and cloud courses,2026-04-16,active
+CH1405,N015,NetworkChuck,https://www.youtube.com/@NetworkChuck/,4300000,500,200000,Monologue/Screencast,en,US,Engaging networking Linux and cloud tutorials,2026-04-16,active
+CH1406,N015,Abhishek Veeramalla,https://www.youtube.com/@AbhishekVeeramalla/,500000,300,30000,Monologue/Screencast,en,IN,AWS zero to hero and DevOps tutorials,2026-04-16,active
+CH1407,N015,DevOps Directive,https://www.youtube.com/channel/UC4MdpjzjPuop_qWNAvR23JA/,99100,150,15000,Monologue/Screencast,en,US,Kubernetes Helm and GitOps tutorials,2026-04-16,active
+CH1408,N015,DevOps Shack,https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA/,235000,200,20000,Monologue/Screencast,en,IN,DevOps pipeline and tool tutorials,2026-04-16,active
+CH1409,N015,DevOps Journey,https://www.youtube.com/channel/UC4Snw5yrSDMXys31I18U3gg/,89900,100,15000,Monologue/Screencast,en,US,DevOps career path and learning resources,2026-04-16,active
+CH1410,N015,Google Cloud Tech,https://www.youtube.com/@googlecloudtech/,1000000,2000,20000,Monologue/Screencast,en,US,GCP tutorials and cloud architecture,2026-04-16,active
+CH1411,N015,AWS (Amazon Web Services),https://www.youtube.com/@amazonwebservices/,1000000,5000,10000,Monologue/Screencast,en,US,Official AWS service tutorials and demos,2026-04-16,active
+CH1412,N015,Microsoft Azure,https://www.youtube.com/@MicrosoftAzure/,299000,2000,5000,Monologue/Screencast,en,US,Official Azure cloud platform tutorials,2026-04-16,active
+CH1413,N015,A Cloud Guru,https://www.youtube.com/@ACloudGuru/,300000,500,10000,Monologue/Screencast,en,US,Multi-cloud AWS Azure GCP training,2026-04-16,active
+CH1414,N015,Cloud Academy,https://www.youtube.com/@CloudAcademy/,100000,300,5000,Monologue/Screencast,en,US,Cloud certification training across providers,2026-04-16,active
+CH1415,N015,Docker,https://www.youtube.com/channel/UC76AVf2JkrwjxNKMuPpscHQ/,113000,300,10000,Monologue/Screencast,en,US,Official Docker container platform tutorials,2026-04-16,active
+CH1416,N015,CNCF (Cloud Native Computing Foundation),https://www.youtube.com/@caborncf/,200000,3000,5000,Monologue,en,US,KubeCon talks and cloud-native project updates,2026-04-16,active
+CH1417,N015,HashiCorp,https://www.youtube.com/@HashiCorp/,80000,500,5000,Monologue/Screencast,en,US,Terraform Vault Consul infrastructure tools,2026-04-16,active
+CH1418,N015,DevOps on Azure,https://www.youtube.com/channel/UC-ikyViYMM69joIAv7dlMsA/,49500,100,8000,Monologue/Screencast,en,US,Azure DevOps and GitHub Actions tutorials,2026-04-16,active
+CH1419,N015,CoderDave,https://www.youtube.com/channel/UCtiFg7r8WBBzC6xo-tfEYFw/,22100,100,5000,Monologue/Screencast,en,IT,Azure DevOps and CI/CD tutorials,2026-04-16,active
+CH1420,N015,DevOpsTV,https://www.youtube.com/channel/UC-zcE077X98oTEDPwKkDQxQ/,21000,200,3000,Monologue,en,US,DevOps industry talks and discussions,2026-04-16,active
+CH1421,N015,DevOps Coach,https://www.youtube.com/channel/UC50EWznOxjXe0w4fEvm7X5Q/,23500,100,5000,Monologue/Screencast,en,IN,DevOps career coaching and tutorials,2026-04-16,active
+CH1422,N015,DevOpsLearnEasy,https://www.youtube.com/channel/UCs4dFR-31isXFkNuYSBHgLg/,26500,100,5000,Monologue/Screencast,en,IN,Simplified DevOps learning tutorials,2026-04-16,active
+CH1423,N015,Mr. DevOps,https://www.youtube.com/channel/UCV4R0eN_xu57-t9VGK9KhRQ/,20800,80,5000,Monologue/Screencast,en,IN,DevOps tools and practice tutorials,2026-04-16,active
+CH1424,N015,DevOps Mela,https://www.youtube.com/channel/UCXFRJXjfcCffow556O2YNQ/,18500,80,3000,Monologue/Screencast,en,IN,DevOps festival of learning content,2026-04-16,active
+CH1425,N015,DevOps For Developers,https://www.youtube.com/channel/UC5ZFyTivwhmZXUcOoMavyAQ/,17900,80,3000,Monologue/Screencast,en,US,DevOps from developer perspective,2026-04-16,active
+CH1426,N015,DevopsWithShan,https://www.youtube.com/channel/UCg8dMhg5ackP1px--J2SMYg/,8300,50,2000,Monologue/Screencast,en,US,Practical DevOps tool tutorials,2026-04-16,active
+CH1427,N015,Simple DevOps,https://www.youtube.com/channel/UCPPIjmkbaopLMucC2fMs4fg/,4800,30,1500,Monologue/Screencast,en,IN,Simplified DevOps process tutorials,2026-04-16,active
+CH1428,N015,Simplilearn,https://www.youtube.com/@SimplilearnOfficial/,4000000,5000,50000,Monologue/Screencast,en,IN,DevOps and cloud certification courses,2026-04-16,active
+CH1429,N015,edureka!,https://www.youtube.com/@edaborea/,3500000,5000,30000,Monologue/Screencast,en,IN,AWS Azure Kubernetes structured courses,2026-04-16,active
+CH1430,N015,IBM Technology,https://www.youtube.com/channel/UCKWaEZ-_VweaEx1j62do_vQ/,1600000,1000,50000,Monologue,en,US,Enterprise cloud and DevOps concepts,2026-04-16,active
+CH1431,N015,Hussein Nasser,https://www.youtube.com/@haborein/,600000,600,30000,Monologue/Screencast,en,US,Backend infrastructure and cloud architecture,2026-04-16,active
+CH1432,N015,David Bombal,https://www.youtube.com/@DavidBombal/,2500000,800,50000,Monologue/Screencast,en,ZA,Networking Linux and cloud fundamentals,2026-04-16,active
+CH1433,N015,ThePrimeagen,https://www.youtube.com/@ThePrimeagen/,700000,500,100000,Monologue/Screencast,en,US,Infrastructure performance and cloud engineering,2026-04-16,active
+CH1434,N015,Dreams of Code,https://www.youtube.com/@dreamsofcode/,300000,80,100000,Monologue/Screencast,en,US,Developer infrastructure tooling tutorials,2026-04-16,active
+CH1435,N015,Go Cloud Architects,https://www.youtube.com/@GoCloudArchitects/,50000,100,5000,Monologue/Screencast,en,US,Cloud architect career training,2026-04-16,active
+CH1436,N015,AWS Events,https://www.youtube.com/@AWSEventsChannel/,300000,3000,10000,Monologue,en,US,AWS re:Invent and event talks,2026-04-16,active
+CH1437,N015,Academind,https://www.youtube.com/@academind/,1000000,1000,30000,Monologue/Screencast,en,DE,AWS and cloud deployment tutorials,2026-04-16,active
+CH1438,N015,Confluent,https://www.youtube.com/@Confluent/,50000,500,5000,Monologue/Screencast,en,US,Apache Kafka and event streaming infrastructure,2026-04-16,active
+CH1439,N015,Kubernetes,https://www.youtube.com/@Kubernetes/,300000,500,10000,Monologue/Screencast,en,US,Official Kubernetes project tutorials,2026-04-16,active
+CH1440,N015,Linux Academy,https://www.youtube.com/@LinuxAcademy/,200000,500,10000,Monologue/Screencast,en,US,Linux and cloud certification training,2026-04-16,active
+CH1441,N015,Learn Linux TV,https://www.youtube.com/@LearnLinuxTV/,400000,500,15000,Monologue/Screencast,en,US,Linux sysadmin and cloud infrastructure,2026-04-16,active
+CH1442,N015,Jeff Geerling,https://www.youtube.com/@JeffGeerling/,500000,300,50000,Monologue/Screencast,en,US,Ansible Kubernetes and Raspberry Pi infrastructure,2026-04-16,active
+CH1443,N015,Techno Tim,https://www.youtube.com/@TechnoTim/,600000,300,50000,Monologue/Screencast,en,US,Home lab and self-hosted cloud infrastructure,2026-04-16,active
+CH1444,N015,Christian Lempa,https://www.youtube.com/@ChristianLempa/,300000,200,30000,Monologue/Screencast,en,DE,Self-hosted DevOps and home lab tutorials,2026-04-16,active
+CH1445,N015,Stephane Maarek,https://www.youtube.com/@StephaneMaarek/,200000,200,20000,Monologue/Screencast,en,FR,AWS certification and Kafka tutorials,2026-04-16,active
+CH1446,N015,Jon Bonso - Tutorials Dojo,https://www.youtube.com/@TutorialsDojo/,100000,150,10000,Monologue/Screencast,en,PH,AWS Azure cloud certification prep,2026-04-16,active
+CH1447,N015,Nana Janashia,https://www.youtube.com/@NanaJanashia/,50000,50,15000,Monologue/Screencast,en,DE,Advanced DevOps and Kubernetes tutorials,2026-04-16,active
+CH1448,N015,Kodekloud - Mumshad Mannambeth,https://www.youtube.com/@mmumshad/,200000,200,15000,Monologue/Screencast,en,IN,Kubernetes and DevOps hands-on labs,2026-04-16,active
+CH1449,N015,Just Me and Opensource,https://www.youtube.com/@intJustmeandopensource/,100000,300,5000,Monologue/Screencast,en,IN,OpenStack Kubernetes and open-source cloud,2026-04-16,active
+CH1450,N015,Thetips4you,https://www.youtube.com/@Thetips4you/,80000,200,5000,Monologue/Screencast,en,IN,Jenkins and CI/CD pipeline tutorials,2026-04-16,active
+CH1451,N015,Anton Putra,https://www.youtube.com/@AntonPutra/,100000,100,15000,Monologue/Screencast,en,US,Kubernetes and cloud native tutorials,2026-04-16,active
+CH1452,N015,Azure DevOps by Rajeshkumar,https://www.youtube.com/channel/UCIHRqMTGXSdVw0CCYyFH1Hg/,3100,30,1000,Monologue/Screencast,en,IN,Azure DevOps specific tutorials,2026-04-16,active
+CH1453,N015,CodeWithHarry,https://www.youtube.com/@CodeWithHarry/,4800000,1600,200000,Monologue/Screencast,en,IN,DevOps and cloud tutorials in Hindi,2026-04-16,active
+CH1454,N015,Telusko,https://www.youtube.com/@Telusko/,1810000,1600,50000,Monologue/Screencast,en,IN,Docker and DevOps fundamentals,2026-04-16,active
+CH1455,N015,Hitesh Choudhary,https://www.youtube.com/@HiteshChoudhari/,1000000,1000,30000,Monologue/Screencast,en,IN,Cloud deployment and DevOps basics,2026-04-16,active
+CH1456,N015,Krish Naik,https://www.youtube.com/@krishnaik06/,1400000,1500,50000,Monologue/Screencast,en,IN,MLOps and cloud deployment for data science,2026-04-16,active
+CH1457,N015,Derek Banas,https://www.youtube.com/@deaborans/,1300000,1200,50000,Monologue/Screencast,en,US,Docker and cloud tech tutorials,2026-04-16,active
+CH1458,N015,Traversy Media,https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA/,2400000,900,200000,Monologue/Screencast,en,US,Deployment and cloud hosting tutorials,2026-04-16,active
+CH1459,N015,Low Level Learning,https://www.youtube.com/@LowLevelLearning/,700000,300,80000,Monologue/Screencast,en,US,Linux systems and container internals,2026-04-16,active
+CH1460,N015,Ben Awad,https://www.youtube.com/@benawad/,600000,500,50000,Monologue/Screencast,en,US,Cloud deployment for full-stack apps,2026-04-16,active
+CH1461,N015,Amigoscode,https://www.youtube.com/@amigoscode/,800000,200,80000,Monologue/Screencast,en,UK,Spring Boot cloud deployment tutorials,2026-04-16,active
+CH1462,N015,George Hotz,https://www.youtube.com/@gaborhuz/,500000,200,100000,Monologue/Screencast,en,US,Infrastructure hacking and cloud builds,2026-04-16,active
+CH1463,N015,Caleb Curry,https://www.youtube.com/@CalebCurry/,500000,500,30000,Monologue/Screencast,en,US,Cloud computing basics and DevOps intro,2026-04-16,active
+CH1464,N015,Google Developers,https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw/,2600000,5000,30000,Monologue/Screencast,en,US,GCP and Google cloud service tutorials,2026-04-16,active
+CH1465,N015,Microsoft Developer,https://www.youtube.com/@MicrosoftDeveloper/,800000,2000,10000,Monologue/Screencast,en,US,Azure and Microsoft cloud dev tools,2026-04-16,active
+CH1466,N015,Programming with Mosh,https://www.youtube.com/@programmingwithmosh/,4000000,800,300000,Monologue/Screencast,en,CA,Docker and cloud deployment fundamentals,2026-04-16,active
+CH1467,N015,Bro Code,https://www.youtube.com/@BroCodez/,2500000,500,200000,Monologue/Screencast,en,US,Linux and command-line fundamentals,2026-04-16,active
+CH1468,N015,Neso Academy,https://www.youtube.com/@nesoacademy/,2500000,1000,100000,Monologue/Screencast,en,IN,Operating systems and networking fundamentals,2026-04-16,active
+CH1469,N015,Coding Garden,https://www.youtube.com/@CodingGarden/,200000,400,15000,Monologue/Screencast,en,US,Live deployment and CI/CD sessions,2026-04-16,active
+CH1470,N015,anthonygg,https://www.youtube.com/@anthonygg_/,200000,200,30000,Monologue/Screencast,en,US,Go microservices Docker deployment,2026-04-16,active
+CH1471,N015,Jon Gjengset,https://www.youtube.com/@jonhoo/,100000,100,20000,Monologue/Screencast,en,US,Distributed systems and cloud native Rust,2026-04-16,active
+CH1472,N015,Jacob Sorber,https://www.youtube.com/@JacobSorber/,150000,300,20000,Monologue/Screencast,en,US,Linux systems programming and internals,2026-04-16,active
+CH1473,N015,Dave Gray,https://www.youtube.com/@DaveGrayTeachesCode/,300000,300,20000,Monologue/Screencast,en,US,Full-stack deployment to cloud platforms,2026-04-16,active
+CH1474,N015,InfoQ,https://www.youtube.com/@InfoQ/,200000,2000,10000,Monologue,en,US,DevOps and cloud architecture conference talks,2026-04-16,active
+CH1475,N015,CodingTech,https://www.youtube.com/@CodingTech/,300000,1000,20000,Monologue,en,US,DevOps conference talk compilations,2026-04-16,active
+CH1476,N015,The DevOps Toolkit,https://www.youtube.com/@DevOpsToolkit/,100000,300,10000,Monologue/Screencast,en,US,Real-world SRE and cloud infrastructure scenarios,2026-04-16,active
+CH1477,N015,Power DevOps,https://www.youtube.com/channel/UCVb0IrXyUIL6GT7TDdzV96w/,431,20,500,Monologue/Screencast,en,US,PowerShell DevOps automation tutorials,2026-04-16,active
+CH1478,N015,Azure DevOps TV,https://www.youtube.com/channel/UCKBbYpaqres7_sMo-7aD9Cw/,1700,20,500,Monologue/Screencast,en,US,Azure DevOps ecosystem tutorials,2026-04-16,active
+CH1479,N015,sentdex,https://www.youtube.com/@sentdex/,1400000,1200,40000,Monologue/Screencast,en,US,Python deployment and automation at scale,2026-04-16,active
+CH1480,N015,Forrest Knight,https://www.youtube.com/@ForrestKnight/,500000,200,100000,Monologue,en,US,Cloud career path and DevOps overview,2026-04-16,active
+CH1481,N015,Clever Programmer,https://www.youtube.com/@CleverProgrammer/,1300000,500,100000,Monologue/Screencast,en,US,Cloud deployment for web applications,2026-04-16,active
+CH1482,N015,ArjanCodes,https://www.youtube.com/@ArjanCodes/,500000,300,50000,Monologue/Screencast,en,NL,Python CI/CD and DevOps best practices,2026-04-16,active
+CH1483,N015,Codecademy,https://www.youtube.com/@codecademy/,200000,300,15000,Monologue/Screencast,en,US,Cloud computing learning paths,2026-04-16,active
+CH1484,N015,Andy Sterkowitz,https://www.youtube.com/@AndySterkowitz/,300000,300,30000,Monologue,en,US,DevOps career guidance for self-taught devs,2026-04-16,active
+CH1485,N015,Keep On Coding,https://www.youtube.com/@KeepOnCoding/,200000,200,15000,Monologue,en,US,Cloud career advice and DevOps learning,2026-04-16,active
+CH1486,N015,Kalle Hallden,https://www.youtube.com/@KalleHallden/,600000,200,100000,Monologue/Screencast,en,SE,Automation and cloud project builds,2026-04-16,active
+CH1487,N015,Dorian Develops,https://www.youtube.com/@DorianDevelops/,100000,150,15000,Monologue/Screencast,en,US,Cloud deployment tutorials,2026-04-16,active
+CH1488,N015,Gate Smashers,https://www.youtube.com/@GateSmashers/,3000000,1500,80000,Monologue/Screencast,en,IN,Cloud computing and networking concepts,2026-04-16,active
+CH1489,N015,Stefan Mischook,https://www.youtube.com/@StefanMischook/,200000,500,15000,Monologue,en,CA,Cloud hosting and deployment advice,2026-04-16,active
+CH1490,N015,LearnCode.academy,https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw/,765000,200,30000,Monologue/Screencast,en,US,Deployment and DevOps basics for web devs,2026-04-16,active
+CH1491,N015,thenewboston,https://www.youtube.com/@thenewboston/,2600000,4000,30000,Monologue/Screencast,en,US,Linux and cloud computing fundamentals,2026-04-16,active
+CH1492,N015,IAmTimCorey,https://www.youtube.com/@IAmTimCorey/,400000,500,30000,Monologue/Screencast,en,US,Azure and .NET cloud deployment,2026-04-16,active
+CH1493,N015,CodeBasics,https://www.youtube.com/@codebasics/,1000000,600,50000,Monologue/Screencast,en,IN,Cloud deployment for data science apps,2026-04-16,active
+CH1494,N015,CrashCourse Computer Science,https://www.youtube.com/@crashcourse/,15000000,1500,500000,Monologue,en,US,Networking and cloud computing basics,2026-04-16,active
+CH1495,N015,Computerphile,https://www.youtube.com/@Computerphile/,2500000,800,200000,Monologue,en,UK,Cloud security and infrastructure concepts,2026-04-16,active
+CH1496,N015,Jenny's Lectures CS IT,https://www.youtube.com/@JennyslecturesCSIT/,1500000,500,100000,Monologue/Screencast,en,IN,Networking and cloud computing lectures,2026-04-16,active
+CH1497,N015,Mike Dane,https://www.youtube.com/@MikeDane/,250000,200,30000,Monologue/Screencast,en,US,GIT and cloud tool fundamentals,2026-04-16,active
+CH1498,N015,Bukola,https://www.youtube.com/@Bukola1/,200000,100,50000,Monologue,en,US,Cloud engineering career guidance,2026-04-16,active
+CH1499,N015,Joma Tech,https://www.youtube.com/@JomaTech/,1800000,200,500000,Monologue,en,US,Cloud engineering from Big Tech perspective,2026-04-16,active
+CH1500,N015,TechLead,https://www.youtube.com/@TechLead/,1200000,300,200000,Monologue,en,US,Cloud architecture from ex-Google perspective,2026-04-16,active

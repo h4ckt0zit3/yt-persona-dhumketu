@@ -1,0 +1,101 @@
+channel_id,niche_id,channel_name,channel_url,subscriber_count,total_videos,avg_views,format_type,language,country,description,last_scraped,status
+CH4901,N050,Vsauce,https://www.youtube.com/@Vsauce,24700000,400,5000000,Monologue,en,US,Michael Stevens explores scientific and philosophical questions,,active
+CH4902,N050,Veritasium,https://www.youtube.com/@veritasium,16000000,350,8000000,Monologue,en,AU,Derek Muller explains counterintuitive science concepts,,active
+CH4903,N050,Kurzgesagt - In a Nutshell,https://www.youtube.com/@kurzgesagt,23000000,200,10000000,Animation/Narration,en,DE,Animated science explainers on complex topics,,active
+CH4904,N050,SciShow,https://www.youtube.com/@SciShow,7500000,3500,200000,Monologue,en,US,Hank Green team delivers frequent science explainers,,active
+CH4905,N050,MinutePhysics,https://www.youtube.com/@minutephysics,6000000,350,2000000,Animation/Narration,en,US,Hand-drawn animations explaining physics concepts,,active
+CH4906,N050,PBS Space Time,https://www.youtube.com/@pbsspacetime,3500000,500,500000,Monologue,en,US,Astrophysicist Matt O'Dowd covers advanced physics,,active
+CH4907,N050,SmarterEveryDay,https://www.youtube.com/@smartereveryday,12000000,400,3000000,Monologue,en,US,Destin Sandlin explores science through experiments,,active
+CH4908,N050,3Blue1Brown,https://www.youtube.com/@3blue1brown,6500000,150,4000000,Animation/Narration,en,US,Grant Sanderson visualizes math and science concepts,,active
+CH4909,N050,Professor Dave Explains,https://www.youtube.com/@ProfessorDaveExplains,4000000,600,200000,Monologue,en,US,Professor Dave covers science topics and debunks pseudoscience,,active
+CH4910,N050,Steve Mould,https://www.youtube.com/@SteveMould,3000000,200,2000000,Monologue,en,GB,Science communicator explaining everyday phenomena,,active
+CH4911,N050,AsapSCIENCE,https://www.youtube.com/@AsapSCIENCE,10500000,500,2000000,Animation/Narration,en,CA,Whiteboard-style science explainers on everyday questions,,active
+CH4912,N050,ElectroBOOM,https://www.youtube.com/@ElectroBOOM,7000000,200,5000000,Monologue,en,CA,Entertaining and educational electrical engineering experiments,,active
+CH4913,N050,Tibees,https://www.youtube.com/@Tibees,1500000,300,300000,Monologue,en,AU,Toby Hendy covers physics math and history of science,,active
+CH4914,N050,Domain of Science,https://www.youtube.com/@domainofscience,2500000,100,1000000,Monologue/Animation,en,GB,Dominic Walliman maps out scientific disciplines,,active
+CH4915,N050,The Science Asylum,https://www.youtube.com/@TheScienceAsylum,1200000,200,300000,Monologue,en,US,Nick Lucid explains physics concepts with humor,,active
+CH4916,N050,Arvin Ash,https://www.youtube.com/@ArvinAsh,1000000,300,200000,Monologue/Animation,en,US,Physics and cosmology concepts explained simply,,active
+CH4917,N050,Physics Girl,https://www.youtube.com/@physicsgirl,2500000,150,1000000,Monologue,en,US,Dianna Cowern demonstrates physics experiments,,active
+CH4918,N050,Scott Manley,https://www.youtube.com/@scottmanley,1700000,1500,200000,Monologue,en,US,Space science and rocket engineering explainer,,active
+CH4919,N050,Isaac Arthur,https://www.youtube.com/@isaacarthur,900000,400,200000,Monologue,en,US,Deep dives into futurism and space exploration concepts,,active
+CH4920,N050,Dr. Becky Smethurst,https://www.youtube.com/@DrBecky,1000000,400,200000,Monologue,en,GB,Oxford astrophysicist covers space news and black holes,,active
+CH4921,N050,CodysLab,https://www.youtube.com/@CodysLab,2500000,400,500000,Monologue,en,US,Hands-on science experiments in chemistry and mining,,active
+CH4922,N050,Applied Science,https://www.youtube.com/@AppliedScience,800000,150,500000,Monologue,en,US,Ben Krasnow builds and explains scientific instruments,,active
+CH4923,N050,Bozeman Science,https://www.youtube.com/@baborant,1200000,500,100000,Monologue,en,US,Paul Andersen covers AP science topics,,active
+CH4924,N050,Tyler DeWitt,https://www.youtube.com/@tdewitt451,700000,200,200000,Monologue,en,US,Enthusiastic chemistry and biology teacher,,active
+CH4925,N050,The Backyard Scientist,https://www.youtube.com/@TheBackyardScientist,6000000,200,3000000,Monologue,en,US,Exciting backyard science experiments,,active
+CH4926,N050,minuteearth,https://www.youtube.com/@minuteearth,3500000,300,500000,Animation/Narration,en,US,Short animated science videos about Earth and nature,,active
+CH4927,N050,NileRed,https://www.youtube.com/@NileRed,8000000,150,5000000,Monologue,en,CA,Chemistry experiments with detailed explanations,,active
+CH4928,N050,Up and Atom,https://www.youtube.com/@upandatom,600000,150,200000,Monologue,en,AU,Jade Tan-Holmes explains quantum physics and math,,active
+CH4929,N050,Sabine Hossenfelder,https://www.youtube.com/@SabineHossenfelder,1500000,400,500000,Monologue,en,DE,Physicist critiques and explains modern physics,,active
+CH4930,N050,Plasma Channel,https://www.youtube.com/@PlasmaChannel,500000,50,1000000,Monologue,en,US,High-energy physics experiments with visual flair,,active
+CH4931,N050,Fermilab,https://www.youtube.com/@fermilab,700000,600,100000,Monologue,en,US,Particle physics and cosmology from Fermilab scientists,,active
+CH4932,N050,Looking Glass Universe,https://www.youtube.com/@LookingGlassUniverse,300000,150,100000,Monologue,en,AU,Quantum physics and math explained intuitively,,active
+CH4933,N050,Real Engineering,https://www.youtube.com/@RealEngineering,4000000,150,2000000,Monologue/Animation,en,IE,Engineering and science documentary-style explainers,,active
+CH4934,N050,Mark Rober,https://www.youtube.com/@MarkRober,47000000,120,30000000,Monologue,en,US,Former NASA engineer builds science-based projects,,active
+CH4935,N050,Answers with Joe,https://www.youtube.com/@joescott,1500000,500,200000,Monologue,en,US,Joe Scott answers big science and tech questions,,active
+CH4936,N050,Practical Engineering,https://www.youtube.com/@PracticalEngineering,4000000,200,1500000,Monologue,en,US,Grady Hillhouse explains civil engineering concepts,,active
+CH4937,N050,The Action Lab,https://www.youtube.com/@TheActionLab,6000000,500,1000000,Monologue,en,US,Hands-on science experiments and demonstrations,,active
+CH4938,N050,Thought Emporium,https://www.youtube.com/@thethoughtemporium,600000,100,500000,Monologue,en,CA,DIY science projects from biotech to materials,,active
+CH4939,N050,Alpha Phoenix,https://www.youtube.com/@AlphaPhoenix,700000,80,500000,Monologue,en,US,Deep science investigations with visual experiments,,active
+CH4940,N050,Joe Hanson - Its Okay To Be Smart,https://www.youtube.com/@besmart,4000000,400,500000,Monologue,en,US,PBS science exploration with Joe Hanson,,active
+CH4941,N050,Numberphile,https://www.youtube.com/@numberphile,4500000,700,500000,Monologue,en,GB,Brady Haran interviews mathematicians about numbers,,active
+CH4942,N050,StarTalk,https://www.youtube.com/@StarTalk,2500000,1500,100000,Interview/Monologue,en,US,Neil deGrasse Tyson discusses science topics,,active
+CH4943,N050,Periodic Videos,https://www.youtube.com/@periodicvideos,1700000,700,200000,Monologue,en,GB,Brady Haran covers every element on the periodic table,,active
+CH4944,N050,Sixty Symbols,https://www.youtube.com/@sixtysymbols,800000,400,150000,Monologue,en,GB,Physicists and astronomers discuss symbols and concepts,,active
+CH4945,N050,Two Minute Papers,https://www.youtube.com/@TwoMinutePapers,1500000,600,300000,Monologue,en,HU,Karoly Zsolnai-Feher covers research papers,,active
+CH4946,N050,Astrum,https://www.youtube.com/@astrumspace,1200000,200,500000,Monologue,en,GB,Alex McColgan explores the solar system and beyond,,active
+CH4947,N050,Deep Sky Videos,https://www.youtube.com/@DeepSkyVideos,300000,250,80000,Monologue,en,GB,Astronomers explain deep space objects,,active
+CH4948,N050,Computerphile,https://www.youtube.com/@Computerphile,2500000,800,200000,Monologue,en,GB,Computer science concepts explained by experts,,active
+CH4949,N050,BrainCraft,https://www.youtube.com/@BrainCraft,500000,200,100000,Monologue,en,AU,Vanessa Hill covers psychology and neuroscience,,active
+CH4950,N050,SciShow Space,https://www.youtube.com/@SciShowSpace,2000000,600,100000,Monologue,en,US,Space science news and explainers,,active
+CH4951,N050,Dr. Ben Miles,https://www.youtube.com/@DrBenMiles,300000,200,100000,Monologue,en,GB,Nanotechnology and futuristic science research,,active
+CH4952,N050,Gross Science,https://www.youtube.com/@grossscience,500000,100,200000,Monologue,en,US,Anna Rothschild explores the science of gross things,,active
+CH4953,N050,GREENPOWERSCIENCE,https://www.youtube.com/@greenpowerscience,600000,500,200000,Monologue,en,US,Solar and green energy science experiments,,active
+CH4954,N050,Science News,https://www.youtube.com/@ScienceNews,400000,500,50000,Monologue,en,US,Science journalism and research news,,active
+CH4955,N050,SciFri,https://www.youtube.com/@scifri,200000,800,20000,Monologue/Interview,en,US,Science Friday clips and science news,,active
+CH4956,N050,Science At NASA,https://www.youtube.com/@ScienceAtNASA,200000,300,50000,Monologue,en,US,NASA science research videos,,active
+CH4957,N050,National Science Foundation,https://www.youtube.com/@NSF,200000,500,20000,Monologue,en,US,Official NSF science research highlights,,active
+CH4958,N050,Freesciencelessons,https://www.youtube.com/@Freesciencelessons,500000,800,50000,Monologue,en,GB,GCSE and A-level science revision videos,,active
+CH4959,N050,Science with Hazel,https://www.youtube.com/@SciencewithHazel,200000,300,50000,Monologue,en,GB,GCSE science revision and explanations,,active
+CH4960,N050,Science and Maths by Primrose Kitten,https://www.youtube.com/@PrimroseKitten,400000,1000,50000,Monologue,en,GB,GCSE science and maths revision,,active
+CH4961,N050,MooMoo Math and Science,https://www.youtube.com/@MooMooMathAndScience,300000,600,30000,Monologue/Animation,en,US,Quick science and math concept explanations,,active
+CH4962,N050,Homemade Science with Bruce Yeany,https://www.youtube.com/@YeanyScience,200000,400,100000,Monologue,en,US,Physics teacher demonstrates homemade experiments,,active
+CH4963,N050,Gabe Poser PoseKnows Biology,https://www.youtube.com/@poseknowsbio,50000,100,10000,Monologue,en,US,Biology education and explanations,,active
+CH4964,N050,Richard Thornley,https://www.youtube.com/@ibchemvids,150000,500,30000,Monologue,en,CA,IB Chemistry video lessons,,active
+CH4965,N050,SEA,https://www.youtube.com/@SEA_space,500000,100,500000,Monologue/Animation,en,US,Space exploration and astrophysics animations,,active
+CH4966,N050,Brainiac75,https://www.youtube.com/@Brainiac75,300000,200,200000,Monologue,en,SE,Magnets optics and physics experiments,,active
+CH4967,N050,Keystone Science,https://www.youtube.com/@KeystoneScience,100000,150,30000,Monologue,en,US,Earth science and geology explanations,,active
+CH4968,N050,Science Simplified,https://www.youtube.com/@ScienceSimplified5,50000,100,20000,Monologue,en,US,Breaking down science into simple terms,,active
+CH4969,N050,Explanimator,https://www.youtube.com/@Explanimator,50000,30,50000,Animation/Narration,en,US,Animated science and technology explainers,,active
+CH4970,N050,Science Talk with Jim Massa,https://www.youtube.com/@ScienceTalkwithJimMassa,20000,100,5000,Monologue,en,US,Science discussions and commentary,,active
+CH4971,N050,Science Shorts,https://www.youtube.com/@ScienceShorts,50000,200,20000,Monologue,en,US,Quick science fact videos,,active
+CH4972,N050,Science IRL,https://www.youtube.com/@ScienceIRL,100000,100,50000,Monologue,en,US,Real-life science experiments and demonstrations,,active
+CH4973,N050,Your Science Teacher,https://www.youtube.com/@YourScienceTeacher,50000,200,10000,Monologue,en,US,Classroom science lessons online,,active
+CH4974,N050,Coconut Science Lab,https://www.youtube.com/@CoconutScienceLab,50000,100,20000,Monologue,en,US,DIY science experiments,,active
+CH4975,N050,Step by Step Science,https://www.youtube.com/@StepByStepScience,100000,100,50000,Monologue,en,US,Simple science explanations step by step,,active
+CH4976,N050,WhizKidScience,https://www.youtube.com/@WhizKidScience,50000,100,10000,Monologue,en,US,Science experiments for young learners,,active
+CH4977,N050,Adventures in ISTEM,https://www.youtube.com/@adventuresinISTEM1,30000,100,10000,Monologue,en,US,STEM education adventures,,active
+CH4978,N050,Weird Science,https://www.youtube.com/@WeirdScience,30000,50,20000,Monologue,en,US,Strange and unusual science facts,,active
+CH4979,N050,GOODTECH Creativity and Science,https://www.youtube.com/@GOODTECH,100000,200,30000,Monologue,en,IN,Science creativity and innovation,,active
+CH4980,N050,Joaos Lab,https://www.youtube.com/@JoaosLab,50000,50,20000,Monologue,en,BR,Science experiments and demonstrations,,active
+CH4981,N050,Michelle Labs,https://www.youtube.com/@MichelleLabs,30000,50,10000,Monologue,en,US,Science experiments at home,,active
+CH4982,N050,HighSchoolScience101,https://www.youtube.com/@HighSchoolScience101,30000,200,5000,Monologue,en,US,High school level science lessons,,active
+CH4983,N050,This Week in Science,https://www.youtube.com/@twiscience,30000,500,5000,Monologue,en,US,Weekly science news roundup,,active
+CH4984,N050,Nottingham Science,https://www.youtube.com/@nottinghamscience,100000,200,20000,Monologue,en,GB,University of Nottingham science outreach,,active
+CH4985,N050,Live Science Videos,https://www.youtube.com/@livescience,100000,300,30000,Monologue,en,US,Science news and discoveries,,active
+CH4986,N050,Weizmann Institute of Science,https://www.youtube.com/@WeizmannInstitute,50000,300,10000,Monologue,en,IL,Research highlights from Weizmann Institute,,active
+CH4987,N050,Nature of Science,https://www.youtube.com/@NatureOfScience,30000,100,10000,Monologue,en,US,Understanding how science works,,active
+CH4988,N050,New York Hall Of Science,https://www.youtube.com/@nysci,20000,100,5000,Monologue,en,US,Science museum educational content,,active
+CH4989,N050,Acapella Science,https://www.youtube.com/@acapellascience,300000,50,500000,Monologue,en,US,Science through acapella musical parodies,,active
+CH4990,N050,Science4All,https://www.youtube.com/@Science4All,150000,200,20000,Monologue,fr,FR,French channel covering math and science,,active
+CH4991,N050,EO Open Science,https://www.youtube.com/@EOOpenScience,20000,100,5000,Monologue,en,NL,European open science geosciences,,active
+CH4992,N050,Molten Science,https://www.youtube.com/@MoltenScience,30000,50,20000,Monologue,en,US,Melting and material science experiments,,active
+CH4993,N050,d'Art of Science,https://www.youtube.com/@dArtOfScience,20000,50,10000,Monologue,en,US,Art and science intersection,,active
+CH4994,N050,Chemistry Files,https://www.youtube.com/@ChemistryFiles,50000,100,10000,Monologue,en,US,Chemistry concepts and reactions explained,,active
+CH4995,N050,UNC-TV Science,https://www.youtube.com/@UNCTVScience,20000,200,5000,Monologue,en,US,North Carolina public TV science,,active
+CH4996,N050,The Science Elf,https://www.youtube.com/@TheScienceElf,20000,50,5000,Monologue,en,US,Fun science education content,,active
+CH4997,N050,Dissident Science,https://www.youtube.com/@DissidentScience,20000,100,5000,Monologue,en,US,Alternative perspectives on scientific questions,,active
+CH4998,N050,InnovatioCuris Team,https://www.youtube.com/@InnovatioCuris,20000,100,5000,Monologue,en,IN,Innovation and science education,,active
+CH4999,N050,420ScienceClub,https://www.youtube.com/@420ScienceClub,100000,100,50000,Monologue,en,US,Science of materials and accessories,,active
+CH5000,N050,Passe-Science,https://www.youtube.com/@PasseScience,50000,100,10000,Monologue,fr,FR,French science education channel,,active

@@ -1,0 +1,101 @@
+channel_id,niche_id,channel_name,channel_url,subscriber_count,total_videos,avg_views,format_type,language,country,description,last_scraped,status
+CH4001,N041,Cal Newport (official),https://www.youtube.com/@CalNewport,300000,200,30000,Monologue,en,US,Deep Work and Digital Minimalism author on focused productivity,2026-04-16,active
+CH4002,N041,Ali Abdaal (deep work),https://www.youtube.com/@aliabdaal,5000000,500,500000,Monologue,en,GB,Doctor on evidence-based deep work and focus strategies,2026-04-16,active
+CH4003,N041,Thomas Frank (focus),https://www.youtube.com/@Thomasfrank,3000000,500,300000,Monologue,en,US,Deep work environments and focus system tutorials,2026-04-16,active
+CH4004,N041,Matt D Avella (focus),https://www.youtube.com/@MattDAvella,3500000,300,500000,Monologue,en,US,Experiments in deep work focus and digital minimalism,2026-04-16,active
+CH4005,N041,Better Ideas,https://www.youtube.com/@BetterIdeas,2000000,100,300000,Monologue,en,CA,Joey Schweitzer on focus dopamine and deep work philosophy,2026-04-16,active
+CH4006,N041,Nathaniel Drew (focus),https://www.youtube.com/@NathanielDrew,1500000,200,200000,Monologue,en,US,Deep focus mindfulness and intentional attention management,2026-04-16,active
+CH4007,N041,August Bradley (focus systems),https://www.youtube.com/@AugustBradley,200000,100,30000,Monologue,en,US,Life design systems for deep work and sustained focus,2026-04-16,active
+CH4008,N041,Tiago Forte (deep work),https://www.youtube.com/@TiagoForte,300000,200,20000,Monologue,en,US,Building a Second Brain for better focus and deep work,2026-04-16,active
+CH4009,N041,Keep Productive (focus tools),https://www.youtube.com/@KeepProductive,400000,1000,15000,Monologue,en,GB,Focus tools and distraction-blocking app reviews,2026-04-16,active
+CH4010,N041,CGP Grey (focus philosophy),https://www.youtube.com/@CGPGrey,6000000,200,2000000,Monologue,en,GB,Theme-based productivity and focus systems philosophy,2026-04-16,active
+CH4011,N041,Rian Doris (Flow Research),https://www.youtube.com/@RianDoris,100000,50,10000,Monologue,en,US,Flow Research Collective on flow states and deep focus,2026-04-16,active
+CH4012,N041,Steven Kotler,https://www.youtube.com/@StevenKotler,100000,100,10000,Monologue,en,US,Flow expert and author on peak performance and deep focus,2026-04-16,active
+CH4013,N041,Andrew Huberman (focus),https://www.youtube.com/@hubermanlab,5000000,300,1000000,Monologue,en,US,Neuroscientist on focus neurochemistry and attention protocols,2026-04-16,active
+CH4014,N041,Elizabeth Filips (focus),https://www.youtube.com/@ElizabethFilips,500000,100,80000,Monologue,en,GB,Medical student on dopamine-driven deep focus strategies,2026-04-16,active
+CH4015,N041,James Scholz (deep focus),https://www.youtube.com/@JamesScholz,100000,100,10000,Monologue,en,US,12-hour study day deep focus and concentration techniques,2026-04-16,active
+CH4016,N041,Improvement Pill (focus),https://www.youtube.com/@ImprovementPill,3000000,200,200000,Monologue,en,US,Dopamine detox and focus science animated education,2026-04-16,active
+CH4017,N041,Better Than Yesterday (focus),https://www.youtube.com/@BetterThanYesterday,2000000,100,500000,Monologue,en,US,Animated focus and attention science education,2026-04-16,active
+CH4018,N041,Struthless (focus),https://www.youtube.com/@Struthless,1500000,200,200000,Monologue,en,AU,Creative deep work and overcoming distraction with humor,2026-04-16,active
+CH4019,N041,Captain Sinbad (focus),https://www.youtube.com/@CaptainSinbad,500000,100,100000,Monologue,en,CA,Cinematic deep work philosophy and focus education,2026-04-16,active
+CH4020,N041,Simon Sinek (focus),https://www.youtube.com/@SimonSinek,4000000,500,100000,Monologue,en,US,Start With Why - focused purposeful work and leadership,2026-04-16,active
+CH4021,N041,Chris Williamson (focus),https://www.youtube.com/@ChrisWillx,2000000,500,100000,Monologue/Interview,en,GB,Interviews with experts on focus attention and deep work,2026-04-16,active
+CH4022,N041,Dan Koe (focus),https://www.youtube.com/@DanKoe,1000000,200,100000,Monologue,en,US,Focused one-person business and deep creative work,2026-04-16,active
+CH4023,N041,Justin Sung (deep learning),https://www.youtube.com/@JustinSung,500000,200,30000,Monologue,en,AU,Deep learning strategies and focused study techniques,2026-04-16,active
+CH4024,N041,Cajun Koi Academy (focus),https://www.youtube.com/@CajunKoiAcademy,200000,100,15000,Monologue,en,US,Active recall and focused learning techniques,2026-04-16,active
+CH4025,N041,Shu Omi (focus tools),https://www.youtube.com/@ShuOmi,300000,200,20000,Monologue,en,JP,Note-taking for deep work and focused learning,2026-04-16,active
+CH4026,N041,Nicole van der Hoeven (PKM),https://www.youtube.com/@NicoleVanDerHoeven,100000,300,5000,Monologue,en,NL,PKM systems for deep work and focused knowledge work,2026-04-16,active
+CH4027,N041,Bryan Jenks (Obsidian),https://www.youtube.com/@BryanJenks,50000,200,3000,Monologue,en,US,Obsidian workflows for deep work and focus,2026-04-16,active
+CH4028,N041,Linking Your Thinking,https://www.youtube.com/@LinkingYourThinking,200000,100,15000,Monologue,en,US,Nick Milo on PKM for deeper thinking and focus,2026-04-16,active
+CH4029,N041,Cortex Podcast,https://www.youtube.com/@CortexPodcast,100000,200,10000,Monologue,en,GB,Myke Hurley and Grey on focus systems and work environments,2026-04-16,active
+CH4030,N041,Jeff Su (deep work),https://www.youtube.com/@JeffSu,1000000,200,200000,Monologue,en,US,Corporate deep work strategies and email management,2026-04-16,active
+CH4031,N041,Rowena Tsai (intentional focus),https://www.youtube.com/@RowenaTsai,500000,200,30000,Monologue,en,US,Intentional focus and digital minimalism lifestyle,2026-04-16,active
+CH4032,N041,Oliur (minimal focus),https://www.youtube.com/@Oliur,500000,200,30000,Monologue,en,GB,Minimal workspace design for deep focus and work,2026-04-16,active
+CH4033,N041,John Fish (deep work),https://www.youtube.com/@JohnFish,500000,200,30000,Monologue,en,CA,Harvard philosophy of deep work and focused learning,2026-04-16,active
+CH4034,N041,Peter McKinnon (creative focus),https://www.youtube.com/@PeterMcKinnon,6000000,500,200000,Monologue,en,CA,Creative deep work and focused photography workflow,2026-04-16,active
+CH4035,N041,Rachel Aust (minimal focus),https://www.youtube.com/@RachelAust,400000,200,20000,Monologue,en,AU,Minimalist approach to deep work and focused living,2026-04-16,active
+CH4036,N041,Ruby Granger (study focus),https://www.youtube.com/@RubyGranger,1000000,400,50000,Monologue,en,GB,Intensive study routines and deep focus techniques,2026-04-16,active
+CH4037,N041,UnJaded Jade (academic focus),https://www.youtube.com/@UnJadedJade,500000,200,30000,Monologue,en,GB,Cambridge student deep focus and academic concentration,2026-04-16,active
+CH4038,N041,Jack Edwards (study focus),https://www.youtube.com/@JackEdwards,800000,200,50000,Monologue,en,GB,English student deep reading and focused study habits,2026-04-16,active
+CH4039,N041,Ankur Warikoo (focus),https://www.youtube.com/@warikoo,5000000,500,200000,Monologue,en,IN,Focus and deep work education for Indian professionals,2026-04-16,active
+CH4040,N041,James Clear (focus habits),https://www.youtube.com/@JamesClear,200000,50,20000,Monologue,en,US,Atomic Habits applied to deep work and focus building,2026-04-16,active
+CH4041,N041,How to ADHD (focus),https://www.youtube.com/@HowtoADHD,1500000,200,200000,Monologue,en,US,Focus strategies specifically for ADHD brains,2026-04-16,active
+CH4042,N041,HealthyGamerGG (focus),https://www.youtube.com/@HealthyGamerGG,1500000,500,200000,Monologue,en,US,Dr. K on attention dopamine and focus for gamers,2026-04-16,active
+CH4043,N041,Hamza Ahmed (focus),https://www.youtube.com/@Hamza97,2500000,300,200000,Monologue,en,GB,Masculine focus discipline and deep work for young men,2026-04-16,active
+CH4044,N041,Einzelganger (focus),https://www.youtube.com/@Einzelganger,2000000,200,200000,Monologue,en,NL,Stoic and philosophical approach to focus and solitude,2026-04-16,active
+CH4045,N041,Academy of Ideas (focus),https://www.youtube.com/@AcademyofIdeas,1500000,200,200000,Monologue,en,US,Philosophical essays on attention focus and intellectual work,2026-04-16,active
+CH4046,N041,Practical Psychology (focus),https://www.youtube.com/@PracticalPsychology,3500000,300,200000,Monologue,en,US,Psychology of attention and focus animated education,2026-04-16,active
+CH4047,N041,Art of Improvement (focus),https://www.youtube.com/@ArtOfImprovement,2000000,200,200000,Monologue,en,US,Animated deep work and focus habit building,2026-04-16,active
+CH4048,N041,Mel Robbins (focus),https://www.youtube.com/@MelRobbins,4000000,500,300000,Monologue,en,US,5 Second Rule for breaking distraction and gaining focus,2026-04-16,active
+CH4049,N041,Jay Shetty (focus),https://www.youtube.com/@JayShetty,4000000,500,200000,Monologue,en,US,Monk mindset for deep focus and purposeful concentration,2026-04-16,active
+CH4050,N041,Brendon Burchard (focus),https://www.youtube.com/@BrendonBurchard,2000000,1000,30000,Monologue,en,US,High performance focus habits and prolific quality output,2026-04-16,active
+CH4051,N041,Psych2Go (attention),https://www.youtube.com/@Psych2Go,11000000,1500,300000,Monologue,en,US,Psychology of attention and focus in animated format,2026-04-16,active
+CH4052,N041,Mindvalley (focus),https://www.youtube.com/@Mindvalley,3000000,1000,50000,Monologue,en,US,Focus and flow state education from personal growth platform,2026-04-16,active
+CH4053,N041,Brian Tracy (focus),https://www.youtube.com/@BrianTracy,1500000,1000,20000,Monologue,en,US,Single-handling and focus strategies for professionals,2026-04-16,active
+CH4054,N041,Tony Robbins (focus),https://www.youtube.com/@TonyRobbins,2000000,500,30000,Monologue,en,US,Peak state and focus strategies for high performance,2026-04-16,active
+CH4055,N041,FranklinCovey (focus),https://www.youtube.com/@FranklinCovey,200000,500,5000,Monologue,en,US,Big rocks methodology and focus-first work planning,2026-04-16,active
+CH4056,N041,Tim Ferriss (focus),https://www.youtube.com/@TimFerriss,1000000,500,30000,Monologue/Interview,en,US,Expert interviews on focus strategies and deep work,2026-04-16,active
+CH4057,N041,Kharma Medic (focus),https://www.youtube.com/@KharmaMedic,500000,200,30000,Monologue,en,GB,Medical student focus systems and deep study techniques,2026-04-16,active
+CH4058,N041,Ibz Mo (deep study),https://www.youtube.com/@IbzMo,500000,200,30000,Monologue,en,GB,Medical student deep study and focus optimization,2026-04-16,active
+CH4059,N041,Amy Landino (morning focus),https://www.youtube.com/@AmyLandino,400000,500,15000,Monologue,en,US,Morning routines for deep work and daily focus,2026-04-16,active
+CH4060,N041,Lavendaire (focused living),https://www.youtube.com/@Lavendaire,2000000,500,100000,Monologue,en,US,Intentional focus and mindful productive living,2026-04-16,active
+CH4061,N041,Sara Dietschy (creator focus),https://www.youtube.com/@SaraDietschy,800000,300,30000,Monologue,en,US,Creative deep work and focus for content creators,2026-04-16,active
+CH4062,N041,Pick Up Limes (focused living),https://www.youtube.com/@PickUpLimes,4000000,400,500000,Monologue,en,CA,Mindful focused living and intentional attention,2026-04-16,active
+CH4063,N041,Sahil Bloom (focus),https://www.youtube.com/@SahilBloom,200000,100,15000,Monologue,en,US,Focus frameworks and deep work for entrepreneurs,2026-04-16,active
+CH4064,N041,Mariana Study Corner (focus),https://www.youtube.com/@MarianaStudyCorner,500000,300,30000,Monologue,en,PT,Study focus techniques and concentration strategies,2026-04-16,active
+CH4065,N041,Janice Studies (focus),https://www.youtube.com/@JaniceStudies,500000,200,30000,Monologue,en,CA,Study with me and deep focus concentration content,2026-04-16,active
+CH4066,N041,Life of Riza (med focus),https://www.youtube.com/@LifeOfRiza,100000,100,10000,Monologue,en,AU,Medical student deep study and focus optimization,2026-04-16,active
+CH4067,N041,Zach Highley (engineering focus),https://www.youtube.com/@ZachHighley,200000,100,15000,Monologue,en,US,Engineering student deep work and focus techniques,2026-04-16,active
+CH4068,N041,Zain Asif (medical focus),https://www.youtube.com/@ZainAsif,100000,80,10000,Monologue,en,GB,Medical student deep work and intensive study focus,2026-04-16,active
+CH4069,N041,Lana Blakely (creative focus),https://www.youtube.com/@LanaBlakely,300000,200,20000,Monologue,en,GB,Creative focus and deep work for content creators,2026-04-16,active
+CH4070,N041,Ruri Ohama (minimal focus),https://www.youtube.com/@RuriOhama,100000,100,10000,Monologue,en,JP,Japanese minimalist focus and deep work philosophy,2026-04-16,active
+CH4071,N041,Lefie (aesthetic focus),https://www.youtube.com/@Lefie,100000,50,15000,Monologue,en,KR,Aesthetic study focus and deep work environment design,2026-04-16,active
+CH4072,N041,StudyTee (focused study),https://www.youtube.com/@StudyTee,100000,80,10000,Monologue,en,US,Deep focus study techniques and concentration methods,2026-04-16,active
+CH4073,N041,Holly Priestley (study focus),https://www.youtube.com/@HollyPriestley,100000,100,10000,Monologue,en,GB,Student deep focus and study concentration tips,2026-04-16,active
+CH4074,N041,Heli Ved (deep focus),https://www.youtube.com/@HeliVed,100000,80,10000,Monologue,en,IN,Indian student deep focus and concentration techniques,2026-04-16,active
+CH4075,N041,Carl Pullein (focus),https://www.youtube.com/@CarlPullein,200000,500,10000,Monologue,en,KR,Time sector system for deep work and focus,2026-04-16,active
+CH4076,N041,Paul Minors (focused work),https://www.youtube.com/@PaulMinors,100000,300,5000,Monologue,en,NZ,Time blocking and focused work system education,2026-04-16,active
+CH4077,N041,Asian Efficiency (deep work),https://www.youtube.com/@AsianEfficiency,100000,200,5000,Monologue,en,US,Deep work rituals and focus optimization systems,2026-04-16,active
+CH4078,N041,Play Simpletivity (focus),https://www.youtube.com/@Simpletivity,400000,500,15000,Monologue,en,US,Focus tools and distraction management software reviews,2026-04-16,active
+CH4079,N041,David Allen GTD (focus),https://www.youtube.com/@DavidAllenGTD,100000,100,5000,Monologue,en,US,GTD methodology for mental clarity and focused work,2026-04-16,active
+CH4080,N041,Reysu (aesthetic deep work),https://www.youtube.com/@Reysu,100000,50,15000,Monologue,en,US,Aesthetic deep work environment and focus content,2026-04-16,active
+CH4081,N041,Productive Dude (focus),https://www.youtube.com/@ProductiveDude,50000,80,3000,Monologue,en,US,Practical deep work and focus tips for men,2026-04-16,active
+CH4082,N041,Khe Hy RadReads (focus),https://www.youtube.com/@KheHy,50000,100,3000,Monologue,en,US,$10K work concept and deep focus philosophy,2026-04-16,active
+CH4083,N041,Mike and Matty (study focus),https://www.youtube.com/@MikeAndMatty,200000,200,15000,Monologue,en,GB,Study motivation and deep focus techniques,2026-04-16,active
+CH4084,N041,Simon Alexander Ong (focus),https://www.youtube.com/@SimonAlexanderOng,30000,50,3000,Monologue,en,GB,Energy management for sustained focus and deep work,2026-04-16,active
+CH4085,N041,Dotto Tech (focus apps),https://www.youtube.com/@DottoTech,400000,1000,10000,Monologue,en,CA,Focus and distraction-blocking app tutorials,2026-04-16,active
+CH4086,N041,Productivityist (focused work),https://www.youtube.com/@Productivityist,50000,200,3000,Monologue,en,US,Mike Vardy on time theming for focused work blocks,2026-04-16,active
+CH4087,N041,Notion (deep work templates),https://www.youtube.com/@Notion,300000,200,20000,Monologue,en,US,Notion templates and systems for deep work,2026-04-16,active
+CH4088,N041,Todoist (focus features),https://www.youtube.com/@Todoist,100000,200,5000,Monologue,en,US,Task management for focused work and priority systems,2026-04-16,active
+CH4089,N041,Organized Audrey (focus spaces),https://www.youtube.com/@OrganizedAudrey,50000,100,3000,Monologue,en,US,Organizing spaces for deep work and focused productivity,2026-04-16,active
+CH4090,N041,Full Spectrum Productivity (focus),https://www.youtube.com/@FullSpectrumProductivity,30000,80,2000,Monologue,en,US,Holistic approach to deep focus and meaningful work,2026-04-16,active
+CH4091,N041,Productivity Academy (focus),https://www.youtube.com/@ProductivityAcademy,30000,200,2000,Monologue,en,US,Focus systems and deep work routines,2026-04-16,active
+CH4092,N041,Granger Productivity (focus),https://www.youtube.com/@GrangerProductivity,30000,80,2000,Monologue,en,US,Study focus techniques and concentration improvement,2026-04-16,active
+CH4093,N041,Wisdom Productivity (focus),https://www.youtube.com/@WisdomProductivity,20000,50,2000,Monologue,en,US,Academic deep work and scholarly focus strategies,2026-04-16,active
+CH4094,N041,Productivity Tube (focus),https://www.youtube.com/@ProductivityTube,20000,50,2000,Monologue,en,US,Focus tool tutorials and deep work system guides,2026-04-16,active
+CH4095,N041,Samuel Thomas Davies (deep work),https://www.youtube.com/@SamuelThomasDavies,30000,50,3000,Monologue,en,GB,Deep Work book implementation and focus strategies,2026-04-16,active
+CH4096,N041,Mike Strives (focus),https://www.youtube.com/@MikeStrives,50000,100,3000,Monologue,en,US,Focus and deep work for ambitious professionals,2026-04-16,active
+CH4097,N041,All in Good Time (focus),https://www.youtube.com/@AllInGoodTime,30000,80,2000,Monologue,en,US,Time management for deep focused work blocks,2026-04-16,active
+CH4098,N041,Business Productivity (focus),https://www.youtube.com/@BusinessProductivity,30000,100,2000,Monologue,en,US,Business deep work and professional focus strategies,2026-04-16,active
+CH4099,N041,Carson Tate (focus styles),https://www.youtube.com/@CarsonTate,20000,50,2000,Monologue,en,US,Work Simply - understanding personal focus styles,2026-04-16,active
+CH4100,N041,Jake Knapp (focused sprint),https://www.youtube.com/@JakeKnapp,50000,50,5000,Monologue,en,US,Design Sprint and Make Time for focused creative work,2026-04-16,active

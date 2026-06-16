@@ -1,0 +1,101 @@
+channel_id,niche_id,channel_name,channel_url,subscriber_count,total_videos,avg_views,format_type,language,country,description,last_scraped,status
+CH1501,N016,John Hammond,https://www.youtube.com/@_JohnHammond/,2100000,800,100000,Monologue/Screencast,en,US,Malware analysis threat breakdowns and CTF walkthroughs,2026-04-16,active
+CH1502,N016,NetworkChuck,https://www.youtube.com/@NetworkChuck/,4300000,500,200000,Monologue/Screencast,en,US,Networking Linux and cybersecurity for beginners,2026-04-16,active
+CH1503,N016,David Bombal,https://www.youtube.com/@DavidBombal/,2500000,800,50000,Monologue/Screencast,en,ZA,Networking ethical hacking and certification prep,2026-04-16,active
+CH1504,N016,The Cyber Mentor (TCM),https://www.youtube.com/@TCMSecurityAcademy/,800000,400,50000,Monologue/Screencast,en,US,Hands-on penetration testing and offensive security,2026-04-16,active
+CH1505,N016,Professor Messer,https://www.youtube.com/@professormesser/,1500000,1000,50000,Monologue/Screencast,en,US,Security+ and CompTIA certification training,2026-04-16,active
+CH1506,N016,LiveOverflow,https://www.youtube.com/@LiveOverflow/,1000000,300,80000,Monologue/Screencast,en,DE,Binary exploitation and vulnerability research,2026-04-16,active
+CH1507,N016,Hak5,https://www.youtube.com/@hak5/,800000,1000,30000,Monologue/Screencast,en,US,Hardware hacking tools and practical security demos,2026-04-16,active
+CH1508,N016,HackerSploit,https://www.youtube.com/@HackerSploit/,800000,500,30000,Monologue/Screencast,en,UK,Ethical hacking and penetration testing frameworks,2026-04-16,active
+CH1509,N016,IppSec,https://www.youtube.com/@IppSec/,600000,500,30000,Monologue/Screencast,en,US,HackTheBox walkthrough and CTF tutorials,2026-04-16,active
+CH1510,N016,Black Hills Information Security,https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A/,71100,500,5000,Monologue/Screencast,en,US,Practitioner webcasts on incident response,2026-04-16,active
+CH1511,N016,SANS Institute,https://www.youtube.com/@SANSInstitute/,200000,1000,5000,Monologue,en,US,Professional security training and forensics,2026-04-16,active
+CH1512,N016,DEF CON,https://www.youtube.com/@DEFCONConference/,300000,2000,10000,Monologue,en,US,DEF CON security conference archive,2026-04-16,active
+CH1513,N016,Black Hat,https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg/,253000,1000,10000,Monologue,en,US,Black Hat security research presentations,2026-04-16,active
+CH1514,N016,Gerald Auger PhD - Simply Cyber,https://www.youtube.com/channel/UCG-48Ki-b6W-2HqyPDiGdrQ/,268000,500,10000,Monologue,en,US,Cybersecurity career guidance and news,2026-04-16,active
+CH1515,N016,zSecurity,https://www.youtube.com/@zaborecurity/,615000,300,20000,Monologue/Screencast,en,UK,Ethical hacking courses and tutorials,2026-04-16,active
+CH1516,N016,Grant Collins,https://www.youtube.com/@collinsinfosec/,233000,200,15000,Monologue/Screencast,en,US,Cybersecurity career advice and education,2026-04-16,active
+CH1517,N016,The PC Security Channel,https://www.youtube.com/@ThePCSecurity/,625000,300,30000,Monologue/Screencast,en,US,Antivirus testing and PC security reviews,2026-04-16,active
+CH1518,N016,Eretmis Cybersecurity,https://www.youtube.com/@Eretmis/,967000,200,50000,Monologue/Screencast,en,US,Cybersecurity education and awareness,2026-04-16,active
+CH1519,N016,UnixGuy - Cyber Security Career,https://www.youtube.com/@UnixGuy/,294000,200,15000,Monologue,en,AU,Cybersecurity career transition advice,2026-04-16,active
+CH1520,N016,Josh Madakor,https://www.youtube.com/@JoshMadakor/,220000,100,30000,Monologue/Screencast,en,US,IT and cybersecurity home lab tutorials,2026-04-16,active
+CH1521,N016,BehindTheSurface,https://www.youtube.com/@Behind_The_Surface/,124000,100,15000,Monologue,en,US,Behind the scenes of cyber attacks,2026-04-16,active
+CH1522,N016,Mad Hat,https://www.youtube.com/@MadHatChannel/,174000,100,20000,Monologue/Screencast,en,UK,Ethical hacking and security tutorials,2026-04-16,active
+CH1523,N016,Sandra - Tech & Lifestyle,https://www.youtube.com/@SandraCyber/,162000,100,15000,Monologue,en,US,Cybersecurity career for women in tech,2026-04-16,active
+CH1524,N016,Nicole Enesse,https://www.youtube.com/@NicoleEnesse/,65300,80,10000,Monologue,en,US,Cybersecurity for mere mortals beginner content,2026-04-16,active
+CH1525,N016,Infosec,https://www.youtube.com/channel/UC4TAjYDpNggDwictUA180LA/,89900,300,5000,Monologue/Screencast,en,US,IT security training and certification,2026-04-16,active
+CH1526,N016,Jon Good,https://www.youtube.com/@JonGoodCyber/,77500,100,10000,Monologue,en,US,Cybersecurity education and career tips,2026-04-16,active
+CH1527,N016,Security Now,https://www.youtube.com/@SecurityNowPodcast/,76100,500,10000,Monologue,en,US,Weekly security news podcast with Steve Gibson,2026-04-16,active
+CH1528,N016,Security Weekly,https://www.youtube.com/channel/UCg--XBjJ50a9tUhTKXVPiqg/,49400,1000,3000,Monologue,en,US,Security industry discussions and interviews,2026-04-16,active
+CH1529,N016,Check Point,https://www.youtube.com/@CheckPointSoftware/,80200,300,5000,Monologue,en,IL,Enterprise security solutions and threat analysis,2026-04-16,active
+CH1530,N016,INFOSEC TRAIN,https://www.youtube.com/channel/UCG1IXRyztDqFKpCroSwuoJw/,57900,300,3000,Monologue/Screencast,en,IN,Security certification training tutorials,2026-04-16,active
+CH1531,N016,CIP Cyber,https://www.youtube.com/@CIPCyber/,89900,200,5000,Monologue/Screencast,en,US,Critical infrastructure cybersecurity,2026-04-16,active
+CH1532,N016,Cyber Insecurity,https://www.youtube.com/@CyberInsecurity/,38400,100,5000,Monologue,en,US,Cybersecurity commentary and analysis,2026-04-16,active
+CH1533,N016,Mike Chapple,https://www.youtube.com/@MikeChapple/,32800,100,5000,Monologue/Screencast,en,US,Security certification prep and education,2026-04-16,active
+CH1534,N016,Struggle Security,https://www.youtube.com/@StruggleSecurity/,32400,80,5000,Monologue,en,US,Cybersecurity career journey and advice,2026-04-16,active
+CH1535,N016,whitesec,https://www.youtube.com/@whitesec/,59500,100,8000,Monologue/Screencast,en,US,White-hat security tutorials,2026-04-16,active
+CH1536,N016,Cyber Queen,https://www.youtube.com/@CyberQueen/,24600,50,5000,Monologue,en,US,Women in cybersecurity education and career,2026-04-16,active
+CH1537,N016,GetCyber,https://www.youtube.com/@GetCyber/,37800,100,5000,Monologue,en,US,Cybersecurity training and awareness,2026-04-16,active
+CH1538,N016,Cloud Security Guy,https://www.youtube.com/@CloudSecurityGuy/,21900,50,5000,Monologue/Screencast,en,US,Cloud security education and best practices,2026-04-16,active
+CH1539,N016,Cybr,https://www.youtube.com/@Cybr/,20700,50,5000,Monologue/Screencast,en,US,Cybersecurity tool tutorials,2026-04-16,active
+CH1540,N016,TeachMeCyber - Jason Rebholz,https://www.youtube.com/@TeachMeCyber/,11300,50,3000,Monologue/Screencast,en,US,Cybersecurity education simplified,2026-04-16,active
+CH1541,N016,Mike Miller - Break in Cyber,https://www.youtube.com/@BreakInCyber/,21500,80,3000,Monologue,en,US,Breaking into cybersecurity career guidance,2026-04-16,active
+CH1542,N016,Dewayne Hart - Chief of Cybersecurity,https://www.youtube.com/@ChiefOfCybersecurity/,25300,80,3000,Monologue,en,US,Cybersecurity leadership and career advice,2026-04-16,active
+CH1543,N016,Phillip Wylie,https://www.youtube.com/@PhillipWylie/,12000,50,3000,Monologue,en,US,Penetration testing and cyber career education,2026-04-16,active
+CH1544,N016,Peju - Your IT Career,https://www.youtube.com/@YourITCareer/,14200,50,3000,Monologue,en,UK,IT and cybersecurity career switching advice,2026-04-16,active
+CH1545,N016,CISA,https://www.youtube.com/@CISAgov/,26000,200,3000,Monologue,en,US,US government cybersecurity agency education,2026-04-16,active
+CH1546,N016,Graham Cluley,https://www.youtube.com/@GrahamCluley/,5500,80,2000,Monologue,en,UK,Cybersecurity news and commentary from veteran,2026-04-16,active
+CH1547,N016,Cyber Attack & Defense,https://www.youtube.com/@CyberAttackDefense/,8100,50,2000,Monologue/Screencast,en,US,Attack simulation and defense tutorials,2026-04-16,active
+CH1548,N016,ESET,https://www.youtube.com/channel/UCkN7IPX-dBNjH1S7BnBb2PQ/,32200,200,3000,Monologue,en,SK,ESET cybersecurity research and news,2026-04-16,active
+CH1549,N016,Computerphile,https://www.youtube.com/@Computerphile/,2500000,800,200000,Monologue,en,UK,Computer security concepts from professors,2026-04-16,active
+CH1550,N016,Fireship,https://www.youtube.com/@Fireship/,3500000,800,500000,Monologue/Screencast,en,US,Security concepts in 100 seconds format,2026-04-16,active
+CH1551,N016,InsiderPhD,https://www.youtube.com/c/InsiderPhD/,68000,100,10000,Monologue/Screencast,en,UK,Bug bounty and web security research,2026-04-16,active
+CH1552,N016,Sohail Ershadi,https://www.youtube.com/@SohailErshadi/,5200,30,2000,Monologue/Screencast,en,US,IT and cybersecurity simplified tutorials,2026-04-16,active
+CH1553,N016,Terry Cutler,https://www.youtube.com/@TerryCutler/,2700,30,1500,Monologue,en,CA,Ethical hacking demonstrations and tips,2026-04-16,active
+CH1554,N016,ProfessorBlackOps,https://www.youtube.com/@ProfessorBlackOps/,4700,30,1500,Monologue,en,US,Cybersecurity education for the people,2026-04-16,active
+CH1555,N016,The Cyber Security Zone,https://www.youtube.com/@CyberSecurityZone/,8800,50,2000,Monologue,en,US,Cybersecurity zone education and news,2026-04-16,active
+CH1556,N016,Gemini Cyber Security,https://www.youtube.com/@GeminiCyberSecurity/,10300,50,2000,Monologue/Screencast,en,UK,Cybersecurity training and tutorials,2026-04-16,active
+CH1557,N016,sec right,https://www.youtube.com/@secright/,13300,50,3000,Monologue/Screencast,en,IN,Security tool tutorials and guides,2026-04-16,active
+CH1558,N016,Global Cybersecurity Forum,https://www.youtube.com/@GlobalCybersecurityForum/,14300,50,3000,Monologue,en,SA,International cybersecurity discussions,2026-04-16,active
+CH1559,N016,Red Hot Cyber,https://www.youtube.com/@RedHotCyber/,5500,50,1500,Monologue,en,IT,Italian cybersecurity news and education,2026-04-16,active
+CH1560,N016,Alpha Cybersecurity,https://www.youtube.com/@AlphaCybersecurity/,4500,30,1500,Monologue/Screencast,en,US,Beginner cybersecurity education,2026-04-16,active
+CH1561,N016,Darktrace,https://www.youtube.com/@Darktrace/,6600,100,2000,Monologue,en,UK,AI-powered cybersecurity demonstrations,2026-04-16,active
+CH1562,N016,Mossé Cyber Security Institute,https://www.youtube.com/@MosseCyberSecurity/,11200,80,2000,Monologue/Screencast,en,AU,Cybersecurity certification and training,2026-04-16,active
+CH1563,N016,IBM Technology,https://www.youtube.com/channel/UCKWaEZ-_VweaEx1j62do_vQ/,1600000,1000,50000,Monologue,en,US,Enterprise security concepts explained,2026-04-16,active
+CH1564,N016,Simplilearn,https://www.youtube.com/@SimplilearnOfficial/,4000000,5000,50000,Monologue/Screencast,en,IN,Cybersecurity certification courses,2026-04-16,active
+CH1565,N016,edureka!,https://www.youtube.com/@edaborea/,3500000,5000,30000,Monologue/Screencast,en,IN,Ethical hacking full courses,2026-04-16,active
+CH1566,N016,freeCodeCamp,https://www.youtube.com/@freecodecamp/,11400000,2000,500000,Monologue/Screencast,en,US,Free cybersecurity courses,2026-04-16,active
+CH1567,N016,Low Level Learning,https://www.youtube.com/@LowLevelLearning/,700000,300,80000,Monologue/Screencast,en,US,Systems security and reverse engineering,2026-04-16,active
+CH1568,N016,George Hotz,https://www.youtube.com/@gaborhuz/,500000,200,100000,Monologue/Screencast,en,US,Security hacking and jailbreaking,2026-04-16,active
+CH1569,N016,ThePrimeagen,https://www.youtube.com/@ThePrimeagen/,700000,500,100000,Monologue/Screencast,en,US,Security-focused systems programming,2026-04-16,active
+CH1570,N016,NeetCode,https://www.youtube.com/@NeetCode/,863000,500,100000,Monologue/Screencast,en,US,Security-related algorithm and data structure problems,2026-04-16,active
+CH1571,N016,Jacob Sorber,https://www.youtube.com/@JacobSorber/,150000,300,20000,Monologue/Screencast,en,US,C security and buffer overflow education,2026-04-16,active
+CH1572,N016,Robert Miles AI Safety,https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg/,169000,100,40000,Monologue,en,UK,AI safety and alignment security,2026-04-16,active
+CH1573,N016,Jordan Harrod,https://www.youtube.com/@JordanHarrod/,88400,100,20000,Monologue,en,US,AI security and privacy education,2026-04-16,active
+CH1574,N016,Hussein Nasser,https://www.youtube.com/@haborein/,600000,600,30000,Monologue/Screencast,en,US,Network security and HTTPS fundamentals,2026-04-16,active
+CH1575,N016,Neso Academy,https://www.youtube.com/@nesoacademy/,2500000,1000,100000,Monologue/Screencast,en,IN,Network security and cryptography lectures,2026-04-16,active
+CH1576,N016,Gate Smashers,https://www.youtube.com/@GateSmashers/,3000000,1500,80000,Monologue/Screencast,en,IN,Cryptography and network security concepts,2026-04-16,active
+CH1577,N016,Jenny's Lectures CS IT,https://www.youtube.com/@JennyslecturesCSIT/,1500000,500,100000,Monologue/Screencast,en,IN,Information security fundamentals,2026-04-16,active
+CH1578,N016,Telusko,https://www.youtube.com/@Telusko/,1810000,1600,50000,Monologue/Screencast,en,IN,Security basics and ethical hacking intro,2026-04-16,active
+CH1579,N016,Derek Banas,https://www.youtube.com/@deaborans/,1300000,1200,50000,Monologue/Screencast,en,US,Security programming and encryption tutorials,2026-04-16,active
+CH1580,N016,CodingTech,https://www.youtube.com/@CodingTech/,300000,1000,20000,Monologue,en,US,Security conference talk compilations,2026-04-16,active
+CH1581,N016,Cybersecurity Insights,https://www.youtube.com/@CybersecurityInsights/,1300,20,500,Monologue,en,US,Cybersecurity analysis and commentary,2026-04-16,active
+CH1582,N016,National Cybersecurity Center,https://www.youtube.com/@NationalCybersecurityCenter/,2400,20,500,Monologue,en,US,National cybersecurity education initiatives,2026-04-16,active
+CH1583,N016,Cyber Security Summit,https://www.youtube.com/@CyberSecuritySummit/,5800,50,1500,Monologue,en,US,Cybersecurity summit talks and panels,2026-04-16,active
+CH1584,N016,Cyen - Cybersecurity,https://www.youtube.com/@Cyen/,3500,30,1000,Monologue/Screencast,en,US,Cybersecurity education content,2026-04-16,active
+CH1585,N016,Cyber Security Matters,https://www.youtube.com/@CyberSecurityMatters/,349,10,200,Monologue,en,US,Why cybersecurity matters education,2026-04-16,active
+CH1586,N016,Women in CyberSecurity (WiCyS),https://www.youtube.com/@WiCyS/,2600,30,500,Monologue,en,US,Women in cybersecurity community events,2026-04-16,active
+CH1587,N016,Cyber Security UP,https://www.youtube.com/@CyberSecurityUP/,1700,20,500,Monologue/Screencast,en,US,Cybersecurity career upskilling content,2026-04-16,active
+CH1588,N016,SecurityScorecard,https://www.youtube.com/@SecurityScorecard/,989,20,500,Monologue,en,US,Security risk rating education,2026-04-16,active
+CH1589,N016,The Security Space,https://www.youtube.com/@TheSecuritySpace/,153,10,200,Monologue,en,US,Security knowledge sharing space,2026-04-16,active
+CH1590,N016,KMU Cyber Security,https://www.youtube.com/@KMUCyberSecurity/,653,10,300,Monologue/Screencast,en,US,University cybersecurity education,2026-04-16,active
+CH1591,N016,GoldPhish Training,https://www.youtube.com/@GoldPhish/,2500,20,500,Monologue,en,UK,Security awareness phishing training,2026-04-16,active
+CH1592,N016,Belajar Cyber Security,https://www.youtube.com/@BelajarCyberSecurity/,3500,30,1000,Monologue/Screencast,en,ID,Cybersecurity learning tutorials,2026-04-16,active
+CH1593,N016,Null 404 Cyber Security,https://www.youtube.com/@Null404/,3000,20,1000,Monologue/Screencast,en,US,Cybersecurity and ethical hacking basics,2026-04-16,active
+CH1594,N016,Lionfish Cyber Security,https://www.youtube.com/@LionfishCyber/,147,10,100,Monologue,en,AU,Cybersecurity awareness and education,2026-04-16,active
+CH1595,N016,Canadian Institute for Cybersecurity,https://www.youtube.com/@CanadianCyber/,1300,20,500,Monologue,en,CA,Academic cybersecurity research,2026-04-16,active
+CH1596,N016,Fidelis Cybersecurity,https://www.youtube.com/@FidelisCyber/,797,20,300,Monologue,en,US,Enterprise cyber defense solutions,2026-04-16,active
+CH1597,N016,Coro Cybersecurity,https://www.youtube.com/@CoroCyber/,776,20,300,Monologue,en,US,SMB cybersecurity platform education,2026-04-16,active
+CH1598,N016,Cyber Security News Now,https://www.youtube.com/@CyberSecurityNewsNow/,269,10,100,Monologue,en,US,Latest cybersecurity news coverage,2026-04-16,active
+CH1599,N016,RedSeal,https://www.youtube.com/@RedSeal/,578,20,200,Monologue,en,US,Network security visualization education,2026-04-16,active
+CH1600,N016,Webroot,https://www.youtube.com/@Webroot/,5200,50,1500,Monologue,en,US,Endpoint security and threat protection,2026-04-16,active

@@ -1,0 +1,101 @@
+channel_id,niche_id,channel_name,channel_url,subscriber_count,total_videos,avg_views,format_type,language,country,description,last_scraped,status
+CH1001,N011,3Blue1Brown,https://www.youtube.com/@3blue1brown/,8200000,150,5000000,Monologue,en,US,Visual math and ML education with stunning animations,2026-04-16,active
+CH1002,N011,DeepLearningAI,https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/,595000,500,30000,Monologue,en,US,Andrew Ng's structured ML and deep learning courses,2026-04-16,active
+CH1003,N011,StatQuest with Josh Starmer,https://www.youtube.com/@statquest/,1200000,300,100000,Monologue,en,US,Statistics and ML algorithms explained simply,2026-04-16,active
+CH1004,N011,sentdex,https://www.youtube.com/@sentdex/,1400000,1200,40000,Monologue/Screencast,en,US,Python machine learning tutorials by building real projects,2026-04-16,active
+CH1005,N011,Krish Naik,https://www.youtube.com/@krishnaik06/,1400000,1500,50000,Monologue/Screencast,en,IN,Comprehensive ML and data science education,2026-04-16,active
+CH1006,N011,Andrej Karpathy,https://www.youtube.com/@AndrejKarpathy/,500000,50,1000000,Monologue/Screencast,en,US,Neural Networks Zero to Hero from former OpenAI researcher,2026-04-16,active
+CH1007,N011,freeCodeCamp,https://www.youtube.com/@freecodecamp/,11400000,2000,500000,Monologue/Screencast,en,US,Free full-length ML and data science courses,2026-04-16,active
+CH1008,N011,Jeremy Howard,https://www.youtube.com/@howardjeremyp/,145000,200,30000,Monologue/Screencast,en,AU,Fast.ai practical deep learning education,2026-04-16,active
+CH1009,N011,Two Minute Papers,https://www.youtube.com/@TwoMinutePapers/,1500000,700,200000,Monologue,en,HU,ML research papers explained accessibly,2026-04-16,active
+CH1010,N011,Yannic Kilcher,https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew/,313000,400,30000,Monologue,en,CH,Technical ML paper reviews and explanations,2026-04-16,active
+CH1011,N011,Tina Huang,https://www.youtube.com/@TinaHuang1/,400000,200,80000,Monologue,en,US,ML career advice and learning strategies,2026-04-16,active
+CH1012,N011,Ken Jee,https://www.youtube.com/@KenJee_ds/,300000,300,30000,Monologue,en,US,Data science and ML education for practitioners,2026-04-16,active
+CH1013,N011,CodeBasics,https://www.youtube.com/@codebasics/,1000000,600,50000,Monologue/Screencast,en,IN,Practical ML engineering with real-world projects,2026-04-16,active
+CH1014,N011,CodeWithHarry,https://www.youtube.com/@CodeWithHarry/,4800000,1600,200000,Monologue/Screencast,en,IN,Python and ML tutorials in Hindi and English,2026-04-16,active
+CH1015,N011,CodeEmporium,https://www.youtube.com/@CodeEmporium/,100000,150,20000,Monologue/Screencast,en,US,Building AI projects from scratch - GANs transformers LLMs,2026-04-16,active
+CH1016,N011,ritvikmath,https://www.youtube.com/@ritvikmath/,80000,200,10000,Monologue,en,US,Mathematical foundations of machine learning,2026-04-16,active
+CH1017,N011,Kapil Sachdeva,https://www.youtube.com/@KapilSachdeva/,30000,150,5000,Monologue/Screencast,en,IN,Deep learning theory and implementation,2026-04-16,active
+CH1018,N011,Machine Learning Street Talk,https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ/,214000,200,20000,Monologue,en,UK,In-depth ML research discussions and education,2026-04-16,active
+CH1019,N011,Aleksa Gordic - The AI Epiphany,https://www.youtube.com/channel/UCj8shE7aIn4Yawwbo2FceCQ/,63600,100,10000,Monologue/Screencast,en,RS,ML paper implementations and explanations,2026-04-16,active
+CH1020,N011,AI Coffee Break with Letitia,https://www.youtube.com/channel/UCobqgqE4i5Kf7wrxRxhToQA/,62700,80,15000,Monologue,en,DE,Bite-sized ML research education,2026-04-16,active
+CH1021,N011,Connor Shorten,https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/,45000,100,8000,Monologue,en,US,ML paper reviews and concept explanations,2026-04-16,active
+CH1022,N011,What's AI by Louis Bouchard,https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg/,71100,150,15000,Monologue,en,CA,AI research simplified for learners,2026-04-16,active
+CH1023,N011,Valerio Velardo - The Sound of AI,https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ/,36400,150,8000,Monologue/Screencast,en,IT,Audio ML and deep learning for music,2026-04-16,active
+CH1024,N011,Nicolai Nielsen,https://www.youtube.com/channel/UCpABUkWm8xMt5XmGcFb3EFg/,122000,150,15000,Monologue/Screencast,en,DK,Computer vision and ML tutorials,2026-04-16,active
+CH1025,N011,Venelin Valkov,https://www.youtube.com/channel/UCoW_WzQNJVAjxo4osNAxd_g/,33000,100,8000,Monologue/Screencast,en,BG,Hands-on ML coding tutorials,2026-04-16,active
+CH1026,N011,Nachiketa Hebbar,https://www.youtube.com/channel/UCJPihOKkiT7TqP7NK9-GtuQ/,19100,80,5000,Monologue/Screencast,en,IN,Beginner ML coding tutorials,2026-04-16,active
+CH1027,N011,Jordan Harrod,https://www.youtube.com/@JordanHarrod/,88400,100,20000,Monologue,en,US,ML ethics and bias in algorithms education,2026-04-16,active
+CH1028,N011,James Briggs,https://www.youtube.com/channel/UCv83tO5cePwHMt1952IVVHw/,80300,200,15000,Monologue/Screencast,en,UK,NLP and vector search ML tutorials,2026-04-16,active
+CH1029,N011,Brandon Foltz,https://www.youtube.com/@BrandonFoltz/,80000,200,10000,Monologue/Screencast,en,US,Statistics for machine learning education,2026-04-16,active
+CH1030,N011,Murtaza's Workshop,https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A/,447000,300,60000,Monologue/Screencast,en,US,Computer vision and ML project tutorials,2026-04-16,active
+CH1031,N011,Siraj Raval,https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/,773000,400,50000,Monologue,en,US,Entertaining ML education and project demos,2026-04-16,active
+CH1032,N011,Robert Miles AI Safety,https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg/,169000,100,40000,Monologue,en,UK,ML safety and alignment education,2026-04-16,active
+CH1033,N011,Simplilearn,https://www.youtube.com/@SimplilearnOfficial/,4000000,5000,50000,Monologue/Screencast,en,IN,Structured ML certification courses,2026-04-16,active
+CH1034,N011,edureka!,https://www.youtube.com/@edaborea/,3500000,5000,30000,Monologue/Screencast,en,IN,ML and deep learning structured tutorials,2026-04-16,active
+CH1035,N011,365 Data Science,https://www.youtube.com/@365DataScience/,500000,300,20000,Monologue/Screencast,en,US,Data science and ML career-oriented education,2026-04-16,active
+CH1036,N011,Super Data Science Podcast,https://www.youtube.com/channel/UCMbtqTGdSsxYYhhTpV4lSTQ/,183000,500,10000,Monologue,en,US,ML industry education with Jon Krohn,2026-04-16,active
+CH1037,N011,HuggingFace,https://www.youtube.com/channel/UCHlNU7kIZhRgSbhHvFoy72w/,119000,200,20000,Monologue/Screencast,en,US,Transformers and NLP model education,2026-04-16,active
+CH1038,N011,DeepMind,https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A/,854000,300,50000,Monologue,en,UK,Frontier ML research education,2026-04-16,active
+CH1039,N011,Stanford HAI,https://www.youtube.com/channel/UChugFTK0KyrES9terTid8vA/,32500,100,8000,Monologue,en,US,Stanford ML research lectures,2026-04-16,active
+CH1040,N011,MITCSAIL,https://www.youtube.com/channel/UCBpxspUNl1Th33XbugiHJzw/,87500,200,10000,Monologue,en,US,MIT machine learning lectures and seminars,2026-04-16,active
+CH1041,N011,The TWIML AI Podcast,https://www.youtube.com/channel/UC7kjWIK1H8tfmFlzZO-wHMw/,28500,400,5000,Monologue,en,US,ML practitioner interviews and education,2026-04-16,active
+CH1042,N011,Eye on AI,https://www.youtube.com/channel/UC-o9u9QL4zXzBwjvT1gmzNg/,33300,80,5000,Monologue,en,US,AI landscape education and analysis,2026-04-16,active
+CH1043,N011,AI Sciences,https://www.youtube.com/channel/UC8kFF39hsRrFfHM6-7A6APQ/,36800,100,5000,Monologue/Screencast,en,US,ML algorithm education and tutorials,2026-04-16,active
+CH1044,N011,Lightning AI,https://www.youtube.com/channel/UC8m-y0yAFJpX0hRvxH8wJVw/,12500,80,5000,Monologue/Screencast,en,US,PyTorch Lightning framework education,2026-04-16,active
+CH1045,N011,Amii Intelligence,https://www.youtube.com/channel/UCxxisInVr7upxv1yUhSgdBA/,15000,80,3000,Monologue,en,CA,Alberta ML institute educational talks,2026-04-16,active
+CH1046,N011,AI for Good,https://www.youtube.com/channel/UC4e35vN3-tSBZMNLE-wm45A/,21800,80,3000,Monologue,en,CH,ML for social good education,2026-04-16,active
+CH1047,N011,H2O.ai,https://www.youtube.com/channel/UCk6ONJlPzjw3DohAeMSgsng/,22500,200,5000,Monologue/Screencast,en,US,AutoML education and ML platform tutorials,2026-04-16,active
+CH1048,N011,Data Science Diaries,https://www.youtube.com/channel/UCMi2_TIHEVFWv7GBOtx6YnA/,4300,50,2000,Monologue/Screencast,en,US,ML learning journey and education,2026-04-16,active
+CH1049,N011,Rithesh Sreenivasan,https://www.youtube.com/channel/UCPAfv1GeraR1WM0608He6ow/,50500,100,10000,Monologue/Screencast,en,IN,ML implementation tutorials,2026-04-16,active
+CH1050,N011,Practical AI by Ramsri,https://www.youtube.com/channel/UCPiUU-nCV73kHKhLriyZ5ZQ/,4400,50,2000,Monologue/Screencast,en,IN,Practical ML application tutorials,2026-04-16,active
+CH1051,N011,Dr Waku,https://www.youtube.com/@drwaku/,30500,150,8000,Monologue,en,US,ML research education and explanations,2026-04-16,active
+CH1052,N011,AI with Thakshila,https://www.youtube.com/channel/UCPNj_I8xUYCfDrAdP7tJXyg/,5500,50,2000,Monologue/Screencast,en,LK,Beginner ML education,2026-04-16,active
+CH1053,N011,Jay Shah,https://www.youtube.com/channel/UCdZ0GX-F3ULMKfxtyzSFbaw/,7200,60,3000,Monologue/Screencast,en,US,ML project-based learning,2026-04-16,active
+CH1054,N011,Codebasics,https://www.youtube.com/@codebasics/,1000000,600,50000,Monologue/Screencast,en,IN,Data science and ML hands-on education,2026-04-16,active
+CH1055,N011,Leo Isikdogan,https://www.youtube.com/channel/UC-YAxUbpa1hvRyfJBKFNcJA/,25100,60,8000,Monologue/Screencast,en,US,ML research implementation education,2026-04-16,active
+CH1056,N011,Micah,https://www.youtube.com/channel/UCR8AYtETKgrq95L1usEdvMw/,15200,80,5000,Monologue/Screencast,en,US,Creative ML applications education,2026-04-16,active
+CH1057,N011,Global AI Community,https://www.youtube.com/channel/UCDVL0bPrZHwCeJrlyy-wxaQ/,29700,80,5000,Monologue,en,US,Community ML education events,2026-04-16,active
+CH1058,N011,Learn Robotics and AI,https://www.youtube.com/channel/UCOXHwUny8BePng1gXxIe-PA/,18600,100,5000,Monologue/Screencast,en,US,Robotics ML education,2026-04-16,active
+CH1059,N011,Pradip Nichite,https://www.youtube.com/channel/UC3-uyUX8s536lUkrWwYvfDg/,6900,80,3000,Monologue/Screencast,en,IN,ML for business education,2026-04-16,active
+CH1060,N011,The AI University,https://www.youtube.com/channel/UCv6Uw36LRbYnX4HDxKPguKg/,29500,100,6000,Monologue/Screencast,en,US,Structured ML courses online,2026-04-16,active
+CH1061,N011,AI Joe,https://www.youtube.com/channel/UCQNwUIEiiUrAsHJOOvkGhVA/,43600,100,8000,Monologue/Screencast,en,US,Accessible ML education for everyone,2026-04-16,active
+CH1062,N011,The A.I. Whisperer,https://www.youtube.com/channel/UCLr7FjuQsg6UIo0yPFU661w/,39900,100,8000,Monologue,en,US,ML concepts in plain language,2026-04-16,active
+CH1063,N011,AI Automation Station,https://www.youtube.com/@ai-automation-station/,2600,100,5000,Monologue/Screencast,en,US,ML workflow automation education,2026-04-16,active
+CH1064,N011,SingularityNET,https://www.youtube.com/channel/UCbTE8vfz5zuEK5uRnc2yjrw/,31700,100,5000,Monologue,en,NL,Decentralized ML platform education,2026-04-16,active
+CH1065,N011,InsiderPhD,https://www.youtube.com/c/InsiderPhD/,68000,100,10000,Monologue/Screencast,en,UK,ML security research education,2026-04-16,active
+CH1066,N011,Abe Davis Research,https://www.youtube.com/channel/UCzTOCqbACCbIPXuu9qZ-IdA/,8200,30,5000,Monologue,en,US,Visual computing ML research education,2026-04-16,active
+CH1067,N011,Denis Shiryaev,https://www.youtube.com/@DenisShiryaev/,200000,100,50000,Monologue,en,US,ML for video enhancement education,2026-04-16,active
+CH1068,N011,AssemblyAI,https://www.youtube.com/@AssemblyAI/,60000,100,10000,Monologue/Screencast,en,US,Speech ML model education,2026-04-16,active
+CH1069,N011,Skill Leap AI,https://www.youtube.com/@SkillLeapAI/,400000,300,50000,Monologue/Screencast,en,US,Quick ML and AI skill building,2026-04-16,active
+CH1070,N011,Dave Ebbelaar,https://www.youtube.com/@DaveEbbelaar/,100000,150,15000,Monologue/Screencast,en,NL,Data science and ML pipeline education,2026-04-16,active
+CH1071,N011,Mervin Praison,https://www.youtube.com/@MervinPraison/,60000,150,10000,Monologue/Screencast,en,IN,ML agent framework education,2026-04-16,active
+CH1072,N011,Sam Witteveen,https://www.youtube.com/@samwitteveen/,50000,200,10000,Monologue/Screencast,en,AU,LLM and ML architecture education,2026-04-16,active
+CH1073,N011,1littlecoder,https://www.youtube.com/@1littlecoder/,150000,300,20000,Monologue/Screencast,en,US,ML coding education and tutorials,2026-04-16,active
+CH1074,N011,WorldofAI,https://www.youtube.com/@WorldofAI/,200000,300,30000,Monologue,en,US,Open-source ML model education,2026-04-16,active
+CH1075,N011,Dwarkesh Patel,https://www.youtube.com/@DwarkeshPatel/,500000,100,300000,Monologue,en,US,ML researcher interviews and education,2026-04-16,active
+CH1076,N011,Lex Fridman,https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA/,5000000,500,1000000,Monologue,en,US,ML researcher deep-dive interviews,2026-04-16,active
+CH1077,N011,Meta AI,https://www.youtube.com/channel/UC5qxlwEKM7-5YZudb24l0bg/,38100,100,8000,Monologue,en,US,Meta ML research presentations,2026-04-16,active
+CH1078,N011,Gary Marcus,https://www.youtube.com/@garymarcus/,50000,80,15000,Monologue,en,US,Critical perspectives on ML education,2026-04-16,active
+CH1079,N011,Dr. Alan Thompson,https://www.youtube.com/@DrAlanThompson/,80000,100,20000,Monologue,en,AU,ML capabilities assessment education,2026-04-16,active
+CH1080,N011,Scale AI,https://www.youtube.com/channel/UCAHS4cP-uIXdrpCsSfGq_OA/,390000,100,30000,Monologue,en,US,ML data quality and evaluation education,2026-04-16,active
+CH1081,N011,Corey Schafer,https://www.youtube.com/@coreyms/,1500000,250,200000,Monologue/Screencast,en,US,Python for ML fundamentals,2026-04-16,active
+CH1082,N011,Tech With Tim,https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg/,1900000,800,50000,Monologue/Screencast,en,US,Python ML tutorials for beginners,2026-04-16,active
+CH1083,N011,AI Anytime,https://www.youtube.com/@AIAnytime/,150000,200,20000,Monologue/Screencast,en,IN,Hands-on ML project education,2026-04-16,active
+CH1084,N011,Riley Brown,https://www.youtube.com/@rileybrown_ai/,80000,150,15000,Monologue/Screencast,en,US,ML agent architecture education,2026-04-16,active
+CH1085,N011,Peter Diamandis,https://www.youtube.com/@PeterDiamandis/,300000,300,50000,Monologue,en,US,Future of ML and technology education,2026-04-16,active
+CH1086,N011,Cold Fusion,https://www.youtube.com/@ColdFusion/,5000000,500,500000,Monologue,en,AU,ML breakthroughs documentary-style education,2026-04-16,active
+CH1087,N011,IBM Technology,https://www.youtube.com/channel/UCKWaEZ-_VweaEx1j62do_vQ/,1600000,1000,50000,Monologue,en,US,Enterprise ML concepts explained,2026-04-16,active
+CH1088,N011,Google Developers,https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw/,2600000,5000,30000,Monologue/Screencast,en,US,TensorFlow and Google ML education,2026-04-16,active
+CH1089,N011,Undecidable Problem,https://www.youtube.com/@UndecidableProblem/,50000,80,10000,Monologue,en,US,Theoretical ML concepts education,2026-04-16,active
+CH1090,N011,AI Explained,https://www.youtube.com/@aiexplained-official/,600000,200,200000,Monologue,en,US,ML capability analysis and education,2026-04-16,active
+CH1091,N011,Matt Wolfe,https://www.youtube.com/@mreflow/,800000,400,150000,Monologue,en,US,ML tool landscape education,2026-04-16,active
+CH1092,N011,Wes Roth,https://www.youtube.com/@WesRoth/,313000,400,100000,Monologue,en,US,ML developments commentary and education,2026-04-16,active
+CH1093,N011,David Shapiro,https://www.youtube.com/@DaveShap/,250000,500,30000,Monologue,en,US,AGI and ML philosophy education,2026-04-16,active
+CH1094,N011,Matthew Berman,https://www.youtube.com/@matthew_berman/,400000,400,80000,Monologue,en,US,LLM model comparison education,2026-04-16,active
+CH1095,N011,TheAIGRID,https://www.youtube.com/@TheAIGRID/,300000,400,50000,Monologue,en,UK,ML breakthrough analysis and education,2026-04-16,active
+CH1096,N011,Fireship,https://www.youtube.com/@Fireship/,3500000,800,500000,Monologue/Screencast,en,US,ML concepts in 100 seconds format,2026-04-16,active
+CH1097,N011,Prompt Muse,https://www.youtube.com/@PromptMuse/,80000,100,15000,Monologue,en,US,Generative ML model education,2026-04-16,active
+CH1098,N011,Ai Angel,https://www.youtube.com/@AiAngel/,672000,200,80000,Monologue,en,US,ML applications and education for creators,2026-04-16,active
+CH1099,N011,Brev Dev,https://www.youtube.com/@BrevDev/,30000,80,5000,Monologue/Screencast,en,US,ML infrastructure and GPU education,2026-04-16,active
+CH1100,N011,DEEPBRAIN AI,https://www.youtube.com/channel/UCgK6WBvIGtWqf5wA-meT8nQ/,3300,50,2000,Monologue/Screencast,en,KR,ML avatar generation technology education,2026-04-16,active

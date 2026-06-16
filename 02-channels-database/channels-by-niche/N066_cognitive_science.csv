@@ -1,0 +1,101 @@
+channel_id,niche_id,channel_name,channel_url,subscriber_count,total_videos,avg_views,format_type,language,country,description,last_scraped,status
+CH6501,N066,Veritasium,https://www.youtube.com/@veritasium,16000000,350,8000000,Monologue,en,AU,Derek Muller cognitive science and decision experiments,,active
+CH6502,N066,Vsauce,https://www.youtube.com/@Vsauce,24700000,400,5000000,Monologue,en,US,Michael Stevens cognitive puzzles and perception,,active
+CH6503,N066,CGP Grey,https://www.youtube.com/@CGPGrey,6000000,150,5000000,Animation/Narration,en,GB,Decision-making systems and cognitive frameworks,,active
+CH6504,N066,Kurzgesagt Cognitive,https://www.youtube.com/@kurzgesagt,23000000,200,10000000,Animation/Narration,en,DE,Animated cognitive science and decision concepts,,active
+CH6505,N066,TED-Ed Cognitive,https://www.youtube.com/@TEDEd,19000000,2000,2000000,Animation/Narration,en,US,Animated cognitive science lessons,,active
+CH6506,N066,Sprouts Cognitive,https://www.youtube.com/@Sprouts,2000000,300,200000,Animation/Narration,en,US,Cognitive psychology cartoon animations,,active
+CH6507,N066,Practical Psychology Cognitive,https://www.youtube.com/@PracticalPsychology,4000000,300,500000,Monologue/Animation,en,US,Cognitive biases and decision making,,active
+CH6508,N066,Charisma on Command,https://www.youtube.com/@Charismaoncommand,6000000,400,1000000,Monologue,en,US,Cognitive frameworks for social interaction,,active
+CH6509,N066,Thomas Frank Cognitive,https://www.youtube.com/@Thomasfrank,3000000,300,300000,Monologue,en,US,Cognitive science of learning and productivity,,active
+CH6510,N066,Ali Abdaal Cognitive,https://www.youtube.com/@aliabdaal,5000000,500,500000,Monologue,en,GB,Evidence-based cognitive study techniques,,active
+CH6511,N066,Andrew Huberman Lab,https://www.youtube.com/@hubaborant,5000000,300,1000000,Monologue,en,US,Neuroscience and cognitive optimization,,active
+CH6512,N066,Lex Fridman,https://www.youtube.com/@lexfridman,4000000,500,500000,Monologue/Interview,en,US,AI cognitive science and decision making interviews,,active
+CH6513,N066,Cognition Today,https://www.youtube.com/@CognitionToday,50000,100,10000,Monologue,en,US,Cognitive psychology education,,active
+CH6514,N066,Decision Lab,https://www.youtube.com/@DecisionLab,30000,50,10000,Monologue,en,US,Decision-making research education,,active
+CH6515,N066,Thinking Allowed,https://www.youtube.com/@ThinkingAllowed,50000,500,5000,Monologue/Interview,en,US,Jeffrey Mishlove consciousness and cognition,,active
+CH6516,N066,Two Minute Papers Cognitive,https://www.youtube.com/@TwoMinutePapers,1500000,600,300000,Monologue,en,HU,AI and cognitive science research papers,,active
+CH6517,N066,Cognitive Bias Codex,https://www.youtube.com/@CogBiasCodex,20000,50,5000,Monologue,en,US,Cataloging cognitive biases,,active
+CH6518,N066,Rationality Rules Cognitive,https://www.youtube.com/@RationalityRules,400000,200,100000,Monologue,en,GB,Logic and rational decision making,,active
+CH6519,N066,Julia Galef,https://www.youtube.com/@JuliaGalef,200000,100,50000,Monologue,en,US,Scout mindset and rational thinking,,active
+CH6520,N066,Farnam Street,https://www.youtube.com/@FarnamStreet,100000,100,20000,Monologue,en,US,Mental models and decision frameworks,,active
+CH6521,N066,Mindware,https://www.youtube.com/@Mindware,30000,50,10000,Monologue,en,US,Cognitive tools for better thinking,,active
+CH6522,N066,Cognitive Science Crash Course,https://www.youtube.com/@crashcourse,16000000,1500,500000,Monologue/Animation,en,US,Cognitive psychology course,,active
+CH6523,N066,The Art of Improvement,https://www.youtube.com/@TheArtofImprovement,1000000,300,100000,Monologue/Animation,en,US,Cognitive improvement strategies,,active
+CH6524,N066,Better Than Yesterday,https://www.youtube.com/@BetterThanYesterday,2000000,100,500000,Monologue/Animation,en,US,Cognitive habits and decision making,,active
+CH6525,N066,Freedom in Thought,https://www.youtube.com/@FreedomInThought,500000,50,200000,Monologue/Animation,en,US,Cognitive science video essays,,active
+CH6526,N066,Wisecrack Cognitive,https://www.youtube.com/@wisecrack,3000000,800,300000,Monologue,en,US,Pop culture cognitive analysis,,active
+CH6527,N066,The Infographics Show Cognitive,https://www.youtube.com/@TheInfographicsShow,14000000,2000,500000,Animation/Narration,en,US,Cognitive science infographics,,active
+CH6528,N066,Nessymon,https://www.youtube.com/@Nessymon,50000,30,50000,Monologue,en,US,Cognitive science explorations,,active
+CH6529,N066,Scilabus Cognitive,https://www.youtube.com/@Scilabus,300000,100,50000,Monologue,en,CA,Science and cognition bilingual,,active
+CH6530,N066,Brain Games Science,https://www.youtube.com/@BrainGames,200000,200,20000,Monologue,en,US,Cognitive games and illusions,,active
+CH6531,N066,Illusion Science,https://www.youtube.com/@IllusionScience,30000,50,10000,Monologue,en,US,Optical illusions and perception,,active
+CH6532,N066,Perception Research,https://www.youtube.com/@PerceptionResearch,20000,50,5000,Monologue,en,US,Visual and auditory perception,,active
+CH6533,N066,Memory Research,https://www.youtube.com/@MemoryResearch,20000,50,5000,Monologue,en,US,Memory science and techniques,,active
+CH6534,N066,Attention Research,https://www.youtube.com/@AttentionResearch,20000,30,5000,Monologue,en,US,Attention and focus science,,active
+CH6535,N066,Language Cognition,https://www.youtube.com/@LanguageCognition,20000,30,5000,Monologue,en,US,Cognitive linguistics,,active
+CH6536,N066,Judgment and Decision Making,https://www.youtube.com/@JDMResearch,20000,30,5000,Monologue,en,US,JDM research education,,active
+CH6537,N066,Heuristics and Biases,https://www.youtube.com/@HeuristicsBiases,20000,30,5000,Monologue,en,US,Kahneman and Tversky research,,active
+CH6538,N066,Prospect Theory,https://www.youtube.com/@ProspectTheory,20000,20,5000,Monologue,en,US,Loss aversion and prospect theory,,active
+CH6539,N066,System 1 and 2 Thinking,https://www.youtube.com/@System1And2,20000,30,5000,Monologue,en,US,Dual process theory education,,active
+CH6540,N066,Cognitive Load Theory,https://www.youtube.com/@CognitiveLoadTheory,20000,30,5000,Monologue,en,US,Managing cognitive load,,active
+CH6541,N066,Working Memory,https://www.youtube.com/@WorkingMemory,20000,20,5000,Monologue,en,US,Working memory research,,active
+CH6542,N066,Executive Function,https://www.youtube.com/@ExecutiveFunction,20000,30,5000,Monologue,en,US,Executive function education,,active
+CH6543,N066,Metacognition,https://www.youtube.com/@Metacognition,20000,20,5000,Monologue,en,US,Thinking about thinking,,active
+CH6544,N066,Problem Solving Science,https://www.youtube.com/@ProblemSolvingScience,20000,30,5000,Monologue,en,US,Science of problem solving,,active
+CH6545,N066,Creativity Science,https://www.youtube.com/@CreativityScience,20000,30,5000,Monologue,en,US,Cognitive science of creativity,,active
+CH6546,N066,Reasoning Research,https://www.youtube.com/@ReasoningResearch,20000,20,5000,Monologue,en,US,Logical reasoning science,,active
+CH6547,N066,Anchoring Effect,https://www.youtube.com/@AnchoringEffect,20000,20,5000,Monologue,en,US,Anchoring bias education,,active
+CH6548,N066,Confirmation Bias,https://www.youtube.com/@ConfirmationBias,20000,20,5000,Monologue,en,US,Confirmation bias research,,active
+CH6549,N066,Framing Effect,https://www.youtube.com/@FramingEffect,20000,20,5000,Monologue,en,US,Framing effects on decisions,,active
+CH6550,N066,Sunk Cost Fallacy,https://www.youtube.com/@SunkCostFallacy,20000,20,5000,Monologue,en,US,Sunk cost trap education,,active
+CH6551,N066,Dunning Kruger Research,https://www.youtube.com/@DunningKruger,20000,20,5000,Monologue,en,US,Dunning-Kruger effect education,,active
+CH6552,N066,Availability Heuristic,https://www.youtube.com/@AvailabilityHeuristic,20000,20,5000,Monologue,en,US,Availability bias in decisions,,active
+CH6553,N066,Choice Architecture,https://www.youtube.com/@ChoiceArchitecture,20000,20,5000,Monologue,en,US,Designing choice environments,,active
+CH6554,N066,Cognitive Neuroscience,https://www.youtube.com/@CogNeuro,20000,50,5000,Monologue,en,US,Brain imaging and cognition,,active
+CH6555,N066,Consciousness Research,https://www.youtube.com/@ConsciousnessResearch,20000,30,5000,Monologue,en,US,Science of consciousness,,active
+CH6556,N066,Embodied Cognition,https://www.youtube.com/@EmbodiedCognition,20000,20,5000,Monologue,en,US,Body-mind cognitive connection,,active
+CH6557,N066,Artificial Cognition,https://www.youtube.com/@ArtificialCognition,20000,30,5000,Monologue,en,US,AI and cognitive science intersection,,active
+CH6558,N066,Computational Cognition,https://www.youtube.com/@CompCognition,20000,20,5000,Monologue,en,US,Computational models of cognition,,active
+CH6559,N066,Cognitive Development,https://www.youtube.com/@CogDevelopment,20000,30,5000,Monologue,en,US,Cognitive development across lifespan,,active
+CH6560,N066,Cognitive Aging,https://www.youtube.com/@CognitiveAging,20000,20,5000,Monologue,en,US,Aging and cognitive decline,,active
+CH6561,N066,Brain Plasticity,https://www.youtube.com/@BrainPlasticity,20000,30,5000,Monologue,en,US,Neuroplasticity research,,active
+CH6562,N066,Cognitive Enhancement,https://www.youtube.com/@CogEnhancement,20000,30,5000,Monologue,en,US,Cognitive performance enhancement,,active
+CH6563,N066,Nootropics Science,https://www.youtube.com/@NootropicsScience,20000,30,5000,Monologue,en,US,Science of cognitive enhancers,,active
+CH6564,N066,Flow State Research,https://www.youtube.com/@FlowStateResearch,20000,30,5000,Monologue,en,US,Flow state cognitive science,,active
+CH6565,N066,Peak Performance Mind,https://www.youtube.com/@PeakPerformanceMind,30000,50,5000,Monologue,en,US,Peak cognitive performance,,active
+CH6566,N066,Mindfulness Research,https://www.youtube.com/@MindfulnessResearch,20000,50,5000,Monologue,en,US,Cognitive effects of mindfulness,,active
+CH6567,N066,Meditation and Brain,https://www.youtube.com/@MeditationBrain,20000,30,5000,Monologue,en,US,Meditation effects on cognition,,active
+CH6568,N066,Sleep and Cognition,https://www.youtube.com/@SleepCognition,20000,30,5000,Monologue,en,US,Sleep impact on decision making,,active
+CH6569,N066,Nutrition and Brain,https://www.youtube.com/@NutritionBrain,20000,30,5000,Monologue,en,US,Nutrition effects on cognition,,active
+CH6570,N066,Exercise and Cognition,https://www.youtube.com/@ExerciseCognition,20000,20,5000,Monologue,en,US,Exercise effects on brain,,active
+CH6571,N066,Cognitive Psychology Lecture,https://www.youtube.com/@CogPsychLecture,20000,100,5000,Monologue,en,US,University cognitive psychology lectures,,active
+CH6572,N066,MIT Cognitive Science,https://www.youtube.com/@MITCogSci,30000,100,5000,Monologue,en,US,MIT cognitive science lectures,,active
+CH6573,N066,Stanford Cognitive,https://www.youtube.com/@StanfordCog,20000,50,5000,Monologue,en,US,Stanford cognitive research,,active
+CH6574,N066,Yale Cognitive,https://www.youtube.com/@YaleCog,20000,50,5000,Monologue,en,US,Yale cognitive science,,active
+CH6575,N066,Cognitive Science Society,https://www.youtube.com/@CogSciSociety,20000,50,5000,Monologue,en,US,Cognitive science conferences,,active
+CH6576,N066,Association for Psychological Science,https://www.youtube.com/@APS,20000,100,5000,Monologue,en,US,Psychological science research,,active
+CH6577,N066,Behavioral Insights,https://www.youtube.com/@BehavioralInsights,20000,30,5000,Monologue,en,US,Applied behavioral insights,,active
+CH6578,N066,Choice Overload,https://www.youtube.com/@ChoiceOverload,20000,20,5000,Monologue,en,US,Paradox of choice research,,active
+CH6579,N066,Decision Fatigue,https://www.youtube.com/@DecisionFatigue,20000,20,5000,Monologue,en,US,Decision fatigue science,,active
+CH6580,N066,Bounded Rationality,https://www.youtube.com/@BoundedRationality,20000,20,5000,Monologue,en,US,Herbert Simon bounded rationality,,active
+CH6581,N066,Satisficing vs Maximizing,https://www.youtube.com/@SatisficingMaximizing,20000,20,5000,Monologue,en,US,Decision strategy research,,active
+CH6582,N066,Moral Psychology,https://www.youtube.com/@MoralPsych,20000,30,5000,Monologue,en,US,Moral decision making research,,active
+CH6583,N066,Risk Perception,https://www.youtube.com/@RiskPerception,20000,20,5000,Monologue,en,US,Risk assessment psychology,,active
+CH6584,N066,Intuition Science,https://www.youtube.com/@IntuitionScience,20000,20,5000,Monologue,en,US,Science of intuitive decisions,,active
+CH6585,N066,Expert Decision Making,https://www.youtube.com/@ExpertDecision,20000,20,5000,Monologue,en,US,How experts make decisions,,active
+CH6586,N066,Group Decision Making,https://www.youtube.com/@GroupDecision,20000,20,5000,Monologue,en,US,Group decision dynamics,,active
+CH6587,N066,Cognitive Therapy CBT,https://www.youtube.com/@CognitiveCBT,20000,50,5000,Monologue,en,US,Cognitive behavioral therapy education,,active
+CH6588,N066,Cognitive Distortions,https://www.youtube.com/@CogDistortions,20000,30,5000,Monologue,en,US,Identifying cognitive distortions,,active
+CH6589,N066,Mental Models,https://www.youtube.com/@MentalModels,30000,50,5000,Monologue,en,US,Mental models for better thinking,,active
+CH6590,N066,First Principles Thinking,https://www.youtube.com/@FirstPrinciples,20000,30,5000,Monologue,en,US,First principles reasoning,,active
+CH6591,N066,Critical Thinking,https://www.youtube.com/@CriticalThinkingChannel,50000,100,5000,Monologue,en,US,Critical thinking education,,active
+CH6592,N066,Logical Fallacies,https://www.youtube.com/@LogicalFallacies,30000,50,5000,Monologue,en,US,Identifying logical fallacies,,active
+CH6593,N066,Bayesian Thinking,https://www.youtube.com/@BayesianThinking,20000,20,5000,Monologue,en,US,Bayesian reasoning education,,active
+CH6594,N066,Statistical Thinking,https://www.youtube.com/@StatisticalThinking,20000,20,5000,Monologue,en,US,Statistical reasoning for decisions,,active
+CH6595,N066,Game Theory Decisions,https://www.youtube.com/@GameTheoryDecisions,20000,30,5000,Monologue,en,US,Game theory and strategic decisions,,active
+CH6596,N066,Negotiation Science,https://www.youtube.com/@NegotiationScience,20000,30,5000,Monologue,en,US,Science of negotiation,,active
+CH6597,N066,Cognitive Flexibility,https://www.youtube.com/@CogFlexibility,20000,20,5000,Monologue,en,US,Cognitive flexibility training,,active
+CH6598,N066,Growth Mindset Science,https://www.youtube.com/@GrowthMindsetSci,20000,30,5000,Monologue,en,US,Growth mindset research,,active
+CH6599,N066,Self-Control Science,https://www.youtube.com/@SelfControlScience,20000,20,5000,Monologue,en,US,Self-control and willpower research,,active
+CH6600,N066,Delayed Gratification,https://www.youtube.com/@DelayedGrat,20000,20,5000,Monologue,en,US,Delayed gratification research,,active

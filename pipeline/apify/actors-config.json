@@ -1,0 +1,53 @@
+{
+  "actors": {
+    "channel_discovery": {
+      "actor_id": "apify/youtube-scraper",
+      "description": "Search YouTube for channels by niche keywords",
+      "default_input": {
+        "searchKeywords": "",
+        "maxResults": 150,
+        "type": "channel",
+        "sortBy": "relevance",
+        "language": "en",
+        "proxy": {
+          "useApifyProxy": true,
+          "apifyProxyGroups": ["RESIDENTIAL"]
+        }
+      }
+    },
+    "video_extraction": {
+      "actor_id": "apify/youtube-scraper",
+      "description": "Extract all video URLs from a channel",
+      "default_input": {
+        "startUrls": [],
+        "maxResults": 9999,
+        "type": "video",
+        "proxy": {
+          "useApifyProxy": true,
+          "apifyProxyGroups": ["RESIDENTIAL"]
+        }
+      }
+    },
+    "transcript_extraction": {
+      "actor_id": "bernardo/youtube-transcript-scraper",
+      "description": "Extract transcripts/captions from YouTube videos",
+      "default_input": {
+        "startUrls": [],
+        "language": "en",
+        "proxy": {
+          "useApifyProxy": true
+        }
+      }
+    }
+  },
+  "rate_limits": {
+    "max_concurrent_runs": 5,
+    "delay_between_batches_ms": 2000,
+    "max_retries": 3
+  },
+  "cost_tracking": {
+    "estimated_cu_per_channel_search": 0.5,
+    "estimated_cu_per_video_extraction": 1.0,
+    "estimated_cu_per_transcript": 0.3
+  }
+}

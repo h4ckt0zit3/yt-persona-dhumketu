@@ -1,0 +1,275 @@
+from groq import Groq
+from supabase import create_client
+import time, re, threading
+from queue import Queue
+from datetime import datetime, timedelta
+
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
+# Groq keys — comma-separated in the GROQ_API_KEYS env var (.env locally, GitHub
+# repo secret in CI). KeyManager rotates through them to dodge rate limits.
+API_KEYS = [k.strip() for k in os.getenv("GROQ_API_KEYS", "").split(",") if k.strip()]
+
+SUPABASE_URL = os.getenv("SUPABASE_URL")
+SUPABASE_KEY = os.getenv("SUPABASE_KEY")
+TABLE_NAME   = "MarquesBrownlee"
+CONTENT_COL  = "content"
+CLEAN_COL    = "clean_content"
+MODEL        = "llama-3.3-70b-versatile"
+MAX_CHARS    = 6000
+
+# ─── KEY MANAGER ──────────────────────────────────────────────────────────────
+class KeyManager:
+    def __init__(self, keys):
+        self.keys = [
+            {
+                "key": k,
+                "client": Groq(api_key=k),
+                "status": "active",      # active / cooldown
+                "reset_at": None,        # datetime when it resets
+                "requests": 0,           # total requests made
+                "lock": threading.Lock()
+            }
+            for k in keys
+        ]
+        self._lock = threading.Lock()
+
+    def get_available_key(self):
+        """Returns next available key, waits if all in cooldown"""
+        while True:
+            with self._lock:
+                # First check if any cooled down keys can be reactivated
+                now = datetime.now()
+                for k in self.keys:
+                    if k["status"] == "cooldown" and k["reset_at"] and now >= k["reset_at"]:
+                        k["status"] = "active"
+                        k["reset_at"] = None
+                        print(f"  🟢 Key ...{k['key'][-6:]} reactivated!")
+
+                # Find an active key
+                active = [k for k in self.keys if k["status"] == "active"]
+                if active:
+                    # Round robin — pick key with least requests
+                    key = min(active, key=lambda x: x["requests"])
+                    return key
+
+            # All keys in cooldown — find soonest reset
+            soonest = min(
+                (k for k in self.keys if k["reset_at"]),
+                key=lambda x: x["reset_at"],
+                default=None
+            )
+            if soonest:
+                wait = max(0, (soonest["reset_at"] - datetime.now()).total_seconds())
+                print(f"\n  ⏳ ALL keys in cooldown. Waiting {int(wait)}s for next reset...")
+                self._print_key_status()
+                time.sleep(min(wait + 1, 30))  # check every 30s max
+            else:
+                time.sleep(5)
+
+    def mark_rate_limited(self, key_obj, retry_seconds=65):
+        """Mark a key as in cooldown with reset time"""
+        with self._lock:
+            key_obj["status"] = "cooldown"
+            key_obj["reset_at"] = datetime.now() + timedelta(seconds=retry_seconds)
+            print(f"  🔴 Key ...{key_obj['key'][-6:]} rate limited → resets in {retry_seconds}s")
+            self._print_key_status()
+
+    def _print_key_status(self):
+        print("\n  📊 KEY STATUS:")
+        now = datetime.now()
+        for i, k in enumerate(self.keys):
+            if k["status"] == "active":
+                print(f"     Key {i+1}: 🟢 Active ({k['requests']} requests)")
+            else:
+                remaining = max(0, (k["reset_at"] - now).total_seconds()) if k["reset_at"] else 0
+                print(f"     Key {i+1}: 🔴 Cooldown (resets in {int(remaining)}s)")
+        print()
+
+# ─── CLEANER ──────────────────────────────────────────────────────────────────
+key_manager = KeyManager(API_KEYS)
+supabase    = create_client(SUPABASE_URL, SUPABASE_KEY)
+
+def clean_with_rotation(raw_text: str) -> str | None:
+    # Basic pre-clean with Python first (saves ~20% tokens)
+    text = re.sub(r'\[Music\]|\[Applause\]|\[Laughter\]', '', raw_text, flags=re.IGNORECASE)
+    text = re.sub(r'\s+', ' ', text).strip()
+
+    if not text or len(text) < 50:
+        return None
+
+    if len(text) > MAX_CHARS:
+        truncated = text[:MAX_CHARS]
+        last_period = max(truncated.rfind('. '), truncated.rfind('? '), truncated.rfind('! '))
+        text = truncated[:last_period + 1] if last_period > 0 else truncated
+
+    MAX_RETRIES = 5  # more retries since we have 10 keys
+
+    for attempt in range(1, MAX_RETRIES + 1):
+        key_obj = key_manager.get_available_key()
+
+        try:
+            response = key_obj["client"].chat.completions.create(
+                model=MODEL,
+                temperature=0.2,
+                max_tokens=2048,
+                messages=[
+                    {
+                        "role": "system",
+                        "content": (
+                            "You are a professional transcript editor. "
+                            "Output ONLY the cleaned transcript text. "
+                            "No introductions, no labels, no commentary."
+                        )
+                    },
+                    {
+                        "role": "user",
+                        "content": f"""Clean this raw video transcript:
+
+RULES:
+1. Remove filler words: uh, um, okay, so, like, you know, right, I mean, anyway, basically
+2. Remove promotional content: URLs, subscribe, check the link, book/course promotions, channel names
+3. Remove self-referential tangents: I'm digressing, anyway guys, let me get back
+4. Fix grammar and broken sentences
+5. Keep ALL original meaning — do not remove facts
+6. Output clean paragraphs only
+7. Do NOT summarize
+
+TRANSCRIPT:
+{text}"""
+                    }
+                ]
+            )
+
+            with key_obj["lock"]:
+                key_obj["requests"] += 1
+
+            result = response.choices[0].message.content.strip()
+            return result if result else None
+
+        except Exception as e:
+            err = str(e)
+
+            if "429" in err or "rate_limit" in err.lower():
+                # Parse exact wait time from Groq error
+                wait = 65
+                match = re.search(r'try again in (\d+\.?\d*)s', err)
+                if match:
+                    wait = int(float(match.group(1))) + 3
+
+                key_manager.mark_rate_limited(key_obj, retry_seconds=wait)
+                # NO sleep here — immediately retry with next available key
+
+            else:
+                print(f"  ❌ Error attempt {attempt}: {e}")
+                time.sleep(3 * attempt)
+
+    return None
+
+
+def main():
+    supabase_client = create_client(SUPABASE_URL, SUPABASE_KEY)
+
+    total = supabase_client.table(TABLE_NAME).select("id", count="exact").execute().count
+    done  = (
+        supabase_client.table(TABLE_NAME)
+        .select("id", count="exact")
+        .not_.is_(CLEAN_COL, "null")
+        .execute()
+        .count
+    )
+    remaining = total - done
+
+    print("=" * 55)
+    print("   🧹 TRANSCRIPT CLEANER — Multi-Key Rotation")
+    print("=" * 55)
+    print(f"   📦 Total      : {total}")
+    print(f"   ✅ Done       : {done}")
+    print(f"   🔧 Remaining  : {remaining}")
+    print(f"   🔑 Keys       : {len(API_KEYS)} active")
+    print("=" * 55)
+
+    if remaining == 0:
+        print("\n🎉 All rows already cleaned!")
+        return
+
+    processed = skipped = failed = 0
+    offset = 0
+    BATCH_SIZE = 50
+    start = time.time()
+
+    while True:
+        try:
+            resp = (
+                supabase_client.table(TABLE_NAME)
+                .select(f"id, {CONTENT_COL}")
+                .is_(CLEAN_COL, "null")
+                .order("id")
+                .range(offset, offset + BATCH_SIZE - 1)
+                .execute()
+            )
+            rows = resp.data
+        except Exception as e:
+            print(f"\n🔥 Supabase error: {e} — retrying in 10s...")
+            time.sleep(10)
+            continue
+
+        if not rows:
+            break
+
+        for row in rows:
+            row_id  = row["id"]
+            content = (row.get(CONTENT_COL) or "").strip()
+            count   = processed + skipped + failed + 1
+
+            print(f"\n[{count}/{remaining}] ID: {row_id} ({len(content)} chars)")
+
+            if len(content) < 50:
+                print("  ⏭️  Too short — skipping")
+                skipped += 1
+                continue
+
+            cleaned = clean_with_rotation(content)
+
+            if not cleaned:
+                print("  ❌ Failed — skipping")
+                failed += 1
+                continue
+
+            try:
+                result = (
+                    supabase_client.table(TABLE_NAME)
+                    .update({CLEAN_COL: cleaned})
+                    .eq("id", row_id)
+                    .execute()
+                )
+                if result.data:
+                    pct = int((len(content) - len(cleaned)) / len(content) * 100)
+                    print(f"  ✅ Saved | {len(content)} → {len(cleaned)} chars (-{pct}% noise)")
+                    processed += 1
+                else:
+                    print("  ⚠️  No data returned")
+                    failed += 1
+            except Exception as e:
+                print(f"  🔥 Supabase error: {e}")
+                failed += 1
+
+        offset += BATCH_SIZE
+
+    elapsed = int(time.time() - start)
+    h, rem = divmod(elapsed, 3600)
+    m, s   = divmod(rem, 60)
+
+    print("\n" + "=" * 55)
+    print("   📊 FINAL SUMMARY")
+    print("=" * 55)
+    print(f"   ✅ Cleaned : {processed}")
+    print(f"   ⏭️  Skipped : {skipped}")
+    print(f"   ❌ Failed  : {failed}")
+    print(f"   ⏱️  Time    : {h}h {m}m {s}s")
+    print("=" * 55)
+
+if __name__ == "__main__":
+    main()

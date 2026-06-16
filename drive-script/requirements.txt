@@ -1,0 +1,13 @@
+# drive-script Python dependencies (used locally and by GitHub Actions CI).
+# Recreate the venv with:  pip install -r requirements.txt
+apify-client
+supabase
+groq
+sentence-transformers
+python-dotenv
+tqdm
+# Only needed for link_extraction.py / drive_to_supabase.py (Google Drive/Sheets):
+gspread
+oauth2client
+google-auth-oauthlib
+google-api-python-client

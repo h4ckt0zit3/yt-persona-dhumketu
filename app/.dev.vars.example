@@ -1,0 +1,18 @@
+# Copy to .dev.vars for local `wrangler dev`. Never commit .dev.vars.
+# In production set these with: wrangler secret put NAME
+SUPABASE_SERVICE_ROLE_KEY="eyJ...service-role-key..."
+APIFY_TOKEN="apify_api_xxx"
+# Default config uses OpenRouter for chat — paste your OpenRouter key here.
+# (OPENAI_BASE_URL in wrangler.toml routes the OpenAI client at OpenRouter.)
+OPENAI_API_KEY="sk-or-v1-xxx"
+# ANTHROPIC_API_KEY="sk-ant-xxx"   # only if LLM_PROVIDER = "anthropic"
+WEBHOOK_SECRET="some-long-random-string"
+
+# ---- Local-dev conveniences (override wrangler.toml [vars] during dev) ----
+# Auto-sign-in on localhost so you never wait on a login email. NEVER set in prod.
+DEV_AUTH="true"
+DEV_EMAIL="dev@local"
+# Offline deterministic embeddings — no Workers AI / OpenAI call, no quota.
+# Lets the chunk -> embed -> persona path run fully locally. Match schema.sql vector(N).
+EMBED_PROVIDER="local"
+EMBED_DIM="1024"

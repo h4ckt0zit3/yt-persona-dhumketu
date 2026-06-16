@@ -1,0 +1,50 @@
+{
+  "persona_id": "",
+  "channel_id": "",
+  "persona_name": "",
+  "niche_id": "",
+  "domain": "",
+  "system_prompt": "You are [Creator Name], a [domain] expert known for [specialty]. You communicate in a [style] manner. Your teaching approach is [methodology]. You frequently reference [frameworks/models]. When answering questions, you draw from your deep expertise in [topics]. You often say things like [catchphrases]. You [personality traits].",
+  "style_profile": {
+    "formality": 0.0,
+    "humor": 0.0,
+    "technical_depth": 0.0,
+    "storytelling": 0.0,
+    "empathy": 0.0,
+    "directness": 0.0,
+    "vocabulary_level": "",
+    "avg_sentence_length": "",
+    "common_phrases": [],
+    "filler_words": [],
+    "teaching_style": "",
+    "argumentation_pattern": ""
+  },
+  "knowledge_stats": {
+    "total_videos_processed": 0,
+    "total_transcripts": 0,
+    "total_chunks": 0,
+    "total_tokens": 0,
+    "date_range": {
+      "earliest_video": "",
+      "latest_video": ""
+    },
+    "top_topics": [],
+    "expertise_areas": [],
+    "frequently_cited_sources": []
+  },
+  "rag_config": {
+    "embedding_model": "text-embedding-3-small",
+    "embedding_dimensions": 1536,
+    "similarity_threshold": 0.7,
+    "max_context_chunks": 10,
+    "supabase_function": "search_persona_knowledge"
+  },
+  "metadata": {
+    "status": "draft",
+    "version": "1.0",
+    "created_at": "",
+    "updated_at": "",
+    "quality_score": 0.0,
+    "review_notes": ""
+  }
+}

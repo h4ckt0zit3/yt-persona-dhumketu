@@ -1,0 +1,101 @@
+channel_id,niche_id,channel_name,channel_url,subscriber_count,total_videos,avg_views,format_type,language,country,description,last_scraped,status
+CH001,N001,Graham Stephan,https://www.youtube.com/@GrahamStephan,4500000,900,500000,Monologue,en,US,Real estate investing and personal finance education,,active
+CH002,N001,Minority Mindset - Jaspreet Singh,https://www.youtube.com/minoritymindset/,1800000,900,150000,Monologue,en,US,Personal finance and wealth building strategies,,active
+CH003,N001,WhiteBoard Finance - Marko,https://www.youtube.com/@WhiteBoardFinance/,1200000,500,100000,Monologue/Whiteboard,en,US,Whiteboard-style personal finance and investing education,,active
+CH004,N001,Andrei Jikh,https://www.youtube.com/@AndreiJikh/,2100000,400,300000,Monologue,en,US,Investing and personal finance with visual flair,,active
+CH005,N001,Nick True - MappedOutMoney,https://www.youtube.com/@mappedoutmoney/,350000,200,80000,Monologue/Screencast,en,US,Budgeting education focused on YNAB and tools,,active
+CH006,N001,Rachel Cruze,https://www.youtube.com/channel/UCt59W0ScV709iwy2h-oiulQ/,800000,500,60000,Monologue,en,US,Budgeting and debt-free living education,,active
+CH007,N001,The Financial Diet,https://www.youtube.com/@TheFinancialDiet/,900000,800,100000,Monologue,en,US,Women-focused personal finance and money education,,active
+CH008,N001,Two Cents (PBS),https://www.youtube.com/@TwoCentsPBS/,817000,200,200000,Monologue,en,US,Clear practical advice on credit cards and money basics,,active
+CH009,N001,Patrick Boyle,https://www.youtube.com/channel/UCASM0cgfkJxQ1ICmRilfHLw/,1000000,300,200000,Monologue,en,UK,Financial markets analysis and economics commentary,,active
+CH010,N001,Financial Education - Jeremy,https://www.youtube.com/channel/UCnMn36GT_H0X-w5_ckLtlgQ/,1200000,900,100000,Monologue,en,US,Stock market investing education and financial literacy,,active
+CH011,N003,The Swedish Investor,https://www.youtube.com/@TheSwedishInvestor/,500000,200,150000,Monologue/Animation,en,SE,Value investing book summaries and analysis,,active
+CH012,N003,Learn to Invest - Jimmy,https://www.youtube.com/@LearntoInvest/,400000,200,80000,Monologue,en,AU,Value investing education and stock analysis,,active
+CH013,N003,Cameron Stewart CFA,https://www.youtube.com/@CameronStewartCFA/,200000,300,40000,Monologue,en,US,CFA-level stock analysis with DCF valuations,,active
+CH014,N003,Sven Carlin PhD,https://www.youtube.com/@SvenCarlin/,300000,500,30000,Monologue,en,EU,Value investing and European stock analysis,,active
+CH015,N003,Joseph Carlson,https://www.youtube.com/@JosephCarlsonShow/,500000,400,100000,Monologue,en,US,Dividend investing portfolio tracking and analysis,,active
+CH016,N003,Ryan Scribner,https://www.youtube.com/channel/UC3mjMoJuFnjYRBLon_6njbQ/,750000,700,60000,Monologue,en,US,Stock market education and investing for beginners,,active
+CH017,N003,Ricky Gutierrez,https://www.youtube.com/@TechBudSolutions/,600000,800,40000,Monologue,en,US,Day trading and stock market education,,active
+CH018,N003,Wealth Hacker - Jeff Rose,https://www.youtube.com/channel/UCkNgKCu9062P0CPyVoBI5sQ/,300000,400,30000,Monologue,en,US,Investing and wealth building strategies,,active
+CH019,N003,BiggerPockets,https://www.youtube.com/@biggerpockets/,1200000,1500,50000,Monologue/Interview,en,US,Real estate investing education and community,,active
+CH020,N003,Michael Kitces,https://www.youtube.com/@MichaelKitces/,100000,300,10000,Monologue,en,US,Financial planning deep dives for advisors,,active
+CH021,N009,AI Explained,https://www.youtube.com/@aiexplained-official/,600000,200,200000,Monologue,en,US,Breaking down AI developments with clarity and depth,,active
+CH022,N009,Wes Roth,https://www.youtube.com/@WesRoth/,500000,400,100000,Monologue,en,US,Fast-paced AI commentary and industry analysis,,active
+CH023,N009,Matthew Berman,https://www.youtube.com/@matthew_berman/,400000,400,80000,Monologue,en,US,AI tools demos and LLM model comparisons,,active
+CH024,N009,Matt Wolfe,https://www.youtube.com/@mreflow/,800000,400,150000,Monologue,en,US,AI tools roundups and practical AI tutorials,,active
+CH025,N009,David Shapiro,https://www.youtube.com/@DaveShap/,250000,500,30000,Monologue,en,US,AI philosophy and AGI discussion and commentary,,active
+CH026,N010,Two Minute Papers,https://www.youtube.com/@TwoMinutePapers/,1500000,700,200000,Monologue,en,HU,ML research paper breakdowns in accessible format,,active
+CH027,N010,Yannic Kilcher,https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew/,250000,400,30000,Monologue,en,CH,Deep technical ML paper reviews and analysis,,active
+CH028,N011,3Blue1Brown,https://www.youtube.com/@3blue1brown/,6500000,150,5000000,Monologue/Animation,en,US,Visual math and ML education with stunning animations,,active
+CH029,N011,Skill Leap AI - Saj Adib,https://www.youtube.com/@SkillLeapAI/,400000,300,50000,Monologue/Screencast,en,US,Quick AI tool tutorials and productivity workflows,,active
+CH030,N011,Ken Jee,https://www.youtube.com/@KenJee_ds/,300000,300,30000,Monologue,en,US,Data science and ML education for practitioners,,active
+CH031,N012,Fireship - Jeff Delaney,https://www.youtube.com/@Fireship/,3500000,600,1000000,Monologue,en,US,Lightning-fast code explainers and tech industry updates,,active
+CH032,N012,Traversy Media - Brad Traversy,https://www.youtube.com/@TraversyMedia/,2200000,900,200000,Monologue/Screencast,en,US,Web development tutorials from HTML to full-stack,,active
+CH033,N012,Programming with Mosh,https://www.youtube.com/@programmingwithmosh/,4000000,400,500000,Monologue/Screencast,en,CA,Clean code and professional dev tutorials,,active
+CH034,N012,Corey Schafer,https://www.youtube.com/@coreyms/,1200000,200,300000,Monologue/Screencast,en,US,Python tutorials and developer tools education,,active
+CH035,N012,Kevin Powell,https://www.youtube.com/@KevinPowell/,1000000,600,100000,Monologue/Screencast,en,CA,CSS evangelist and web development educator,,active
+CH036,N012,Tech With Tim,https://www.youtube.com/@TechWithTim/,1500000,700,100000,Monologue/Screencast,en,US,Python projects and CS fundamentals education,,active
+CH037,N012,The Net Ninja - Shaun Pelling,https://www.youtube.com/@NetNinja/,1300000,2000,50000,Monologue/Screencast,en,UK,Sequential coding bootcamp-style tutorials,,active
+CH038,N012,The Coding Train - Daniel Shiffman,https://www.youtube.com/@TheCodingTrain/,1800000,1500,80000,Monologue,en,US,Creative coding with p5.js and Processing,,active
+CH039,N012,freeCodeCamp,https://www.youtube.com/@freecodecamp/,10000000,1500,500000,Monologue/Screencast,en,US,Full-length free coding courses all levels,,active
+CH040,N012,Ania Kubow,https://www.youtube.com/@AniaKubow/,600000,400,50000,Monologue/Screencast,en,US,Code-along projects in JavaScript and React,,active
+CH041,N020,GaryVee - Gary Vaynerchuk,https://www.youtube.com/channel/UCctXZhXmG-kf3tlIXgVZUlw,4500000,5000,100000,Monologue,en,US,Branding and entrepreneurship and social media advice,,active
+CH042,N020,My First Million - Sam Parr & Shaan Puri,https://www.youtube.com/@MyFirstMillionPod/,1000000,800,100000,Monologue/Podcast,en,US,Business ideas and startup stories discussion,,active
+CH043,N020,The Diary of a CEO - Steven Bartlett,https://www.youtube.com/@TheDiaryOfACEO/,9000000,500,1000000,Interview/Monologue,en,UK,Candid interviews with entrepreneurs and leaders,,active
+CH044,N020,Y Combinator,https://www.youtube.com/@ycombinator/,1500000,800,50000,Monologue/Lecture,en,US,Startup advice from the top accelerator,,active
+CH045,N020,Tim Ferriss,https://www.youtube.com/@timferriss/,900000,400,50000,Monologue/Interview,en,US,Productivity hacks and business advice,,active
+CH046,N020,This Week in Startups - Jason Calacanis,https://www.youtube.com/@TWiStartups/,500000,2000,20000,Monologue/Interview,en,US,Unfiltered startup world discussions and analysis,,active
+CH047,N020,Alex Hormozi,https://www.youtube.com/@AlexHormozi/,3500000,600,500000,Monologue,en,US,Business scaling strategies and offer creation,,active
+CH048,N020,Noah Kagan,https://www.youtube.com/@noahkagan/,900000,600,100000,Monologue,en,US,AppSumo founder sharing startup experiments,,active
+CH049,N020,Pat Flynn - Smart Passive Income,https://www.youtube.com/@patflynn/,900000,800,30000,Monologue,en,US,Online business and passive income strategies,,active
+CH050,N020,Ali Abdaal (Business),https://www.youtube.com/@aliabdaal/,5500000,600,500000,Monologue,en,UK,Productivity and business building as a creator,,active
+CH051,N022,Neil Patel,https://www.youtube.com/channel/UCl-Zrl0QhF66lu1aGXaTbfw,1200000,2000,30000,Monologue,en,US,SEO and digital marketing strategies,,active
+CH052,N022,Brian Dean - Backlinko,https://www.youtube.com/channel/UCx7J37QuXsGL7QG6SMIpqKg,600000,100,200000,Monologue,en,US,Data-driven SEO strategies and link building,,active
+CH053,N022,Nathan Gotch,https://www.youtube.com/@NathanGotch/,300000,200,30000,Monologue,en,US,SEO practitioner teaching search optimization,,active
+CH054,N022,Adam Erhart,https://www.youtube.com/channel/UCKU0u3VbuYn0wD3CUr-Yn6A/,500000,400,40000,Monologue,en,US,Digital marketing and social media strategy,,active
+CH055,N022,Matt Diggity,https://www.youtube.com/channel/UCP5A5lVxaT7cO_LehpxjTZg/,300000,300,30000,Monologue,en,US,SEO case studies and affiliate marketing,,active
+CH056,N022,Ahrefs,https://www.youtube.com/@AhsrefsCom/,500000,500,30000,Monologue/Screencast,en,SG,SEO tool tutorials and search marketing education,,active
+CH057,N022,Miles Beckler,https://www.youtube.com/channel/UC7RZRFCrN4XKoMsy5MgJKrg/,200000,800,15000,Monologue,en,US,Content marketing and online business strategies,,active
+CH058,N022,Craig Campbell SEO,https://www.youtube.com/channel/UCPeOzstGV1FB0cGSBg2piDg/,100000,300,10000,Monologue,en,UK,Practical SEO tips and strategies,,active
+CH059,N022,Surfside PPC,https://www.youtube.com/channel/UCEzSSbs3Wfe5p4dBzzjrjvw/,150000,600,10000,Monologue/Screencast,en,US,PPC advertising tutorials Google and Facebook ads,,active
+CH060,N022,LYFE Marketing,https://www.youtube.com/channel/UCw4T39MvmTCmYoSdpB2Rwuw/,300000,400,20000,Monologue,en,US,Social media marketing strategies for small biz,,active
+CH061,N040,Ali Abdaal (Productivity),https://www.youtube.com/@aliabdaal/,5500000,600,500000,Monologue,en,UK,Evidence-based productivity and study strategies,,active
+CH062,N040,Matt D'Avella,https://www.youtube.com/@MattDAvella/,3800000,400,800000,Monologue,en,US,Minimalism productivity and habit experiments,,active
+CH063,N040,Thomas Frank,https://www.youtube.com/@Thomasfrank/,3000000,300,500000,Monologue,en,US,Study strategies and productivity systems,,active
+CH064,N042,Mel Robbins,https://www.youtube.com/@melrobbins/,5000000,500,300000,Monologue,en,US,Behavior change and motivation frameworks,,active
+CH065,N042,Improvement Pill,https://www.youtube.com/channel/UCBIt1VN5j37PVM8LLSuTTlw/,3500000,200,500000,Monologue/Animation,en,US,Animated self-improvement strategies,,active
+CH066,N042,Better Ideas,https://www.youtube.com/channel/UCtUId5WFnN82GdDy7DgaQ7w/,2500000,150,500000,Monologue,en,US,Practical self-improvement and habit building,,active
+CH067,N045,Einzelganger,https://www.youtube.com/@Einzelganger/,2000000,200,300000,Monologue,en,NL,Stoicism and philosophy for modern life,,active
+CH068,N042,Hamza Ahmed,https://www.youtube.com/channel/UCWsslCoN3b_wBaFVWK_ye_A/,5000000,400,500000,Monologue,en,UK,Masculine self-improvement and discipline,,active
+CH069,N047,The Art of Improvement,https://www.youtube.com/channel/UCtYzVCmNxrshH4_bPO_-Y-A/,1500000,200,200000,Monologue/Animation,en,US,Book summaries and life improvement ideas,,active
+CH070,N040,Lavendaire - Aileen Xu,https://www.youtube.com/@Lavendaire/,2500000,500,200000,Monologue,en,US,Personal growth and intentional living,,active
+CH071,N035,Doctor Ramani,https://www.youtube.com/channel/UC9Qixc77KhCo88E5muxUjmA/,1800000,1000,100000,Monologue,en,US,Narcissism and personality disorder expert education,,active
+CH072,N035,Dr. Tracey Marks,https://www.youtube.com/@DrTraceyMarks/,1200000,400,200000,Monologue,en,US,Psychiatrist explaining mental health conditions,,active
+CH073,N035,Therapy in a Nutshell,https://www.youtube.com/channel/UCpuqYFKLkcEryEieomiAv3Q/,1000000,300,150000,Monologue,en,US,Therapist teaching practical mental health skills,,active
+CH074,N035,Kati Morton,https://www.youtube.com/channel/UCzBYOHyEEzlkRdDOSobbpvw/,1200000,800,50000,Monologue,en,US,Licensed therapist educating about mental health,,active
+CH075,N035,HealthyGamerGG - Dr. K,https://www.youtube.com/channel/UClHVl2N3jPEbkNJVx-ItQIQ/,2000000,500,200000,Monologue,en,US,Harvard psychiatrist on mental health for gamers,,active
+CH076,N065,Psychology In Seattle - Dr. Kirk Honda,https://www.youtube.com/channel/UCOUZWV1DRtHtpP2H48S7iiw/,500000,1500,50000,Monologue,en,US,Licensed therapist psychology commentary,,active
+CH077,N035,The Holistic Psychologist - Nicole LePera,https://www.youtube.com/channel/UCtEWTaMjqOH8J1Gy06Ey0Yg/,800000,300,50000,Monologue,en,US,Holistic psychology and mind-body healing,,active
+CH078,N035,MedCircle,https://www.youtube.com/channel/UCyGOloOIJWt8NlE4tnejQeA/,1000000,500,100000,Monologue/Interview,en,US,Mental health education with clinical experts,,active
+CH079,N065,Practical Psychology,https://www.youtube.com/channel/UCir93b_ftqInEaDpsWYbo_g/,4000000,300,500000,Monologue/Animation,en,US,Psychology concepts explained with animation,,active
+CH080,N035,How to ADHD,https://www.youtube.com/channel/UC-nPM1_kSZf91ZGkcgy_95Q/,1500000,200,200000,Monologue,en,US,ADHD education and coping strategies,,active
+CH081,N057,LegalEagle - Devin Stone,https://www.youtube.com/@LegalEagle/,2700000,500,500000,Monologue,en,US,Trial attorney explaining law and analyzing cases,,active
+CH082,N057,Emily D. Baker,https://www.youtube.com/@TheEmilyDBaker/,800000,1000,50000,Monologue,en,US,Former DA explaining headline cases in plain language,,active
+CH083,N057,Lawyer You Know - Peter Tragos,https://www.youtube.com/@LawyerYouKnow/,300000,400,100000,Monologue,en,US,Trusted legal explainer breaking down cases,,active
+CH084,N060,The DUI Guy,https://www.youtube.com/c/theDUIGuy/,17000000,500,2000000,Monologue,en,US,Criminal defense and police interaction education,,active
+CH085,N057,Steve Lehto,https://www.youtube.com/@stevelehto/,800000,2000,30000,Monologue,en,US,Consumer protection and lemon law attorney,,active
+CH086,N057,Audit the Audit,https://www.youtube.com/@AuditTheAudit/,3000000,300,500000,Monologue,en,US,Legal analysis of police interaction videos,,active
+CH087,N057,CLR Bruce Rivers,https://www.youtube.com/@CLRBruceRivers/,2000000,1000,100000,Monologue,en,US,Criminal law commentary on viral cases,,active
+CH088,N057,The Civil Rights Lawyer,https://www.youtube.com/@thecivilrightslawyer/,1500000,400,200000,Monologue,en,US,Civil rights law education and case analysis,,active
+CH089,N057,Lawful Masses - Leonard French,https://www.youtube.com/@lawfulmasses/,200000,500,20000,Monologue,en,US,IP law and copyright education and case review,,active
+CH090,N057,Leeja Miller,https://www.youtube.com/leejamiller/,700000,300,100000,Monologue,en,US,Legal and political analysis from lawyer perspective,,active
+CH091,N038,Doctor Mike,https://www.youtube.com/channel/UC0QHWhjbe5fGJEPz3sVb6nw/,12000000,600,3000000,Monologue,en,US,Board-certified doctor reacting to medical content,,active
+CH092,N038,Dr. Eric Berg,https://www.youtube.com/channel/UC3w193M5tYPJqF0Hi-7U-2g/,12000000,5000,200000,Monologue,en,US,Keto and health education from chiropractor,,active
+CH093,N038,Mama Doctor Jones,https://www.youtube.com/channel/UCrPhcbDwqWRc-3tteE2BS6g/,1500000,300,200000,Monologue,en,US,OB-GYN reproductive health education,,active
+CH094,N038,Medlife Crisis,https://www.youtube.com/channel/UCgRBRE1DUP2w7HTH9j_L4OQ/,800000,100,300000,Monologue,en,UK,Cardiologist with cinematic medical education,,active
+CH095,N038,Mark Hyman MD,https://www.youtube.com/channel/UC5IuDMmKWSsBFB0iKky6aEQ/,1000000,1000,50000,Monologue,en,US,Functional medicine and nutrition education,,active
+CH096,N038,Doctor Eye Health,https://www.youtube.com/channel/UCSs2CvlyOKLYY4SbfehnKNQ/,1200000,400,100000,Monologue,en,US,Optometrist explaining eye health topics,,active
+CH097,N038,Rena Malik MD,https://www.youtube.com/channel/UCV66hp0qxx2Xq273N0bo7uQ/,700000,300,100000,Monologue,en,US,Urologist health education,,active
+CH098,N038,Dr. Pradip Jamnadas MD,https://www.youtube.com/channel/UCOtQHehGWtblMp1gZC8Kq3Q/,500000,100,300000,Monologue/Lecture,en,US,Cardiologist explaining heart health and fasting,,active
+CH099,N038,Doctor ER,https://www.youtube.com/channel/UCdZmX-f3TDaRhnhM4KLM4SQ/,600000,300,200000,Monologue,en,US,ER doctor reacting to medical situations,,active
+CH100,N038,Dr. Andrea Furlan,https://www.youtube.com/channel/UCXnFys9ZXBE0uyDhKHUi-dA/,400000,300,50000,Monologue,en,CA,Pain management and evidence-based medicine,,active

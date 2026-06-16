@@ -1,0 +1,101 @@
+niche_id,domain,niche,sub_niche,format_type,avg_cpm_usd,difficulty,persona_potential,description
+N001,Finance & Investing,Personal Finance,Budgeting & Saving,Monologue,15-22,High,Very High,Creators sharing budgeting frameworks and saving strategies
+N002,Finance & Investing,Personal Finance,Credit & Debt Management,Monologue,15-22,High,Very High,Experts explaining credit scores and debt payoff strategies
+N003,Finance & Investing,Investing,Stock Market Analysis,Monologue,18-25,High,Very High,Solo analysts breaking down stock picks and market trends
+N004,Finance & Investing,Investing,Dividend Investing & Passive Income,Monologue,16-22,Medium,Very High,Creators teaching dividend portfolio strategies
+N005,Finance & Investing,Investing,Real Estate Investing,Monologue,12-18,Medium,Very High,Real estate investors sharing deal analysis and strategies
+N006,Finance & Investing,Crypto & Web3,Crypto Analysis & Updates,Monologue,10-16,Medium,High,Solo crypto analysts providing market commentary
+N007,Finance & Investing,Crypto & Web3,DeFi & Blockchain Education,Monologue,10-16,Medium,High,Educators explaining DeFi protocols and blockchain tech
+N008,Finance & Investing,Tax & Accounting,Tax Strategy & Planning,Monologue,18-30,Low,Very High,CPAs and tax pros sharing tax optimization strategies
+N009,Technology & AI,Artificial Intelligence,AI Tools & Tutorials,Monologue,15-25,Medium,Very High,Creators demoing and teaching AI tools
+N010,Technology & AI,Artificial Intelligence,AI News & Commentary,Monologue,15-25,High,Very High,Solo commentators analyzing AI industry developments
+N011,Technology & AI,Artificial Intelligence,Machine Learning Education,Monologue,15-25,Low,Very High,Educators teaching ML concepts and implementations
+N012,Technology & AI,Software Development,Programming Tutorials,Monologue/Screencast,12-20,High,Very High,Developers teaching coding through talking-head + screen
+N013,Technology & AI,Software Development,System Design & Architecture,Monologue,15-22,Low,Very High,Engineers explaining system design concepts
+N014,Technology & AI,Software Development,Web Development,Monologue/Screencast,12-18,High,High,Full-stack developers teaching web technologies
+N015,Technology & AI,Software Development,DevOps & Cloud,Monologue/Screencast,15-22,Low,Very High,Cloud engineers teaching AWS/GCP/Azure and DevOps
+N016,Technology & AI,Cybersecurity,Security Education & News,Monologue,15-25,Low,Very High,Security professionals sharing threat analysis and education
+N017,Technology & AI,Data Science,Data Analytics & Visualization,Monologue/Screencast,12-20,Low,High,Data scientists teaching analytics and tools
+N018,Technology & AI,Tech Reviews,Consumer Tech Analysis,Monologue,12-18,High,High,Solo reviewers giving deep tech product analysis
+N019,Technology & AI,No-Code/Low-Code,No-Code Tool Tutorials,Monologue/Screencast,10-16,Medium,High,Builders teaching no-code platforms and automation
+N020,Business & Entrepreneurship,Entrepreneurship,Startup Strategy & Lessons,Monologue,18-30,Medium,Very High,Founders sharing startup lessons and strategies
+N021,Business & Entrepreneurship,Entrepreneurship,Side Hustle & Freelancing,Monologue,12-18,High,High,Creators sharing side income experiments and tips
+N022,Business & Entrepreneurship,Digital Marketing,SEO & Content Marketing,Monologue,12-18,Medium,Very High,Marketing experts teaching SEO and content strategies
+N023,Business & Entrepreneurship,Digital Marketing,Social Media Marketing,Monologue,12-18,High,High,Marketers teaching platform-specific growth tactics
+N024,Business & Entrepreneurship,Digital Marketing,Email Marketing & Funnels,Monologue,12-18,Low,High,Experts teaching email list building and funnel optimization
+N025,Business & Entrepreneurship,E-Commerce,Shopify & Dropshipping,Monologue,10-16,High,High,E-commerce operators sharing store building strategies
+N026,Business & Entrepreneurship,E-Commerce,Amazon FBA & Marketplace,Monologue,10-16,Medium,High,Sellers sharing Amazon FBA and marketplace strategies
+N027,Business & Entrepreneurship,Sales,Sales Techniques & Psychology,Monologue,15-22,Low,Very High,Sales trainers teaching closing techniques and psychology
+N028,Business & Entrepreneurship,Management & Leadership,Leadership & Team Building,Monologue,15-25,Low,Very High,Leaders sharing management frameworks and lessons
+N029,Business & Entrepreneurship,Creator Economy,YouTube Growth & Monetization,Monologue,10-15,High,High,Creators teaching other creators how to grow
+N030,Business & Entrepreneurship,Affiliate Marketing,Affiliate Strategy & Income,Monologue,12-18,Medium,High,Marketers teaching affiliate marketing systems
+N031,Health & Wellness,Nutrition,Diet & Nutrition Science,Monologue,9-14,Medium,Very High,Nutritionists and dietitians explaining food science
+N032,Health & Wellness,Nutrition,Meal Prep & Healthy Eating,Monologue,7-11,High,High,Creators teaching practical meal planning
+N033,Health & Wellness,Fitness,Strength Training & Bodybuilding,Monologue,7-11,High,High,Trainers explaining workout science and programming
+N034,Health & Wellness,Fitness,Yoga & Mindful Movement,Monologue,7-11,Medium,High,Yoga instructors teaching philosophy and practice
+N035,Health & Wellness,Mental Health,Psychology & Therapy Education,Monologue,9-14,Medium,Very High,Therapists and psychologists sharing mental health education
+N036,Health & Wellness,Mental Health,Stress Management & Mindfulness,Monologue,9-14,Medium,High,Experts teaching stress reduction and mindfulness techniques
+N037,Health & Wellness,Biohacking,Longevity & Optimization,Monologue,10-16,Low,Very High,Biohackers sharing longevity science and self-experiments
+N038,Health & Wellness,Medical Education,Doctor Explains / Medical Commentary,Monologue,9-14,Low,Very High,Physicians explaining medical conditions and health news
+N039,Health & Wellness,Sleep Science,Sleep Optimization,Monologue,9-14,Low,High,Sleep scientists sharing sleep improvement strategies
+N040,Self-Improvement & Productivity,Productivity,Time Management & Systems,Monologue,10-16,Medium,Very High,Productivity experts sharing frameworks and tools
+N041,Self-Improvement & Productivity,Productivity,Deep Work & Focus,Monologue,10-16,Low,Very High,Creators teaching concentration and deep work strategies
+N042,Self-Improvement & Productivity,Self-Development,Habit Building & Discipline,Monologue,8-14,High,Very High,Creators teaching habit formation and self-discipline
+N043,Self-Improvement & Productivity,Self-Development,Emotional Intelligence & Social Skills,Monologue,8-14,Low,Very High,Coaches teaching EQ and communication skills
+N044,Self-Improvement & Productivity,Self-Development,Confidence & Public Speaking,Monologue,8-14,Medium,Very High,Speakers teaching communication and confidence skills
+N045,Self-Improvement & Productivity,Mindset,Stoicism & Philosophy Applied,Monologue,8-12,Medium,Very High,Creators applying ancient philosophy to modern life
+N046,Self-Improvement & Productivity,Mindset,Motivation & Mindset Shifts,Monologue,8-12,High,High,Motivational creators sharing mindset frameworks
+N047,Self-Improvement & Productivity,Reading & Learning,Book Summaries & Reviews,Monologue,8-12,High,High,Creators summarizing and analyzing non-fiction books
+N048,Self-Improvement & Productivity,Career Development,Career Advice & Job Search,Monologue,12-18,Medium,Very High,Career coaches sharing job search and growth strategies
+N049,Self-Improvement & Productivity,Career Development,Interview Prep & Resume Building,Monologue,12-18,Medium,High,HR professionals teaching interview techniques
+N050,Education & Academia,Science,Science Explanation & Commentary,Monologue,8-12,Medium,Very High,Scientists making complex topics accessible
+N051,Education & Academia,History,History Deep Dives & Analysis,Monologue,6-10,Medium,Very High,Historians presenting narrative history content
+N052,Education & Academia,Mathematics,Math Education & Problem Solving,Monologue,8-12,Low,High,Math educators making concepts intuitive
+N053,Education & Academia,Language Learning,Language Teaching & Tips,Monologue,8-12,Medium,High,Polyglots and teachers sharing language learning methods
+N054,Education & Academia,Philosophy,Philosophy Lectures & Discussion,Monologue,6-10,Low,Very High,Philosophy educators discussing big ideas
+N055,Education & Academia,Economics,Economics Explained,Monologue,10-16,Low,Very High,Economists explaining macro/micro concepts and current events
+N056,Education & Academia,Exam Prep,Test Prep & Study Strategies,Monologue,10-16,Medium,High,Tutors teaching SAT/GRE/GMAT/IELTS strategies
+N057,Legal & Compliance,Law,Legal Education & Commentary,Monologue,12-18,Low,Very High,Lawyers explaining legal concepts and current cases
+N058,Legal & Compliance,Law,Business Law & Contracts,Monologue,15-22,Low,Very High,Business attorneys teaching contract and corporate law
+N059,Legal & Compliance,Law,Immigration Law & Visa Guidance,Monologue,12-18,Low,Very High,Immigration lawyers explaining visa processes
+N060,Legal & Compliance,Law,Criminal Law Commentary,Monologue,12-18,Low,Very High,Criminal defense attorneys analyzing cases
+N061,Real Estate,Real Estate,Market Analysis & Trends,Monologue,10-16,Medium,Very High,Agents and analysts providing market commentary
+N062,Real Estate,Real Estate,First-Time Buyer Education,Monologue,10-16,Medium,High,Realtors educating first-time homebuyers
+N063,Real Estate,Real Estate,Property Management & Landlording,Monologue,10-16,Low,High,Landlords sharing property management strategies
+N064,Real Estate,Real Estate,Commercial Real Estate,Monologue,12-20,Low,Very High,CRE professionals explaining commercial deals
+N065,Psychology & Relationships,Psychology,Behavioral Psychology,Monologue,8-14,Low,Very High,Psychologists explaining human behavior patterns
+N066,Psychology & Relationships,Psychology,Cognitive Science & Decision Making,Monologue,8-14,Low,Very High,Researchers explaining biases and decision science
+N067,Psychology & Relationships,Relationships,Dating & Relationship Advice,Monologue,6-10,High,High,Relationship coaches sharing dating strategies
+N068,Psychology & Relationships,Relationships,Communication & Conflict Resolution,Monologue,8-14,Low,Very High,Therapists teaching healthy communication patterns
+N069,Psychology & Relationships,Parenting,Parenting Education & Child Development,Monologue,7-11,Medium,High,Child psychologists and parent educators sharing strategies
+N070,Design & Creative,Graphic Design,Design Principles & Tutorials,Monologue/Screencast,8-12,Medium,High,Designers teaching visual design fundamentals
+N071,Design & Creative,UX/UI Design,UX Research & Design Process,Monologue/Screencast,12-18,Low,Very High,UX professionals teaching design thinking
+N072,Design & Creative,Photography,Photography Education & Technique,Monologue,8-12,Medium,High,Photographers teaching composition and technique
+N073,Design & Creative,Writing & Copywriting,Copywriting & Content Writing,Monologue,10-16,Low,Very High,Copywriters teaching persuasive writing
+N074,Design & Creative,Branding,Brand Strategy & Identity,Monologue,12-18,Low,Very High,Brand strategists teaching positioning and identity
+N075,Lifestyle & Culture,Minimalism,Minimalism & Intentional Living,Monologue,6-10,Medium,High,Minimalists sharing decluttering and intentional lifestyle
+N076,Lifestyle & Culture,Sustainability,Green Living & Sustainability,Monologue,6-10,Low,High,Eco-advocates teaching sustainable practices
+N077,Lifestyle & Culture,Cultural Commentary,Social Commentary & Analysis,Monologue,6-10,Medium,Very High,Commentators analyzing cultural trends and society
+N078,Lifestyle & Culture,Digital Nomad,Remote Work & Digital Nomad Life,Monologue,8-14,Medium,High,Digital nomads sharing location-independent work strategies
+N079,Lifestyle & Culture,Spirituality,Meditation & Spiritual Practices,Monologue,6-10,Medium,High,Spiritual teachers sharing practices and philosophy
+N080,Trades & Practical Skills,Woodworking,Woodworking Education,Monologue/Demo,6-10,Low,High,Woodworkers teaching craft techniques
+N081,Trades & Practical Skills,Electrical & Plumbing,Home Repair & Trade Skills,Monologue/Demo,8-12,Low,High,Tradespeople teaching practical repair skills
+N082,Trades & Practical Skills,Automotive,Car Mechanics & Maintenance,Monologue/Demo,8-12,Medium,High,Mechanics teaching car repair and maintenance
+N083,Trades & Practical Skills,Gardening,Gardening & Homesteading,Monologue/Demo,6-10,Medium,High,Gardeners teaching growing techniques and homesteading
+N084,Communication & Media,Podcasting,Podcast Creation & Growth,Monologue,8-12,Low,High,Podcasters teaching show creation and growth
+N085,Communication & Media,Video Production,Filmmaking & Video Production,Monologue,8-12,Medium,High,Filmmakers teaching production techniques
+N086,Communication & Media,Public Relations,PR & Media Strategy,Monologue,12-18,Low,Very High,PR professionals teaching media relations
+N087,Geopolitics & Current Affairs,Geopolitics,Geopolitical Analysis,Monologue,8-14,Low,Very High,Analysts providing geopolitical commentary
+N088,Geopolitics & Current Affairs,Current Affairs,News Analysis & Commentary,Monologue,6-10,High,Very High,Independent journalists providing news analysis
+N089,Geopolitics & Current Affairs,Military & Defense,Military History & Analysis,Monologue,8-12,Low,High,Military analysts and historians providing commentary
+N090,Personal Branding & Influence,Personal Branding,Building Personal Brand Online,Monologue,10-16,Medium,Very High,Brand coaches teaching personal brand strategies
+N091,Personal Branding & Influence,Thought Leadership,Thought Leadership & Authority Building,Monologue,10-16,Low,Very High,Experts teaching how to build authority in a field
+N092,Data & Analytics,Business Intelligence,Data-Driven Decision Making,Monologue/Screencast,12-20,Low,Very High,Analytics professionals teaching BI tools and frameworks
+N093,Data & Analytics,Excel & Spreadsheets,Advanced Excel & Google Sheets,Monologue/Screencast,10-16,Medium,High,Spreadsheet experts teaching advanced techniques
+N094,HR & Organizational,Human Resources,HR Strategy & People Management,Monologue,12-18,Low,High,HR leaders sharing people management strategies
+N095,HR & Organizational,Organizational Psychology,Org Behavior & Culture,Monologue,12-18,Low,Very High,Org psychologists explaining workplace dynamics
+N096,Supply Chain & Operations,Supply Chain,Supply Chain & Logistics,Monologue,10-16,Low,High,Supply chain professionals explaining operations
+N097,Supply Chain & Operations,Project Management,PM Methodologies & Tools,Monologue,10-16,Low,High,Project managers teaching Agile/Scrum/PM frameworks
+N098,Insurance & Risk,Insurance,Insurance Education & Comparison,Monologue,18-30,Low,High,Insurance professionals explaining products and strategies
+N099,Architecture & Interior,Architecture,Architecture Critique & Education,Monologue,8-14,Low,High,Architects explaining design principles and building analysis
+N100,Architecture & Interior,Interior Design,Interior Design Tips & Principles,Monologue,8-14,Medium,High,Interior designers teaching design fundamentals

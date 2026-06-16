@@ -1,0 +1,101 @@
+channel_id,niche_id,channel_name,channel_url,subscriber_count,total_videos,avg_views,format_type,language,country,description,last_scraped,status
+CH0901,N010,Wes Roth,https://www.youtube.com/@WesRoth/,313000,400,100000,Monologue,en,US,Fast-paced AI commentary and industry analysis,2026-04-16,active
+CH0902,N010,Two Minute Papers,https://www.youtube.com/@TwoMinutePapers/,1500000,700,200000,Monologue,en,HU,ML research paper breakdowns in accessible format,2026-04-16,active
+CH0903,N010,Yannic Kilcher,https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew/,313000,400,30000,Monologue,en,CH,Deep technical ML paper reviews and analysis,2026-04-16,active
+CH0904,N010,David Shapiro,https://www.youtube.com/@DaveShap/,250000,500,30000,Monologue,en,US,AI philosophy and AGI discussion and commentary,2026-04-16,active
+CH0905,N010,TheAIGRID,https://www.youtube.com/@TheAIGRID/,300000,400,50000,Monologue,en,UK,Breaking AI news coverage and analysis,2026-04-16,active
+CH0906,N010,Lex Fridman,https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA/,5000000,500,1000000,Monologue,en,US,Long-form AI and technology interviews and commentary,2026-04-16,active
+CH0907,N010,Machine Learning Street Talk,https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ/,214000,200,20000,Monologue,en,UK,In-depth AI research discussions and debates,2026-04-16,active
+CH0908,N010,Dwarkesh Patel,https://www.youtube.com/@DwarkeshPatel/,500000,100,300000,Monologue,en,US,Deep AI interviews with researchers and industry leaders,2026-04-16,active
+CH0909,N010,Robert Miles AI Safety,https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg/,169000,100,40000,Monologue,en,UK,AI safety concepts explained for general audience,2026-04-16,active
+CH0910,N010,The TWIML AI Podcast,https://www.youtube.com/channel/UC7kjWIK1H8tfmFlzZO-wHMw/,28500,400,5000,Monologue,en,US,This Week in Machine Learning podcast and AI commentary,2026-04-16,active
+CH0911,N010,Super Data Science Podcast,https://www.youtube.com/channel/UCMbtqTGdSsxYYhhTpV4lSTQ/,183000,500,10000,Monologue,en,US,Data science and AI industry commentary with Jon Krohn,2026-04-16,active
+CH0912,N010,Cold Fusion,https://www.youtube.com/@ColdFusion/,5000000,500,500000,Monologue,en,AU,Technology and AI documentary-style commentary,2026-04-16,active
+CH0913,N010,Fireship,https://www.youtube.com/@Fireship/,3500000,800,500000,Monologue/Screencast,en,US,Rapid-fire tech and AI news with developer perspective,2026-04-16,active
+CH0914,N010,AI Explained,https://www.youtube.com/@aiexplained-official/,600000,200,200000,Monologue,en,US,In-depth AI development analysis and commentary,2026-04-16,active
+CH0915,N010,Matt Wolfe,https://www.youtube.com/@mreflow/,800000,400,150000,Monologue,en,US,AI news roundups and industry trend analysis,2026-04-16,active
+CH0916,N010,Matthew Berman,https://www.youtube.com/@matthew_berman/,400000,400,80000,Monologue,en,US,AI model releases and industry news analysis,2026-04-16,active
+CH0917,N010,Gary Marcus,https://www.youtube.com/@garymarcus/,50000,80,15000,Monologue,en,US,Critical AI commentary from cognitive scientist,2026-04-16,active
+CH0918,N010,Dr. Alan Thompson,https://www.youtube.com/@DrAlanThompson/,80000,100,20000,Monologue,en,AU,AI research analysis and AGI progress tracking,2026-04-16,active
+CH0919,N010,AI News,https://www.youtube.com/channel/UCDZfn935vwaahDabsfylfIQ/,92100,300,15000,Monologue,en,US,Daily AI news coverage and updates,2026-04-16,active
+CH0920,N010,Artificial Intelligence News Daily,https://www.youtube.com/channel/UCItylrp-EOkBwsUT7c_Xkxg/,58300,200,10000,Monologue,en,US,Fast-turnaround daily AI news coverage,2026-04-16,active
+CH0921,N010,Eye on AI,https://www.youtube.com/channel/UC-o9u9QL4zXzBwjvT1gmzNg/,33300,80,5000,Monologue,en,US,AI industry landscape analysis and interviews,2026-04-16,active
+CH0922,N010,Bloomberg Technology,https://www.youtube.com/channel/UCrM7B7SL_g1edFOnmj-SDKg/,716000,5000,30000,Monologue,en,US,Technology and AI business news coverage,2026-04-16,active
+CH0923,N010,Joanna Stern - WSJ,https://www.youtube.com/@JoannaStern/,200000,300,50000,Monologue,en,US,Consumer AI and tech commentary from WSJ perspective,2026-04-16,active
+CH0924,N010,MattVidPro AI,https://www.youtube.com/@MattVidPro/,350000,500,50000,Monologue,en,US,AI news focused on creative and generative AI tools,2026-04-16,active
+CH0925,N010,The AI Advantage,https://www.youtube.com/@TheAIAdvantage/,500000,400,80000,Monologue,en,US,AI news and practical commentary by Igor Pogany,2026-04-16,active
+CH0926,N010,Linus Tech Tips,https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw/,16700000,6000,1000000,Monologue,en,CA,Tech and AI news with hardware perspective,2026-04-16,active
+CH0927,N010,What's AI by Louis Bouchard,https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg/,71100,150,15000,Monologue,en,CA,AI research news simplified for general audience,2026-04-16,active
+CH0928,N010,AI Coffee Break with Letitia,https://www.youtube.com/channel/UCobqgqE4i5Kf7wrxRxhToQA/,62700,80,15000,Monologue,en,DE,Bite-sized AI research news and commentary,2026-04-16,active
+CH0929,N010,Connor Shorten,https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/,45000,100,8000,Monologue,en,US,AI research paper reviews and news analysis,2026-04-16,active
+CH0930,N010,Aleksa Gordic - The AI Epiphany,https://www.youtube.com/channel/UCj8shE7aIn4Yawwbo2FceCQ/,63600,100,10000,Monologue,en,RS,AI research commentary and paper walkthroughs,2026-04-16,active
+CH0931,N010,AI Explained UK,https://www.youtube.com/@AIExplainedUK/,30000,80,8000,Monologue,en,UK,UK-focused AI policy and news commentary,2026-04-16,active
+CH0932,N010,Marques Brownlee,https://www.youtube.com/@mkbhd/,20700000,1800,3000000,Monologue,en,US,Tech and AI product news from premier tech reviewer,2026-04-16,active
+CH0933,N010,Dave Lee,https://www.youtube.com/@Dave2D/,3700000,600,500000,Monologue,en,CA,AI and tech analysis with consumer perspective,2026-04-16,active
+CH0934,N010,Dr Waku,https://www.youtube.com/@drwaku/,30500,150,8000,Monologue,en,US,AI research news and development commentary,2026-04-16,active
+CH0935,N010,Decoder - AI Podcast,https://www.youtube.com/@DecoderAI/,40000,100,8000,Monologue,en,US,AI industry podcast with news roundups,2026-04-16,active
+CH0936,N010,DeepLearningAI,https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/,595000,500,30000,Monologue,en,US,Andrew Ng's AI education and industry commentary,2026-04-16,active
+CH0937,N010,Stanford HAI,https://www.youtube.com/channel/UChugFTK0KyrES9terTid8vA/,32500,100,8000,Monologue,en,US,Stanford AI research talks and policy discussions,2026-04-16,active
+CH0938,N010,Siraj Raval,https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/,773000,400,50000,Monologue,en,US,Entertaining AI news and trend commentary,2026-04-16,active
+CH0939,N010,The Verge,https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ/,3500000,5000,100000,Monologue,en,US,Tech and AI industry news coverage,2026-04-16,active
+CH0940,N010,CNET,https://www.youtube.com/channel/UCOmcA3f_RrH6b9NmcNa4tdg/,4100000,10000,50000,Monologue,en,US,Consumer tech and AI news reporting,2026-04-16,active
+CH0941,N010,IBM Technology,https://www.youtube.com/channel/UCKWaEZ-_VweaEx1j62do_vQ/,1600000,1000,50000,Monologue,en,US,Enterprise AI news and technology explanations,2026-04-16,active
+CH0942,N010,TWiT Netcast Network,https://www.youtube.com/channel/UCwY9B5_8QDGP8niZhBtTh8w/,279000,5000,10000,Monologue,en,US,This Week in Tech podcast with AI coverage,2026-04-16,active
+CH0943,N010,Jordan Harrod,https://www.youtube.com/@JordanHarrod/,88400,100,20000,Monologue,en,US,AI ethics and societal impact commentary,2026-04-16,active
+CH0944,N010,Technology Connections,https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q/,3100000,300,500000,Monologue,en,US,In-depth technology analysis and commentary,2026-04-16,active
+CH0945,N010,DeepMind,https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A/,854000,300,50000,Monologue,en,UK,Cutting-edge AI research presentations and news,2026-04-16,active
+CH0946,N010,Google DeepMind,https://www.youtube.com/@GoogleDeepMind/,300000,200,30000,Monologue,en,UK,Official Google DeepMind research updates,2026-04-16,active
+CH0947,N010,Undecidable Problem,https://www.youtube.com/@UndecidableProblem/,50000,80,10000,Monologue,en,US,AI theoretical discussion and news commentary,2026-04-16,active
+CH0948,N010,AI Uncovered,https://www.youtube.com/@AIUncovered/,200000,200,30000,Monologue,en,US,AI news breakdowns and trend analysis,2026-04-16,active
+CH0949,N010,Riley Brown,https://www.youtube.com/@rileybrown_ai/,80000,150,15000,Monologue,en,US,AI agent news and development commentary,2026-04-16,active
+CH0950,N010,Liam Ottley,https://www.youtube.com/@LiamOttley/,350000,200,60000,Monologue,en,AU,AI business news and agency industry commentary,2026-04-16,active
+CH0951,N010,AI Jason,https://www.youtube.com/@AIJason/,150000,150,30000,Monologue,en,US,AI startup news and business trend analysis,2026-04-16,active
+CH0952,N010,Sam Witteveen,https://www.youtube.com/@samwitteveen/,50000,200,10000,Monologue,en,AU,LLM development news and technical commentary,2026-04-16,active
+CH0953,N010,WorldofAI,https://www.youtube.com/@WorldofAI/,200000,300,30000,Monologue,en,US,Open-source AI news and model release coverage,2026-04-16,active
+CH0954,N010,1littlecoder,https://www.youtube.com/@1littlecoder/,150000,300,20000,Monologue/Screencast,en,US,AI development news with coding perspective,2026-04-16,active
+CH0955,N010,Futurepedia,https://www.youtube.com/@Futurepedia/,100000,200,15000,Monologue,en,US,AI tool news and weekly roundup coverage,2026-04-16,active
+CH0956,N010,Marketing AI Institute,https://www.youtube.com/channel/UCdHpbfqjELZmhqY3k0ELGcQ/,16800,100,5000,Monologue,en,US,AI marketing industry news and analysis,2026-04-16,active
+CH0957,N010,The Algorithmic Bridge,https://www.youtube.com/@TheAlgorithmicBridge/,20000,60,5000,Monologue,en,ES,Critical AI commentary and philosophical analysis,2026-04-16,active
+CH0958,N010,Corbin Brown,https://www.youtube.com/@CorbinBrown/,180000,200,25000,Monologue,en,US,AI automation news and industry updates,2026-04-16,active
+CH0959,N010,Income Stream Surfers,https://www.youtube.com/@IncomeStreamSurfers/,200000,300,30000,Monologue,en,US,AI business opportunity news and commentary,2026-04-16,active
+CH0960,N010,Prompt Engineering,https://www.youtube.com/@PromptEngineering/,200000,250,25000,Monologue,en,US,Prompt engineering news and LLM updates,2026-04-16,active
+CH0961,N010,AI Andy,https://www.youtube.com/@TheAIAndy/,213000,250,40000,Monologue,en,US,AI tool launch news and commentary,2026-04-16,active
+CH0962,N010,All About AI,https://www.youtube.com/channel/UCR9j1jqqB5Rse69wjUnbYwA/,220000,300,35000,Monologue,en,US,Comprehensive AI news coverage and analysis,2026-04-16,active
+CH0963,N010,Peter Diamandis,https://www.youtube.com/@PeterDiamandis/,300000,300,50000,Monologue,en,US,Futurist AI and technology commentary,2026-04-16,active
+CH0964,N010,Ai Angel,https://www.youtube.com/@AiAngel/,672000,200,80000,Monologue,en,US,AI industry news and creative tool updates,2026-04-16,active
+CH0965,N010,Julia McCoy,https://www.youtube.com/@juliamccoy/,268000,200,30000,Monologue,en,US,AI content marketing news and industry trends,2026-04-16,active
+CH0966,N010,Jeff Su,https://www.youtube.com/@JeffSu/,1000000,200,200000,Monologue,en,US,AI productivity news and workplace AI commentary,2026-04-16,active
+CH0967,N010,Nate Herk,https://www.youtube.com/@NateHerk/,100000,150,20000,Monologue,en,US,AI monetization news and opportunity analysis,2026-04-16,active
+CH0968,N010,God of Prompt,https://www.youtube.com/@GodofPrompt/,50000,100,10000,Monologue,en,US,ChatGPT and AI model update news,2026-04-16,active
+CH0969,N010,Auto GPT Tutorials,https://www.youtube.com/@AutoGPTTutorials/,50000,80,10000,Monologue,en,US,AI agent development news and updates,2026-04-16,active
+CH0970,N010,Mervin Praison,https://www.youtube.com/@MervinPraison/,60000,150,10000,Monologue,en,IN,AI framework release news and commentary,2026-04-16,active
+CH0971,N010,Denis Shiryaev,https://www.youtube.com/@DenisShiryaev/,200000,100,50000,Monologue,en,US,AI video technology news and demonstrations,2026-04-16,active
+CH0972,N010,Prompt Muse,https://www.youtube.com/@PromptMuse/,80000,100,15000,Monologue,en,US,AI art and generative AI news coverage,2026-04-16,active
+CH0973,N010,Scale AI,https://www.youtube.com/channel/UCAHS4cP-uIXdrpCsSfGq_OA/,390000,100,30000,Monologue,en,US,Enterprise AI news and industry analysis,2026-04-16,active
+CH0974,N010,MITCSAIL,https://www.youtube.com/channel/UCBpxspUNl1Th33XbugiHJzw/,87500,200,10000,Monologue,en,US,MIT AI research news and presentations,2026-04-16,active
+CH0975,N010,SingularityNET,https://www.youtube.com/channel/UCbTE8vfz5zuEK5uRnc2yjrw/,31700,100,5000,Monologue,en,NL,Decentralized AI ecosystem news,2026-04-16,active
+CH0976,N010,Meta AI,https://www.youtube.com/channel/UC5qxlwEKM7-5YZudb24l0bg/,38100,100,8000,Monologue,en,US,Meta open-source AI release announcements,2026-04-16,active
+CH0977,N010,Amii Intelligence,https://www.youtube.com/channel/UCxxisInVr7upxv1yUhSgdBA/,15000,80,3000,Monologue,en,CA,Canadian AI research news and discussions,2026-04-16,active
+CH0978,N010,Global AI Community,https://www.youtube.com/channel/UCDVL0bPrZHwCeJrlyy-wxaQ/,29700,80,5000,Monologue,en,US,AI community events and news coverage,2026-04-16,active
+CH0979,N010,AI and Games,https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q/,231000,200,30000,Monologue,en,UK,Gaming AI news and development commentary,2026-04-16,active
+CH0980,N010,Dave Ebbelaar,https://www.youtube.com/@DaveEbbelaar/,100000,150,15000,Monologue,en,NL,Data AI news and industry commentary,2026-04-16,active
+CH0981,N010,AssemblyAI,https://www.youtube.com/@AssemblyAI/,60000,100,10000,Monologue,en,US,Speech AI and NLP industry news,2026-04-16,active
+CH0982,N010,AI Anytime,https://www.youtube.com/@AIAnytime/,150000,200,20000,Monologue,en,IN,AI news from Indian tech perspective,2026-04-16,active
+CH0983,N010,H2O.ai,https://www.youtube.com/channel/UCk6ONJlPzjw3DohAeMSgsng/,22500,200,5000,Monologue,en,US,AutoML and enterprise AI industry news,2026-04-16,active
+CH0984,N010,Lightning AI,https://www.youtube.com/channel/UC8m-y0yAFJpX0hRvxH8wJVw/,12500,80,5000,Monologue,en,US,PyTorch ecosystem news and updates,2026-04-16,active
+CH0985,N010,HuggingFace,https://www.youtube.com/channel/UCHlNU7kIZhRgSbhHvFoy72w/,119000,200,20000,Monologue,en,US,Open-source AI model news and community updates,2026-04-16,active
+CH0986,N010,Valerio Velardo - The Sound of AI,https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ/,36400,150,8000,Monologue,en,IT,Audio AI research news and commentary,2026-04-16,active
+CH0987,N010,Nachiketa Hebbar,https://www.youtube.com/channel/UCJPihOKkiT7TqP7NK9-GtuQ/,19100,80,5000,Monologue,en,IN,AI development news for beginners,2026-04-16,active
+CH0988,N010,AI Sciences,https://www.youtube.com/channel/UC8kFF39hsRrFfHM6-7A6APQ/,36800,100,5000,Monologue,en,US,AI science research news and reviews,2026-04-16,active
+CH0989,N010,Nicolai Nielsen,https://www.youtube.com/channel/UCpABUkWm8xMt5XmGcFb3EFg/,122000,150,15000,Monologue,en,DK,Computer vision and AI research news,2026-04-16,active
+CH0990,N010,Krish Naik,https://www.youtube.com/@krishnaik06/,1400000,1500,50000,Monologue,en,IN,AI and ML news from Indian tech educator,2026-04-16,active
+CH0991,N010,sentdex,https://www.youtube.com/@sentdex/,1400000,1200,40000,Monologue/Screencast,en,US,Python AI news and development updates,2026-04-16,active
+CH0992,N010,Tina Huang,https://www.youtube.com/@TinaHuang1/,400000,200,80000,Monologue,en,US,AI career and industry news commentary,2026-04-16,active
+CH0993,N010,James Briggs,https://www.youtube.com/channel/UCv83tO5cePwHMt1952IVVHw/,80300,200,15000,Monologue,en,UK,LangChain and AI infrastructure news,2026-04-16,active
+CH0994,N010,Venelin Valkov,https://www.youtube.com/channel/UCoW_WzQNJVAjxo4osNAxd_g/,33000,100,8000,Monologue,en,BG,ML development news and research commentary,2026-04-16,active
+CH0995,N010,Jeremy Howard,https://www.youtube.com/@howardjeremyp/,145000,200,30000,Monologue,en,AU,Fast.ai and deep learning research news,2026-04-16,active
+CH0996,N010,Santrel Media,https://www.youtube.com/@SantrelMedia/,400000,400,40000,Monologue,en,US,AI and tech news for content creators,2026-04-16,active
+CH0997,N010,Kevin Stratvert,https://www.youtube.com/@KevinStratvert/,2000000,300,300000,Monologue,en,US,AI productivity tool news and Microsoft updates,2026-04-16,active
+CH0998,N010,Howfinity,https://www.youtube.com/@Howfinity/,600000,500,50000,Monologue,en,US,AI tool launch news and feature updates,2026-04-16,active
+CH0999,N010,Brandon Foltz,https://www.youtube.com/@BrandonFoltz/,80000,200,10000,Monologue,en,US,Statistics and AI education news,2026-04-16,active
+CH1000,N010,Murtaza's Workshop,https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A/,447000,300,60000,Monologue,en,US,Robotics and AI project news updates,2026-04-16,active

@@ -1,0 +1,101 @@
+channel_id,niche_id,channel_name,channel_url,subscriber_count,total_videos,avg_views,format_type,language,country,description,last_scraped,status
+CH1801,N019,Buildcamp - Gregory John,https://www.youtube.com/@Buildcamp/,50000,200,5000,Monologue/Screencast,en,US,Bubble.io no-code app building education,2026-04-16,active
+CH1802,N019,No Code MBA,https://www.youtube.com/@NoCodeMBA/,30000,100,5000,Monologue/Screencast,en,US,No-code education for building apps and websites,2026-04-16,active
+CH1803,N019,Webflow,https://www.youtube.com/@Webflow/,300000,500,15000,Monologue/Screencast,en,US,Official Webflow platform tutorials,2026-04-16,active
+CH1804,N019,FlutterFlow,https://www.youtube.com/@FlutterFlow/,100000,400,10000,Monologue/Screencast,en,US,Official FlutterFlow no-code app builder tutorials,2026-04-16,active
+CH1805,N019,Bubble.io,https://www.youtube.com/@Bubbleio/,80000,300,8000,Monologue/Screencast,en,US,Official Bubble.io no-code platform tutorials,2026-04-16,active
+CH1806,N019,Zapier,https://www.youtube.com/@Zapier/,100000,300,10000,Monologue/Screencast,en,US,Official Zapier automation tutorials,2026-04-16,active
+CH1807,N019,Airtable,https://www.youtube.com/@Airtable/,50000,200,5000,Monologue/Screencast,en,US,Official Airtable database tutorials,2026-04-16,active
+CH1808,N019,Thomas Frank,https://www.youtube.com/@ThomasFrank/,3000000,300,200000,Monologue/Screencast,en,US,Notion productivity and no-code automation,2026-04-16,active
+CH1809,N019,Thomas Frank Explains,https://www.youtube.com/@ThomasFrankExplains/,500000,150,50000,Monologue/Screencast,en,US,Notion tutorials and templates deep dives,2026-04-16,active
+CH1810,N019,Geovany,https://www.youtube.com/@Geovany/,20000,80,3000,Monologue/Screencast,en,US,No-code web apps with WeWeb and Supabase,2026-04-16,active
+CH1811,N019,Digitiz - Loïc Frissard,https://www.youtube.com/@Digitiz/,30000,100,3000,Monologue/Screencast,en,FR,No-code business tools and tutorials,2026-04-16,active
+CH1812,N019,Adrian - Upstack Studio,https://www.youtube.com/@UpstackStudio/,30000,80,5000,Monologue/Screencast,en,MY,No-code app development for entrepreneurs,2026-04-16,active
+CH1813,N019,Connor Finlayson,https://www.youtube.com/@ConnorFinlayson/,30000,100,3000,Monologue/Screencast,en,NZ,No-code website and automation tutorials,2026-04-16,active
+CH1814,N019,Doc (No-Code),https://www.youtube.com/@DocNoCode/,20000,80,3000,Monologue/Screencast,en,US,No-code tools for non-techie business builders,2026-04-16,active
+CH1815,N019,Sem Codar,https://www.youtube.com/@SemCodar/,15000,80,2000,Monologue/Screencast,en,BR,WeWeb Bubble and FlutterFlow tutorials,2026-04-16,active
+CH1816,N019,Finsweet,https://www.youtube.com/@Finsweet/,50000,200,5000,Monologue/Screencast,en,US,Advanced Webflow development tutorials,2026-04-16,active
+CH1817,N019,Flux Academy,https://www.youtube.com/@FluxAcademy/,200000,300,15000,Monologue/Screencast,en,IL,Webflow web design and business education,2026-04-16,active
+CH1818,N019,Paige Brunton,https://www.youtube.com/@PaigeBrunton/,100000,200,10000,Monologue/Screencast,en,DE,Squarespace web design no-code tutorials,2026-04-16,active
+CH1819,N019,Notion,https://www.youtube.com/@NotionHQ/,200000,200,15000,Monologue/Screencast,en,US,Official Notion workspace tutorials,2026-04-16,active
+CH1820,N019,August Bradley,https://www.youtube.com/@AugustBradley/,150000,150,15000,Monologue/Screencast,en,US,Notion life design PPV system and automation,2026-04-16,active
+CH1821,N019,Make (formerly Integromat),https://www.youtube.com/@Make_hq/,50000,200,5000,Monologue/Screencast,en,CZ,Official Make automation platform tutorials,2026-04-16,active
+CH1822,N019,Glide Apps,https://www.youtube.com/@GlideApps/,30000,100,3000,Monologue/Screencast,en,US,Official Glide no-code app tutorials,2026-04-16,active
+CH1823,N019,Adalo,https://www.youtube.com/@Adalo/,20000,80,2000,Monologue/Screencast,en,US,Official Adalo mobile app builder tutorials,2026-04-16,active
+CH1824,N019,Softr,https://www.youtube.com/@Softr/,15000,80,2000,Monologue/Screencast,en,US,Official Softr no-code website builder,2026-04-16,active
+CH1825,N019,WeWeb,https://www.youtube.com/@WeWeb/,10000,60,2000,Monologue/Screencast,en,FR,Official WeWeb no-code frontend builder,2026-04-16,active
+CH1826,N019,Xano,https://www.youtube.com/@Xano/,15000,80,2000,Monologue/Screencast,en,US,Official Xano no-code backend tutorials,2026-04-16,active
+CH1827,N019,AppGyver,https://www.youtube.com/@AppGyver/,10000,50,2000,Monologue/Screencast,en,FI,SAP AppGyver no-code platform tutorials,2026-04-16,active
+CH1828,N019,n8n,https://www.youtube.com/@n8nio/,30000,100,3000,Monologue/Screencast,en,DE,n8n workflow automation tutorials,2026-04-16,active
+CH1829,N019,Ben Parker - Webflow,https://www.youtube.com/@BenParkerWebflow/,20000,80,3000,Monologue/Screencast,en,US,Advanced Webflow design tutorials,2026-04-16,active
+CH1830,N019,Nelson Abalos Jr - Webflow,https://www.youtube.com/@NelsonAbalos/,15000,80,2000,Monologue/Screencast,en,US,Webflow tutorials from ex-support employee,2026-04-16,active
+CH1831,N019,Joseph Berry - Bubble,https://www.youtube.com/@JosephBerry/,10000,50,2000,Monologue/Screencast,en,US,Bubble.io app building tutorials,2026-04-16,active
+CH1832,N019,Coaching No Code Apps,https://www.youtube.com/@CoachingNoCodeApps/,20000,100,2000,Monologue/Screencast,en,US,No-code app coaching and tutorials,2026-04-16,active
+CH1833,N019,Matt Wolfe,https://www.youtube.com/@mreflow/,800000,400,150000,Monologue,en,US,AI no-code tool reviews and tutorials,2026-04-16,active
+CH1834,N019,Kevin Stratvert,https://www.youtube.com/@KevinStratvert/,2000000,300,300000,Monologue/Screencast,en,US,No-code productivity tool tutorials,2026-04-16,active
+CH1835,N019,Jeff Su,https://www.youtube.com/@JeffSu/,1000000,200,200000,Monologue/Screencast,en,US,No-code AI productivity workflows,2026-04-16,active
+CH1836,N019,Howfinity,https://www.youtube.com/@Howfinity/,600000,500,50000,Monologue/Screencast,en,US,No-code tool walkthroughs and tutorials,2026-04-16,active
+CH1837,N019,Liam Ottley,https://www.youtube.com/@LiamOttley/,350000,200,60000,Monologue,en,AU,No-code AI agency and automation building,2026-04-16,active
+CH1838,N019,Tiago Forte,https://www.youtube.com/@TiagoForte/,300000,200,20000,Monologue,en,US,Building a Second Brain with no-code tools,2026-04-16,active
+CH1839,N019,Keep Productive,https://www.youtube.com/@KeepProductive/,200000,500,10000,Monologue/Screencast,en,UK,No-code productivity tool reviews and tutorials,2026-04-16,active
+CH1840,N019,Francesco D'Alessio,https://www.youtube.com/@FrancescoDalessio/,100000,300,8000,Monologue/Screencast,en,UK,No-code tool reviews and workflow tutorials,2026-04-16,active
+CH1841,N019,Notion Mastery,https://www.youtube.com/@NotionMastery/,50000,100,5000,Monologue/Screencast,en,US,Advanced Notion templates and workflows,2026-04-16,active
+CH1842,N019,Red Gregory,https://www.youtube.com/@RedGregory/,80000,150,5000,Monologue/Screencast,en,US,Notion formulas and advanced tutorials,2026-04-16,active
+CH1843,N019,Notion VIP,https://www.youtube.com/@NotionVIP/,30000,80,3000,Monologue/Screencast,en,US,Notion power-user tips and templates,2026-04-16,active
+CH1844,N019,Automate Your Life,https://www.youtube.com/@AutomateYourLife/,100000,200,10000,Monologue/Screencast,en,CA,Smart home and no-code automation tutorials,2026-04-16,active
+CH1845,N019,Corbin Brown,https://www.youtube.com/@CorbinBrown/,180000,200,25000,Monologue/Screencast,en,US,AI no-code automation workflows,2026-04-16,active
+CH1846,N019,AI Jason,https://www.youtube.com/@AIJason/,150000,150,30000,Monologue/Screencast,en,US,No-code AI tool building tutorials,2026-04-16,active
+CH1847,N019,Income Stream Surfers,https://www.youtube.com/@IncomeStreamSurfers/,200000,300,30000,Monologue/Screencast,en,US,No-code business tool tutorials,2026-04-16,active
+CH1848,N019,Ali Abdaal,https://www.youtube.com/@aliabdaal/,5000000,500,500000,Monologue,en,UK,Notion and no-code productivity workflows,2026-04-16,active
+CH1849,N019,Santrel Media,https://www.youtube.com/@SantrelMedia/,400000,400,40000,Monologue/Screencast,en,US,No-code website builder tutorials,2026-04-16,active
+CH1850,N019,WordPress.com,https://www.youtube.com/@WordPress/,200000,300,10000,Monologue/Screencast,en,US,Official WordPress no-code site building,2026-04-16,active
+CH1851,N019,Squarespace,https://www.youtube.com/@Squarespace/,100000,200,10000,Monologue/Screencast,en,US,Official Squarespace website builder tutorials,2026-04-16,active
+CH1852,N019,Wix,https://www.youtube.com/@Wix/,300000,500,15000,Monologue/Screencast,en,IL,Official Wix no-code website tutorials,2026-04-16,active
+CH1853,N019,Elementor,https://www.youtube.com/@Elementor/,100000,200,8000,Monologue/Screencast,en,IL,WordPress page builder no-code tutorials,2026-04-16,active
+CH1854,N019,Divi Nation,https://www.youtube.com/@DiviNation/,50000,200,5000,Monologue/Screencast,en,US,Divi WordPress page builder tutorials,2026-04-16,active
+CH1855,N019,WPCrafter,https://www.youtube.com/@WPCrafter/,300000,300,20000,Monologue/Screencast,en,US,WordPress no-code website building tutorials,2026-04-16,active
+CH1856,N019,Darrel Wilson,https://www.youtube.com/@DarrelWilson/,200000,200,20000,Monologue/Screencast,en,US,WordPress and no-code website tutorials,2026-04-16,active
+CH1857,N019,Tyler Moore,https://www.youtube.com/@TylerMoore/,200000,200,15000,Monologue/Screencast,en,US,WordPress no-code business website building,2026-04-16,active
+CH1858,N019,Hogan Chua,https://www.youtube.com/@HoganChua/,100000,150,10000,Monologue/Screencast,en,US,Webflow and no-code web design,2026-04-16,active
+CH1859,N019,Pixelgeek,https://www.youtube.com/@Pixelgeek/,100000,200,10000,Monologue/Screencast,en,US,Webflow tutorials and no-code design,2026-04-16,active
+CH1860,N019,Sam Beckman,https://www.youtube.com/@SamBeckman/,100000,150,10000,Monologue/Screencast,en,AU,No-code tools for productivity and business,2026-04-16,active
+CH1861,N019,Power Automate,https://www.youtube.com/@PowerAutomate/,50000,100,5000,Monologue/Screencast,en,US,Microsoft Power Automate low-code tutorials,2026-04-16,active
+CH1862,N019,Power Apps,https://www.youtube.com/@PowerApps/,50000,100,5000,Monologue/Screencast,en,US,Microsoft Power Apps low-code tutorials,2026-04-16,active
+CH1863,N019,Shane Young - PowerApps,https://www.youtube.com/@ShaneYoungCloud/,100000,300,10000,Monologue/Screencast,en,US,Power Platform low-code development,2026-04-16,active
+CH1864,N019,Reza Dorrani,https://www.youtube.com/@RezaDorrani/,100000,200,10000,Monologue/Screencast,en,US,Power Automate and Power Apps tutorials,2026-04-16,active
+CH1865,N019,April Dunnam - Power Platform,https://www.youtube.com/@AprilDunnam/,30000,80,3000,Monologue/Screencast,en,US,Microsoft Power Platform low-code tutorials,2026-04-16,active
+CH1866,N019,Retool,https://www.youtube.com/@Retool/,15000,50,3000,Monologue/Screencast,en,US,Retool internal tool builder tutorials,2026-04-16,active
+CH1867,N019,AppSheet by Google,https://www.youtube.com/@AppSheet/,30000,100,3000,Monologue/Screencast,en,US,Google AppSheet no-code app tutorials,2026-04-16,active
+CH1868,N019,Monday.com,https://www.youtube.com/@mondaydotcom/,50000,200,5000,Monologue/Screencast,en,US,Monday.com work management and automation,2026-04-16,active
+CH1869,N019,Asana,https://www.youtube.com/@Asana/,30000,100,3000,Monologue/Screencast,en,US,Asana no-code project management workflows,2026-04-16,active
+CH1870,N019,ClickUp,https://www.youtube.com/@ClickUp/,80000,200,8000,Monologue/Screencast,en,US,ClickUp no-code productivity platform,2026-04-16,active
+CH1871,N019,Coda,https://www.youtube.com/@CodaHQ/,20000,80,2000,Monologue/Screencast,en,US,Coda doc-powered no-code applications,2026-04-16,active
+CH1872,N019,Tally Forms,https://www.youtube.com/@Tally/,5000,30,1000,Monologue/Screencast,en,BE,No-code form builder tutorials,2026-04-16,active
+CH1873,N019,Typeform,https://www.youtube.com/@Typeform/,30000,100,3000,Monologue/Screencast,en,ES,No-code form and survey building,2026-04-16,active
+CH1874,N019,Memberstack,https://www.youtube.com/@Memberstack/,10000,50,2000,Monologue/Screencast,en,US,No-code membership site building,2026-04-16,active
+CH1875,N019,Jessetty Craft,https://www.youtube.com/@JessettyPower/,15000,50,2000,Monologue/Screencast,en,US,No-code tool comparisons and reviews,2026-04-16,active
+CH1876,N019,Simplilearn,https://www.youtube.com/@SimplilearnOfficial/,4000000,5000,50000,Monologue/Screencast,en,IN,Low-code platform courses and overviews,2026-04-16,active
+CH1877,N019,freeCodeCamp,https://www.youtube.com/@freecodecamp/,11400000,2000,500000,Monologue/Screencast,en,US,Free no-code and low-code platform courses,2026-04-16,active
+CH1878,N019,Traversy Media,https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA/,2400000,900,200000,Monologue/Screencast,en,US,No-code website builder comparisons,2026-04-16,active
+CH1879,N019,Kevin Powell,https://www.youtube.com/@KevinPowell/,1200000,600,80000,Monologue/Screencast,en,CA,Webflow and no-code CSS tutorials,2026-04-16,active
+CH1880,N019,The AI Advantage,https://www.youtube.com/@TheAIAdvantage/,500000,400,80000,Monologue/Screencast,en,US,AI-powered no-code tool tutorials,2026-04-16,active
+CH1881,N019,AI Andy,https://www.youtube.com/@TheAIAndy/,213000,250,40000,Monologue/Screencast,en,US,No-code AI automation tool tutorials,2026-04-16,active
+CH1882,N019,Skill Leap AI,https://www.youtube.com/@SkillLeapAI/,400000,300,50000,Monologue/Screencast,en,US,No-code AI productivity workflows,2026-04-16,active
+CH1883,N019,Nate Herk,https://www.youtube.com/@NateHerk/,100000,150,20000,Monologue/Screencast,en,US,No-code business building tutorials,2026-04-16,active
+CH1884,N019,MattVidPro AI,https://www.youtube.com/@MattVidPro/,350000,500,50000,Monologue/Screencast,en,US,No-code AI creative tool tutorials,2026-04-16,active
+CH1885,N019,Julia McCoy,https://www.youtube.com/@juliamccoy/,268000,200,30000,Monologue,en,US,No-code AI content creation tools,2026-04-16,active
+CH1886,N019,Prompt Engineering,https://www.youtube.com/@PromptEngineering/,200000,250,25000,Monologue/Screencast,en,US,No-code AI prompting tool tutorials,2026-04-16,active
+CH1887,N019,Futurepedia,https://www.youtube.com/@Futurepedia/,100000,200,15000,Monologue,en,US,No-code AI tool directory and reviews,2026-04-16,active
+CH1888,N019,God of Prompt,https://www.youtube.com/@GodofPrompt/,50000,100,10000,Monologue/Screencast,en,US,No-code ChatGPT workflow tutorials,2026-04-16,active
+CH1889,N019,Marketing AI Institute,https://www.youtube.com/channel/UCdHpbfqjELZmhqY3k0ELGcQ/,16800,100,5000,Monologue,en,US,No-code AI marketing tools,2026-04-16,active
+CH1890,N019,Notion Made Simple,https://www.youtube.com/@NotionMadeSimple/,20000,50,3000,Monologue/Screencast,en,US,Beginner Notion no-code tutorials,2026-04-16,active
+CH1891,N019,Automate All the Things,https://www.youtube.com/@AutomateAllTheThings/,20000,80,3000,Monologue/Screencast,en,US,No-code automation platform tutorials,2026-04-16,active
+CH1892,N019,Danny Postma,https://www.youtube.com/@DannyPostma/,30000,50,5000,Monologue/Screencast,en,NL,No-code SaaS building and indie hacking,2026-04-16,active
+CH1893,N019,Makerpad,https://www.youtube.com/@Makerpad/,15000,80,2000,Monologue/Screencast,en,US,No-code education and community,2026-04-16,active
+CH1894,N019,NoCode HQ,https://www.youtube.com/@NoCodeHQ/,10000,50,2000,Monologue/Screencast,en,US,No-code platform reviews and tutorials,2026-04-16,active
+CH1895,N019,The No-Code Founder,https://www.youtube.com/@TheNoCodeFounder/,8000,40,2000,Monologue/Screencast,en,US,Building startups with no-code tools,2026-04-16,active
+CH1896,N019,Tola.dev,https://www.youtube.com/@TolaDev/,5000,30,1500,Monologue/Screencast,en,US,No-code development tutorials,2026-04-16,active
+CH1897,N019,AI Automation Station,https://www.youtube.com/@ai-automation-station/,2600,100,5000,Monologue/Screencast,en,US,No-code AI workflow automation,2026-04-16,active
+CH1898,N019,Dr Waku,https://www.youtube.com/@drwaku/,30500,150,8000,Monologue/Screencast,en,US,No-code research and AI tool tutorials,2026-04-16,active
+CH1899,N019,Denis Shiryaev,https://www.youtube.com/@DenisShiryaev/,200000,100,50000,Monologue/Screencast,en,US,No-code AI video and image tools,2026-04-16,active
+CH1900,N019,WorldofAI,https://www.youtube.com/@WorldofAI/,200000,300,30000,Monologue,en,US,Open-source no-code AI tool tutorials,2026-04-16,active

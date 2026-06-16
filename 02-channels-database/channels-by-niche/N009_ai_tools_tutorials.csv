@@ -1,0 +1,101 @@
+channel_id,niche_id,channel_name,channel_url,subscriber_count,total_videos,avg_views,format_type,language,country,description,last_scraped,status
+CH0801,N009,AI Explained,https://www.youtube.com/@aiexplained-official/,600000,200,200000,Monologue,en,US,Breaking down AI developments with clarity and depth,2026-04-16,active
+CH0802,N009,Matt Wolfe,https://www.youtube.com/@mreflow/,800000,400,150000,Monologue,en,US,AI tools roundups and practical AI tutorials,2026-04-16,active
+CH0803,N009,Skill Leap AI,https://www.youtube.com/@SkillLeapAI/,400000,300,50000,Monologue/Screencast,en,US,Quick AI tool tutorials and productivity workflows,2026-04-16,active
+CH0804,N009,The AI Advantage,https://www.youtube.com/@TheAIAdvantage/,500000,400,80000,Monologue/Screencast,en,US,Practical AI tool tutorials by Igor Pogany,2026-04-16,active
+CH0805,N009,AI Andy,https://www.youtube.com/@TheAIAndy/,213000,250,40000,Monologue/Screencast,en,US,AI tool demos and automation tutorials,2026-04-16,active
+CH0806,N009,All About AI,https://www.youtube.com/channel/UCR9j1jqqB5Rse69wjUnbYwA/,220000,300,35000,Monologue/Screencast,en,US,Comprehensive AI tool tutorials and reviews,2026-04-16,active
+CH0807,N009,Murtaza's Workshop,https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A/,447000,300,60000,Monologue/Screencast,en,US,Robotics and AI project tutorials,2026-04-16,active
+CH0808,N009,Julia McCoy,https://www.youtube.com/@juliamccoy/,268000,200,30000,Monologue,en,US,AI content creation tools and writing tutorials,2026-04-16,active
+CH0809,N009,How I AI,https://www.youtube.com/@HowIAI/,150000,150,25000,Monologue/Screencast,en,US,Practical AI tool walkthroughs for everyday use,2026-04-16,active
+CH0810,N009,Alex Finn,https://www.youtube.com/@alexfinnai/,120000,200,20000,Monologue/Screencast,en,US,AI tool integration tutorials for creators,2026-04-16,active
+CH0811,N009,AI Foundations,https://www.youtube.com/@AIFoundations/,100000,150,18000,Monologue/Screencast,en,US,Foundational AI concepts and tool tutorials,2026-04-16,active
+CH0812,N009,Corbin Brown,https://www.youtube.com/@CorbinBrown/,180000,200,25000,Monologue/Screencast,en,US,AI automation and tool integration tutorials,2026-04-16,active
+CH0813,N009,MattVidPro AI,https://www.youtube.com/@MattVidPro/,350000,500,50000,Monologue/Screencast,en,US,AI art tools and creative AI application demos,2026-04-16,active
+CH0814,N009,Kevin Stratvert,https://www.youtube.com/@KevinStratvert/,2000000,300,300000,Monologue/Screencast,en,US,Microsoft and AI productivity tool tutorials,2026-04-16,active
+CH0815,N009,Howfinity,https://www.youtube.com/@Howfinity/,600000,500,50000,Monologue/Screencast,en,US,AI tools and software tutorial walkthroughs,2026-04-16,active
+CH0816,N009,Santrel Media,https://www.youtube.com/@SantrelMedia/,400000,400,40000,Monologue/Screencast,en,US,AI tool reviews and tech tutorials,2026-04-16,active
+CH0817,N009,Income Stream Surfers,https://www.youtube.com/@IncomeStreamSurfers/,200000,300,30000,Monologue/Screencast,en,US,AI tools for business and income generation,2026-04-16,active
+CH0818,N009,AI Master,https://www.youtube.com/@AIMaster/,100000,200,15000,Monologue/Screencast,en,US,Step-by-step AI tool tutorials,2026-04-16,active
+CH0819,N009,Tina Huang,https://www.youtube.com/@TinaHuang1/,400000,200,80000,Monologue,en,US,AI learning strategies and data science tools,2026-04-16,active
+CH0820,N009,1littlecoder,https://www.youtube.com/@1littlecoder/,150000,300,20000,Monologue/Screencast,en,US,AI coding tutorials and prompt engineering,2026-04-16,active
+CH0821,N009,Sam Witteveen,https://www.youtube.com/@samwitteveen/,50000,200,10000,Monologue/Screencast,en,AU,LLM and AI agent tutorials for developers,2026-04-16,active
+CH0822,N009,Prompt Engineering,https://www.youtube.com/@PromptEngineering/,200000,250,25000,Monologue/Screencast,en,US,ChatGPT and prompt engineering tutorials,2026-04-16,active
+CH0823,N009,AI Jason,https://www.youtube.com/@AIJason/,150000,150,30000,Monologue/Screencast,en,US,AI tool reviews and business automation guides,2026-04-16,active
+CH0824,N009,WorldofAI,https://www.youtube.com/@WorldofAI/,200000,300,30000,Monologue/Screencast,en,US,AI tool demos and open-source AI tutorials,2026-04-16,active
+CH0825,N009,Liam Ottley,https://www.youtube.com/@LiamOttley/,350000,200,60000,Monologue,en,AU,AI agency and automation tool tutorials,2026-04-16,active
+CH0826,N009,Futurepedia,https://www.youtube.com/@Futurepedia/,100000,200,15000,Monologue/Screencast,en,US,AI tool directory and tutorial reviews,2026-04-16,active
+CH0827,N009,AI Automation Station,https://www.youtube.com/@ai-automation-station/,2600,100,5000,Monologue/Screencast,en,US,AI workflow automation tutorials,2026-04-16,active
+CH0828,N009,Pradip Nichite,https://www.youtube.com/channel/UC3-uyUX8s536lUkrWwYvfDg/,6900,80,3000,Monologue/Screencast,en,IN,AI tools for business and marketing,2026-04-16,active
+CH0829,N009,Dr Waku,https://www.youtube.com/@drwaku/,30500,150,8000,Monologue/Screencast,en,US,AI research tools and practical applications,2026-04-16,active
+CH0830,N009,Rithesh Sreenivasan,https://www.youtube.com/channel/UCPAfv1GeraR1WM0608He6ow/,50500,100,10000,Monologue/Screencast,en,IN,AI tool tutorials and automation guides,2026-04-16,active
+CH0831,N009,The A.I. Whisperer,https://www.youtube.com/channel/UCLr7FjuQsg6UIo0yPFU661w/,39900,100,8000,Monologue/Screencast,en,US,AI prompting and tool mastery tutorials,2026-04-16,active
+CH0832,N009,The AI University,https://www.youtube.com/channel/UCv6Uw36LRbYnX4HDxKPguKg/,29500,100,6000,Monologue/Screencast,en,US,Structured AI tool learning courses,2026-04-16,active
+CH0833,N009,AI Joe,https://www.youtube.com/channel/UCQNwUIEiiUrAsHJOOvkGhVA/,43600,100,8000,Monologue/Screencast,en,US,AI tools for everyone - beginner friendly tutorials,2026-04-16,active
+CH0834,N009,James Briggs,https://www.youtube.com/channel/UCv83tO5cePwHMt1952IVVHw/,80300,200,15000,Monologue/Screencast,en,UK,LangChain and vector database AI tutorials,2026-04-16,active
+CH0835,N009,Venelin Valkov,https://www.youtube.com/channel/UCoW_WzQNJVAjxo4osNAxd_g/,33000,100,8000,Monologue/Screencast,en,BG,Hands-on machine learning and AI tool coding,2026-04-16,active
+CH0836,N009,Jordan Harrod,https://www.youtube.com/@JordanHarrod/,88400,100,20000,Monologue,en,US,AI ethics and tool impact analysis,2026-04-16,active
+CH0837,N009,Denis Shiryaev,https://www.youtube.com/@DenisShiryaev/,200000,100,50000,Monologue/Screencast,en,US,AI video and image upscaling tool demos,2026-04-16,active
+CH0838,N009,Riley Brown,https://www.youtube.com/@rileybrown_ai/,80000,150,15000,Monologue/Screencast,en,US,AI agent and tool building tutorials,2026-04-16,active
+CH0839,N009,AI Sciences,https://www.youtube.com/channel/UC8kFF39hsRrFfHM6-7A6APQ/,36800,100,5000,Monologue/Screencast,en,US,AI tool reviews and educational content,2026-04-16,active
+CH0840,N009,Practical AI by Ramsri,https://www.youtube.com/channel/UCPiUU-nCV73kHKhLriyZ5ZQ/,4400,50,2000,Monologue/Screencast,en,IN,Practical AI implementation tutorials,2026-04-16,active
+CH0841,N009,Marketing AI Institute,https://www.youtube.com/channel/UCdHpbfqjELZmhqY3k0ELGcQ/,16800,100,5000,Monologue,en,US,AI tools for marketing professionals,2026-04-16,active
+CH0842,N009,Ai Angel,https://www.youtube.com/@AiAngel/,672000,200,80000,Monologue/Screencast,en,US,AI tool tutorials and creative workflows,2026-04-16,active
+CH0843,N009,Nicolai Nielsen,https://www.youtube.com/channel/UCpABUkWm8xMt5XmGcFb3EFg/,122000,150,15000,Monologue/Screencast,en,DK,Computer vision and AI tool development tutorials,2026-04-16,active
+CH0844,N009,Leo Isikdogan,https://www.youtube.com/channel/UC-YAxUbpa1hvRyfJBKFNcJA/,25100,60,8000,Monologue/Screencast,en,US,AI research implementation tutorials,2026-04-16,active
+CH0845,N009,Nachiketa Hebbar,https://www.youtube.com/channel/UCJPihOKkiT7TqP7NK9-GtuQ/,19100,80,5000,Monologue/Screencast,en,IN,AI coding and tool tutorials for beginners,2026-04-16,active
+CH0846,N009,AI Coffee Break with Letitia,https://www.youtube.com/channel/UCobqgqE4i5Kf7wrxRxhToQA/,62700,80,15000,Monologue,en,DE,AI research explained in accessible bite-sized videos,2026-04-16,active
+CH0847,N009,Connor Shorten,https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/,45000,100,8000,Monologue/Screencast,en,US,AI paper reviews and tool implementation tutorials,2026-04-16,active
+CH0848,N009,Data Science Diaries,https://www.youtube.com/channel/UCMi2_TIHEVFWv7GBOtx6YnA/,4300,50,2000,Monologue/Screencast,en,US,AI tools for data science workflows,2026-04-16,active
+CH0849,N009,Jay Shah,https://www.youtube.com/channel/UCdZ0GX-F3ULMKfxtyzSFbaw/,7200,60,3000,Monologue/Screencast,en,US,AI development tool tutorials and guides,2026-04-16,active
+CH0850,N009,HuggingFace,https://www.youtube.com/channel/UCHlNU7kIZhRgSbhHvFoy72w/,119000,200,20000,Monologue/Screencast,en,US,Open-source AI model and tool tutorials,2026-04-16,active
+CH0851,N009,Jeff Su,https://www.youtube.com/@JeffSu/,1000000,200,200000,Monologue/Screencast,en,US,AI productivity tools and workflow optimization,2026-04-16,active
+CH0852,N009,Nate Herk,https://www.youtube.com/@NateHerk/,100000,150,20000,Monologue/Screencast,en,US,AI side hustle tools and automation tutorials,2026-04-16,active
+CH0853,N009,Auto GPT Tutorials,https://www.youtube.com/@AutoGPTTutorials/,50000,80,10000,Monologue/Screencast,en,US,AI agent and AutoGPT tool setup guides,2026-04-16,active
+CH0854,N009,AI with Thakshila,https://www.youtube.com/channel/UCPNj_I8xUYCfDrAdP7tJXyg/,5500,50,2000,Monologue/Screencast,en,LK,AI tool tutorials in simple language,2026-04-16,active
+CH0855,N009,Krish Naik,https://www.youtube.com/@krishnaik06/,1400000,1500,50000,Monologue/Screencast,en,IN,AI and ML tool tutorials with hands-on projects,2026-04-16,active
+CH0856,N009,sentdex,https://www.youtube.com/@sentdex/,1400000,1200,40000,Monologue/Screencast,en,US,Python AI and machine learning tool tutorials,2026-04-16,active
+CH0857,N009,Jeremy Howard,https://www.youtube.com/@howardjeremyp/,145000,200,30000,Monologue/Screencast,en,AU,Fast.ai deep learning tool tutorials,2026-04-16,active
+CH0858,N009,Micah,https://www.youtube.com/channel/UCR8AYtETKgrq95L1usEdvMw/,15200,80,5000,Monologue/Screencast,en,US,AI creative tools and workflow demos,2026-04-16,active
+CH0859,N009,Lightning AI,https://www.youtube.com/channel/UC8m-y0yAFJpX0hRvxH8wJVw/,12500,80,5000,Monologue/Screencast,en,US,PyTorch Lightning and AI framework tutorials,2026-04-16,active
+CH0860,N009,Valerio Velardo - The Sound of AI,https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ/,36400,150,8000,Monologue/Screencast,en,IT,Audio AI and music generation tool tutorials,2026-04-16,active
+CH0861,N009,What's AI by Louis Bouchard,https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg/,71100,150,15000,Monologue,en,CA,AI research simplified with tool implementations,2026-04-16,active
+CH0862,N009,Prompt Muse,https://www.youtube.com/@PromptMuse/,80000,100,15000,Monologue/Screencast,en,US,AI art and image generation tool tutorials,2026-04-16,active
+CH0863,N009,God of Prompt,https://www.youtube.com/@GodofPrompt/,50000,100,10000,Monologue/Screencast,en,US,ChatGPT and AI prompt engineering tutorials,2026-04-16,active
+CH0864,N009,Fireship,https://www.youtube.com/@Fireship/,3500000,800,500000,Monologue/Screencast,en,US,Fast-paced AI and dev tool explainers,2026-04-16,active
+CH0865,N009,Skill Share AI,https://www.youtube.com/@SkillShareAI/,30000,80,5000,Monologue/Screencast,en,US,AI tool tutorials for creative professionals,2026-04-16,active
+CH0866,N009,AI Uncovered,https://www.youtube.com/@AIUncovered/,200000,200,30000,Monologue,en,US,AI tool news and tutorial breakdowns,2026-04-16,active
+CH0867,N009,Brandon Foltz,https://www.youtube.com/@BrandonFoltz/,80000,200,10000,Monologue/Screencast,en,US,Statistics and AI data analysis tools,2026-04-16,active
+CH0868,N009,The Coding Sloth,https://www.youtube.com/@TheCodingSloth/,50000,100,10000,Monologue/Screencast,en,US,AI coding tool tutorials for beginners,2026-04-16,active
+CH0869,N009,Brev Dev,https://www.youtube.com/@BrevDev/,30000,80,5000,Monologue/Screencast,en,US,GPU cloud and AI development tool tutorials,2026-04-16,active
+CH0870,N009,Decoder - The AI Podcast,https://www.youtube.com/@DecoderAI/,40000,100,8000,Monologue,en,US,AI tool reviews and industry discussions,2026-04-16,active
+CH0871,N009,Dave Ebbelaar,https://www.youtube.com/@DaveEbbelaar/,100000,150,15000,Monologue/Screencast,en,NL,AI data science tools and Python automation,2026-04-16,active
+CH0872,N009,AssemblyAI,https://www.youtube.com/@AssemblyAI/,60000,100,10000,Monologue/Screencast,en,US,Speech AI and NLP tool tutorials,2026-04-16,active
+CH0873,N009,Aleksa Gordic - The AI Epiphany,https://www.youtube.com/channel/UCj8shE7aIn4Yawwbo2FceCQ/,63600,100,10000,Monologue/Screencast,en,RS,AI research paper implementations and tool guides,2026-04-16,active
+CH0874,N009,AI Anytime,https://www.youtube.com/@AIAnytime/,150000,200,20000,Monologue/Screencast,en,IN,AI project tutorials with open-source tools,2026-04-16,active
+CH0875,N009,Mervin Praison,https://www.youtube.com/@MervinPraison/,60000,150,10000,Monologue/Screencast,en,IN,AI agent framework and tool tutorials,2026-04-16,active
+CH0876,N009,Matthew Berman,https://www.youtube.com/@matthew_berman/,400000,400,80000,Monologue,en,US,AI tools demos and LLM model comparisons,2026-04-16,active
+CH0877,N009,freeCodeCamp,https://www.youtube.com/@freecodecamp/,11400000,2000,500000,Monologue/Screencast,en,US,Free full-length AI and coding tool courses,2026-04-16,active
+CH0878,N009,Siraj Raval,https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/,773000,400,50000,Monologue,en,US,AI tool demos and educational entertainment,2026-04-16,active
+CH0879,N009,AI for Good,https://www.youtube.com/channel/UC4e35vN3-tSBZMNLE-wm45A/,21800,80,3000,Monologue,en,CH,AI tools for social impact and humanitarian use,2026-04-16,active
+CH0880,N009,H2O.ai,https://www.youtube.com/channel/UCk6ONJlPzjw3DohAeMSgsng/,22500,200,5000,Monologue/Screencast,en,US,AutoML and AI platform tool tutorials,2026-04-16,active
+CH0881,N009,Scale AI,https://www.youtube.com/channel/UCAHS4cP-uIXdrpCsSfGq_OA/,390000,100,30000,Monologue,en,US,AI data labeling and enterprise AI tools,2026-04-16,active
+CH0882,N009,Modern CTO,https://www.youtube.com/channel/UC4YUUOGVl9WByBuF1n_DGOQ/,8400,100,3000,Monologue,en,US,AI tools for CTOs and tech leaders,2026-04-16,active
+CH0883,N009,Robert Miles AI Safety,https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg/,169000,100,40000,Monologue,en,UK,AI safety concepts and alignment tool discussions,2026-04-16,active
+CH0884,N009,DeepMind,https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A/,854000,300,50000,Monologue,en,UK,Cutting-edge AI research and tool presentations,2026-04-16,active
+CH0885,N009,Meta AI,https://www.youtube.com/channel/UC5qxlwEKM7-5YZudb24l0bg/,38100,100,8000,Monologue,en,US,Open-source AI model releases and tutorials,2026-04-16,active
+CH0886,N009,Stanford HAI,https://www.youtube.com/channel/UChugFTK0KyrES9terTid8vA/,32500,100,8000,Monologue,en,US,Stanford AI research talks and tool discussions,2026-04-16,active
+CH0887,N009,MITCSAIL,https://www.youtube.com/channel/UCBpxspUNl1Th33XbugiHJzw/,87500,200,10000,Monologue,en,US,MIT computer science and AI lab presentations,2026-04-16,active
+CH0888,N009,Aleksander - Full Stack AI,https://www.youtube.com/@FullStackAI/,30000,80,5000,Monologue/Screencast,en,US,Full stack AI application building tutorials,2026-04-16,active
+CH0889,N009,The Algorithmic Bridge,https://www.youtube.com/@TheAlgorithmicBridge/,20000,60,5000,Monologue,en,ES,AI tool analysis and critical thinking on AI trends,2026-04-16,active
+CH0890,N009,Amii Intelligence,https://www.youtube.com/channel/UCxxisInVr7upxv1yUhSgdBA/,15000,80,3000,Monologue,en,CA,Alberta AI institute talks and tool education,2026-04-16,active
+CH0891,N009,Global AI Community,https://www.youtube.com/channel/UCDVL0bPrZHwCeJrlyy-wxaQ/,29700,80,5000,Monologue,en,US,AI community talks and tool showcases,2026-04-16,active
+CH0892,N009,Learn Robotics and AI,https://www.youtube.com/channel/UCOXHwUny8BePng1gXxIe-PA/,18600,100,5000,Monologue/Screencast,en,US,Robotics and AI hardware/software tool tutorials,2026-04-16,active
+CH0893,N009,DEEPBRAIN AI,https://www.youtube.com/channel/UCgK6WBvIGtWqf5wA-meT8nQ/,3300,50,2000,Monologue/Screencast,en,KR,AI avatar and video generation tool demos,2026-04-16,active
+CH0894,N009,SingularityNET,https://www.youtube.com/channel/UCbTE8vfz5zuEK5uRnc2yjrw/,31700,100,5000,Monologue,en,NL,Decentralized AI network and tool tutorials,2026-04-16,active
+CH0895,N009,InsiderPhD,https://www.youtube.com/c/InsiderPhD/,68000,100,10000,Monologue/Screencast,en,UK,AI security research and bug bounty tools,2026-04-16,active
+CH0896,N009,Eye on AI,https://www.youtube.com/channel/UC-o9u9QL4zXzBwjvT1gmzNg/,33300,80,5000,Monologue,en,US,AI industry interviews and tool landscape analysis,2026-04-16,active
+CH0897,N009,AI and Games,https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q/,231000,200,30000,Monologue,en,UK,AI in game development tools and techniques,2026-04-16,active
+CH0898,N009,Abe Davis Research,https://www.youtube.com/channel/UCzTOCqbACCbIPXuu9qZ-IdA/,8200,30,5000,Monologue/Screencast,en,US,AI visual computing research demos,2026-04-16,active
+CH0899,N009,Artificial Intelligence News Daily,https://www.youtube.com/channel/UCItylrp-EOkBwsUT7c_Xkxg/,58300,200,10000,Monologue,en,US,Daily AI tool news and updates,2026-04-16,active
+CH0900,N009,AI News,https://www.youtube.com/channel/UCDZfn935vwaahDabsfylfIQ/,92100,300,15000,Monologue,en,US,AI tool news aggregation and commentary,2026-04-16,active

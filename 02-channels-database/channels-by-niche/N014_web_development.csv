@@ -1,0 +1,101 @@
+channel_id,niche_id,channel_name,channel_url,subscriber_count,total_videos,avg_views,format_type,language,country,description,last_scraped,status
+CH1301,N014,Traversy Media,https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA/,2400000,900,200000,Monologue/Screencast,en,US,Practical project-based web development tutorials,2026-04-16,active
+CH1302,N014,Kevin Powell,https://www.youtube.com/@KevinPowell/,1200000,600,80000,Monologue/Screencast,en,CA,CSS evangelist with deep-dive HTML and CSS tutorials,2026-04-16,active
+CH1303,N014,The Net Ninja,https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/,1800000,2000,30000,Monologue/Screencast,en,UK,Sequential web dev mini-courses by Shaun Pelling,2026-04-16,active
+CH1304,N014,Web Dev Simplified,https://www.youtube.com/@WebDevSimplified/,1740000,500,80000,Monologue/Screencast,en,US,Front-end web dev focused by Kyle Cook,2026-04-16,active
+CH1305,N014,Academind,https://www.youtube.com/@academind/,1000000,1000,30000,Monologue/Screencast,en,DE,React Angular Vue full-stack by Max Schwarzmuller,2026-04-16,active
+CH1306,N014,Fireship,https://www.youtube.com/@Fireship/,3500000,800,500000,Monologue/Screencast,en,US,Fast-paced web dev explainers and tutorials,2026-04-16,active
+CH1307,N014,freeCodeCamp,https://www.youtube.com/@freecodecamp/,11400000,2000,500000,Monologue/Screencast,en,US,Free full-length web development courses,2026-04-16,active
+CH1308,N014,Ania Kubow,https://www.youtube.com/@AniaKubow/,600000,400,30000,Monologue/Screencast,en,UK,JavaScript and web dev project tutorials,2026-04-16,active
+CH1309,N014,Ben Awad,https://www.youtube.com/@benawad/,600000,500,50000,Monologue/Screencast,en,US,Full-stack TypeScript React and GraphQL,2026-04-16,active
+CH1310,N014,Wes Bos,https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA/,173000,200,15000,Monologue/Screencast,en,CA,JavaScript and Node.js web dev tutorials,2026-04-16,active
+CH1311,N014,codeSTACKr,https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw/,286000,200,20000,Monologue/Screencast,en,US,Web dev tools and productivity tips,2026-04-16,active
+CH1312,N014,LevelUpTuts,https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg/,455000,1500,10000,Monologue/Screencast,en,US,Svelte React and modern framework tutorials,2026-04-16,active
+CH1313,N014,Google Chrome Developers,https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw/,806000,1000,15000,Monologue/Screencast,en,US,Chrome DevTools and web platform tutorials,2026-04-16,active
+CH1314,N014,Jesse Showalter,https://www.youtube.com/channel/UCvBGFeXbBrq3W9_0oNLJREQ/,442000,300,20000,Monologue/Screencast,en,US,Web design and UI/UX development tutorials,2026-04-16,active
+CH1315,N014,LearnWebCode,https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ/,352000,150,50000,Monologue/Screencast,en,US,WordPress and web coding tutorials,2026-04-16,active
+CH1316,N014,Brad Hussey,https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA/,53400,100,5000,Monologue/Screencast,en,CA,Freelance web development tutorials,2026-04-16,active
+CH1317,N014,Quentin Watt Tutorials,https://www.youtube.com/channel/UCtGGGu_hp8ToQ9BR6Vni19w/,161000,400,10000,Monologue/Screencast,en,ZA,Web design and development basics,2026-04-16,active
+CH1318,N014,JSConf,https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA/,287000,500,20000,Monologue,en,US,JavaScript conference talks on web development,2026-04-16,active
+CH1319,N014,Codecourse,https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g/,338000,1000,10000,Monologue/Screencast,en,UK,PHP Laravel and backend web development,2026-04-16,active
+CH1320,N014,mmtuts,https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw/,437000,300,20000,Monologue/Screencast,en,US,PHP MySQL web development tutorials,2026-04-16,active
+CH1321,N014,DevTips,https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ/,344000,300,20000,Monologue/Screencast,en,US,Web design and CSS tips,2026-04-16,active
+CH1322,N014,Sketch Together,https://www.youtube.com/channel/UCZHkx_OyRXHb1D3XTqOidRw/,106000,200,10000,Monologue/Screencast,en,US,Web design with Sketch and Figma,2026-04-16,active
+CH1323,N014,LearnCode.academy,https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw/,765000,200,30000,Monologue/Screencast,en,US,JavaScript and web architecture tutorials,2026-04-16,active
+CH1324,N014,kudvenkat,https://www.youtube.com/channel/UCCTVrRB5KpIiK6V2GGVsR1Q/,847000,1500,20000,Monologue/Screencast,en,IN,ASP.NET and web development tutorials,2026-04-16,active
+CH1325,N014,Adam Khoury,https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg/,194000,500,10000,Monologue/Screencast,en,US,JavaScript PHP and web programming tutorials,2026-04-16,active
+CH1326,N014,Mike Locke,https://www.youtube.com/channel/UC0f9NbKjUUbnL2cOa12ENIQ/,117000,200,10000,Monologue/Screencast,en,US,UX/UI web design career tutorials,2026-04-16,active
+CH1327,N014,How Code,https://www.youtube.com/channel/UCovR8D97-8qmQ8hWQW0d3ew/,82300,100,15000,Monologue/Screencast,en,US,Web technology explained simply,2026-04-16,active
+CH1328,N014,Chris Coyier,https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA/,66400,100,10000,Monologue/Screencast,en,US,CSS-Tricks creator web dev tips,2026-04-16,active
+CH1329,N014,Fullstack Academy,https://www.youtube.com/channel/UCjFO5t0MLyQaidKGpGoRewg/,55200,100,10000,Monologue/Screencast,en,US,Full-stack web bootcamp content,2026-04-16,active
+CH1330,N014,Neil Rowe,https://www.youtube.com/channel/UCwHrYi0GL8dmYaRB0StEbEA/,61200,100,8000,Monologue/Screencast,en,US,Web development and IT education,2026-04-16,active
+CH1331,N014,UX Mastery,https://www.youtube.com/channel/UCXmQyv8sAjmvgCCgvRKi9hw/,55700,150,8000,Monologue,en,AU,UX design for web developers,2026-04-16,active
+CH1332,N014,All Things JavaScript,https://www.youtube.com/channel/UCRQhZGXC0WK85YRXl7nGX0w/,38300,200,5000,Monologue/Screencast,en,US,In-depth JavaScript web dev tutorials,2026-04-16,active
+CH1333,N014,Telmo Sampaio,https://www.youtube.com/channel/UCADAkBGiLWIPkCu8D1R1M6g/,29700,150,5000,Monologue/Screencast,en,PT,Creative web dev projects and tutorials,2026-04-16,active
+CH1334,N014,London App Developer,https://www.youtube.com/channel/UC3RtgbslbAvE-5FFBkSgpig/,18800,80,5000,Monologue/Screencast,en,UK,Django and Python web development,2026-04-16,active
+CH1335,N014,FrontendTips,https://www.youtube.com/channel/UC0abAX9cuVB0klLobCewq-g/,24000,100,5000,Monologue/Screencast,en,US,Frontend web development tips and tricks,2026-04-16,active
+CH1336,N014,Web Development Tutorials,https://www.youtube.com/channel/UCS0y5e-AMsZO8GEFtKBAzkA/,21300,100,3000,Monologue/Screencast,en,US,Step-by-step web dev tutorials,2026-04-16,active
+CH1337,N014,Max Goodridge,https://www.youtube.com/channel/UCAx4nmhI7S1RcPiaG-Uw0tg/,24200,80,5000,Monologue/Screencast,en,UK,Django web development tutorials,2026-04-16,active
+CH1338,N014,Fullstack Development,https://www.youtube.com/channel/UCNpIE11a9nLW_s2GUWmksqw/,17600,80,3000,Monologue/Screencast,en,US,Full-stack web project tutorials,2026-04-16,active
+CH1339,N014,Programming with Mosh,https://www.youtube.com/@programmingwithmosh/,4000000,800,300000,Monologue/Screencast,en,CA,Web development professional tutorials,2026-04-16,active
+CH1340,N014,Corey Schafer,https://www.youtube.com/@coreyms/,1500000,250,200000,Monologue/Screencast,en,US,Flask Django and Python web tutorials,2026-04-16,active
+CH1341,N014,Tech With Tim,https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg/,1900000,800,50000,Monologue/Screencast,en,US,Python web frameworks and automation,2026-04-16,active
+CH1342,N014,Codevolution,https://www.youtube.com/@Codevolution/,500000,500,30000,Monologue/Screencast,en,IN,React Angular Next.js web framework tutorials,2026-04-16,active
+CH1343,N014,Tyler McGinnis (ui.dev),https://www.youtube.com/@uidotdev/,200000,100,50000,Monologue/Screencast,en,US,React and JavaScript web fundamentals,2026-04-16,active
+CH1344,N014,Dave Gray,https://www.youtube.com/@DaveGrayTeachesCode/,300000,300,20000,Monologue/Screencast,en,US,Full-stack web development zero to deploy,2026-04-16,active
+CH1345,N014,Florin Pop,https://www.youtube.com/@FlorinPop/,200000,300,15000,Monologue/Screencast,en,RO,Web dev challenges and live coding,2026-04-16,active
+CH1346,N014,Coding Garden,https://www.youtube.com/@CodingGarden/,200000,400,15000,Monologue/Screencast,en,US,Live full-stack web coding sessions,2026-04-16,active
+CH1347,N014,Hitesh Choudhary,https://www.youtube.com/@HiteshChoudhari/,1000000,1000,30000,Monologue/Screencast,en,IN,JavaScript and web development in Hindi,2026-04-16,active
+CH1348,N014,Amigoscode,https://www.youtube.com/@amigoscode/,800000,200,80000,Monologue/Screencast,en,UK,Spring Boot full-stack web development,2026-04-16,active
+CH1349,N014,IAmTimCorey,https://www.youtube.com/@IAmTimCorey/,400000,500,30000,Monologue/Screencast,en,US,ASP.NET and Blazor web development,2026-04-16,active
+CH1350,N014,SuperSimpleDev,https://www.youtube.com/@SuperSimpleDev/,400000,50,500000,Monologue/Screencast,en,CA,HTML CSS JavaScript web dev for beginners,2026-04-16,active
+CH1351,N014,Simplilearn,https://www.youtube.com/@SimplilearnOfficial/,4000000,5000,50000,Monologue/Screencast,en,IN,Web development structured courses,2026-04-16,active
+CH1352,N014,edureka!,https://www.youtube.com/@edaborea/,3500000,5000,30000,Monologue/Screencast,en,IN,Web development full courses,2026-04-16,active
+CH1353,N014,Treehouse,https://www.youtube.com/channel/UCqHktcPJV7C7T3e9Cg4T4iw/,370000,500,15000,Monologue/Screencast,en,US,Structured web development learning paths,2026-04-16,active
+CH1354,N014,Clever Programmer,https://www.youtube.com/@CleverProgrammer/,1300000,500,100000,Monologue/Screencast,en,US,React and web app clone tutorials,2026-04-16,active
+CH1355,N014,thenewboston,https://www.youtube.com/@thenewboston/,2600000,4000,30000,Monologue/Screencast,en,US,Web programming fundamentals,2026-04-16,active
+CH1356,N014,Derek Banas,https://www.youtube.com/@deaborans/,1300000,1200,50000,Monologue/Screencast,en,US,Web tech tutorials across many frameworks,2026-04-16,active
+CH1357,N014,Caleb Curry,https://www.youtube.com/@CalebCurry/,500000,500,30000,Monologue/Screencast,en,US,JavaScript and web programming tutorials,2026-04-16,active
+CH1358,N014,Google Web Designer,https://www.youtube.com/channel/UC2FYFz_AQaKBMyrZe1Rrqyg/,78700,100,10000,Monologue/Screencast,en,US,Google Web Designer tool tutorials,2026-04-16,active
+CH1359,N014,Ihatetomatoes,https://www.youtube.com/channel/UC7O6CntQoAI-wYyJxYiqNUg/,53900,100,8000,Monologue/Screencast,en,AU,GSAP and web animation tutorials,2026-04-16,active
+CH1360,N014,LearnToProgram,https://www.youtube.com/channel/UCkg_xpBf5gMSnBZx8uRG-yg/,57500,500,5000,Monologue/Screencast,en,US,Web programming for beginners,2026-04-16,active
+CH1361,N014,Google Developers,https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw/,2600000,5000,30000,Monologue/Screencast,en,US,Web platform APIs and Google tech,2026-04-16,active
+CH1362,N014,Kirupa Chinnathambi,https://www.youtube.com/channel/UCZCQ3LXtU3IUzMBQBqN69KQ/,19600,100,3000,Monologue/Screencast,en,US,JavaScript and web animation tutorials,2026-04-16,active
+CH1363,N014,Dev Drawer,https://www.youtube.com/channel/UCcr8eSk5xCfn3AbYy8WOWzg/,7000,50,2000,Monologue/Screencast,en,US,Web design process and tutorials,2026-04-16,active
+CH1364,N014,Coding Train,https://www.youtube.com/@TheCodingTrain/,1800000,1000,80000,Monologue/Screencast,en,US,Creative web coding with p5.js,2026-04-16,active
+CH1365,N014,Fun Fun Function,https://www.youtube.com/@funfunfunction/,300000,200,50000,Monologue,en,SE,JavaScript and web dev philosophy,2026-04-16,active
+CH1366,N014,Bro Code,https://www.youtube.com/@BroCodez/,2500000,500,200000,Monologue/Screencast,en,US,HTML CSS JS web dev crash courses,2026-04-16,active
+CH1367,N014,CodeWithHarry,https://www.youtube.com/@CodeWithHarry/,4800000,1600,200000,Monologue/Screencast,en,IN,Web development tutorials in Hindi,2026-04-16,active
+CH1368,N014,Telusko,https://www.youtube.com/@Telusko/,1810000,1600,50000,Monologue/Screencast,en,IN,Java web development and Spring tutorials,2026-04-16,active
+CH1369,N014,Ben Awad,https://www.youtube.com/@benawad/,600000,500,50000,Monologue/Screencast,en,US,React TypeScript web dev content,2026-04-16,active
+CH1370,N014,CodeBasics,https://www.youtube.com/@codebasics/,1000000,600,50000,Monologue/Screencast,en,IN,Python web frameworks and data-driven web apps,2026-04-16,active
+CH1371,N014,sentdex,https://www.youtube.com/@sentdex/,1400000,1200,40000,Monologue/Screencast,en,US,Python web scraping and Flask tutorials,2026-04-16,active
+CH1372,N014,ThePrimeagen,https://www.youtube.com/@ThePrimeagen/,700000,500,100000,Monologue/Screencast,en,US,Web performance and backend engineering,2026-04-16,active
+CH1373,N014,ArjanCodes,https://www.youtube.com/@ArjanCodes/,500000,300,50000,Monologue/Screencast,en,NL,Python web API design and best practices,2026-04-16,active
+CH1374,N014,Kalle Hallden,https://www.youtube.com/@KalleHallden/,600000,200,100000,Monologue/Screencast,en,SE,Web automation and side project builds,2026-04-16,active
+CH1375,N014,Stack Developers,https://www.youtube.com/channel/UCExO2i-tLU1NyVZD6zOJQlw/,22700,100,3000,Monologue/Screencast,en,US,Full-stack web development tutorials,2026-04-16,active
+CH1376,N014,TheDigiCraft,https://www.youtube.com/channel/UCw0ZIfZiV-BORQvok_cxNPw/,25000,100,3000,Monologue/Screencast,en,US,Digital craft web design tutorials,2026-04-16,active
+CH1377,N014,Richard Stibbard,https://www.youtube.com/channel/UCBJnEkFKpFb2742_7cFmVzg/,10400,50,2000,Monologue/Screencast,en,AU,Web development fundamentals,2026-04-16,active
+CH1378,N014,Michael Thomas,https://www.youtube.com/channel/UC8-6qIUsHCybEn1f9OxSE4Q/,13200,50,3000,Monologue/Screencast,en,US,Web development projects and tips,2026-04-16,active
+CH1379,N014,JavaScript Evangelist,https://www.youtube.com/channel/UCuB4FSBjofpagXnBlHQUocA/,4800,30,2000,Monologue/Screencast,en,US,JavaScript ecosystem tutorials,2026-04-16,active
+CH1380,N014,Code With Intent,https://www.youtube.com/channel/UCNL1HfVo49dQW3DanOiIFjQ/,5200,30,1500,Monologue/Screencast,en,US,Intentional web development practices,2026-04-16,active
+CH1381,N014,Front End Center,https://www.youtube.com/channel/UCbxzdZTDn4YB4Z-ukch2ivw/,15000,30,5000,Monologue/Screencast,en,US,Frontend architecture deep dives,2026-04-16,active
+CH1382,N014,easydevtuts,https://www.youtube.com/channel/UCI-vEugj8uNGB_ZFuutlMYw/,13100,50,3000,Monologue/Screencast,en,US,Easy web development tutorials,2026-04-16,active
+CH1383,N014,Think Learn Earn,https://www.youtube.com/channel/UCKy22yC-oRp1GcnVyOAHrLA/,8900,50,2000,Monologue/Screencast,en,US,Web development career and learning,2026-04-16,active
+CH1384,N014,smashtheshell,https://www.youtube.com/channel/UCcPt0Jg_yRZcPSYwOPORE6g/,5200,30,1500,Monologue/Screencast,en,US,Web dev command line and tools,2026-04-16,active
+CH1385,N014,Webnoob,https://www.youtube.com/channel/UCVI6tv5boZ62bSsd8k9eM7Q/,6400,30,2000,Monologue/Screencast,en,US,Beginner web development content,2026-04-16,active
+CH1386,N014,Front-Trends,https://www.youtube.com/channel/UCpIBwBITpXelDgDwe-16zWA/,7700,50,2000,Monologue,en,PL,Frontend conference talks and trends,2026-04-16,active
+CH1387,N014,Start Here FM,https://www.youtube.com/channel/UCZHWAv6OKOmpe7vwmZn5bCg/,8400,50,2000,Monologue/Screencast,en,US,Web development getting started guides,2026-04-16,active
+CH1388,N014,UX Salon,https://www.youtube.com/channel/UCHhc6c1Klab3VE2yE-529cQ/,7800,50,2000,Monologue,en,IL,UX for web design conference talks,2026-04-16,active
+CH1389,N014,Dorian Develops,https://www.youtube.com/@DorianDevelops/,100000,150,15000,Monologue/Screencast,en,US,Python web development tutorials,2026-04-16,active
+CH1390,N014,Dreams of Code,https://www.youtube.com/@dreamsofcode/,300000,80,100000,Monologue/Screencast,en,US,Developer tools and web productivity,2026-04-16,active
+CH1391,N014,Codecademy,https://www.youtube.com/@codecademy/,200000,300,15000,Monologue/Screencast,en,US,Interactive web development education,2026-04-16,active
+CH1392,N014,The Odin Project,https://www.youtube.com/@TheOdinProject/,50000,50,10000,Monologue/Screencast,en,US,Free full-stack web curriculum content,2026-04-16,active
+CH1393,N014,anthonygg,https://www.youtube.com/@anthonygg_/,200000,200,30000,Monologue/Screencast,en,US,Go web services and REST API development,2026-04-16,active
+CH1394,N014,Java Brains,https://www.youtube.com/@JavaBrainsChannel/,600000,300,50000,Monologue/Screencast,en,US,Java web services and Spring MVC,2026-04-16,active
+CH1395,N014,Java Guides,https://www.youtube.com/@JavaGuides/,200000,500,10000,Monologue/Screencast,en,IN,Spring Boot web application tutorials,2026-04-16,active
+CH1396,N014,Coding with John,https://www.youtube.com/@CodingWithJohn/,300000,50,200000,Monologue/Screencast,en,US,Java web fundamentals explained clearly,2026-04-16,active
+CH1397,N014,Programming Hero,https://www.youtube.com/@ProgrammingHero/,400000,200,50000,Monologue/Screencast,en,BD,Web app development education,2026-04-16,active
+CH1398,N014,Stefan Mischook,https://www.youtube.com/@StefanMischook/,200000,500,15000,Monologue,en,CA,Veteran web developer career advice,2026-04-16,active
+CH1399,N014,Keep On Coding,https://www.youtube.com/@KeepOnCoding/,200000,200,15000,Monologue,en,US,Web development learning path advice,2026-04-16,active
+CH1400,N014,Programming with Peter,https://www.youtube.com/channel/UCqqQLR77gh9nB-HExBYVIoQ/,1600,30,1000,Monologue/Screencast,en,US,Beginner web programming tutorials,2026-04-16,active

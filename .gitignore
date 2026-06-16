@@ -1,0 +1,28 @@
+# Environment
+.env
+.env.local
+config/env.local
+
+# Transcripts (large files - store in Supabase)
+04-transcripts/*.txt
+04-transcripts/*.json
+
+# Embeddings exports (large)
+05-embeddings/*.npy
+05-embeddings/*.pkl
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

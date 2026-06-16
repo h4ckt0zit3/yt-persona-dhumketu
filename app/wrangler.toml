@@ -1,0 +1,61 @@
+name = "youtube-personas"
+main = "src/index.ts"
+compatibility_date = "2024-12-30"
+compatibility_flags = ["nodejs_compat"]
+
+# ---- Frontend (React build output served as static assets) ----
+[assets]
+directory = "./web/dist"
+binding = "ASSETS"
+not_found_handling = "single-page-application"
+
+# ---- Workers AI: embeddings (free daily allocation on the free plan) ----
+[ai]
+binding = "AI"
+
+# ---- Cron: poll Apify jobs + drain pending embeddings (free) ----
+[triggers]
+crons = ["*/2 * * * *"]
+
+# ---- Non-secret config ----
+[vars]
+SUPABASE_URL = "https://hmgqnjvzxkuyxuzuftns.supabase.co"
+# Supabase publishable/anon key — SAFE to expose (browser uses it for Auth).
+# Get it from Supabase → Project Settings → API → "anon" key.
+SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImhtZ3FuanZ6eGt1eXh1enVmdG5zIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODE2MDA1MDUsImV4cCI6MjA5NzE3NjUwNX0.rEFjEmwUo3VfiOvEMy9AXhhQh8vr8hHpzgrPvDRrVN4"
+# Comma-separated list of emails allowed to sign in. Anyone else is rejected
+# even with a valid Supabase session. Leave empty to allow any verified email.
+ALLOWED_EMAILS = "thisisjoyjacob@gmail.com,founder@dhumketu.space,automation@dhumketu.space"
+# Chat LLM. LLM_PROVIDER = "openai" uses the OpenAI-compatible branch;
+# OPENAI_BASE_URL points it at OpenRouter / Groq / Together / etc.
+LLM_PROVIDER = "openai"
+CHAT_MODEL = "llama-3.3-70b-versatile"
+OPENAI_BASE_URL = "https://api.groq.com/openai/v1"
+# Embeddings:
+# - "workers-ai" (free, 1024-dim bge-large) — limited to 10k/day on free tier
+# - "openai" (text-embedding-3-small, 1536-dim, ~$0.02/M tokens)
+# IMPORTANT: switching providers requires changing app/schema.sql vector(N)
+# and re-embedding all transcripts. Workers AI uses 1024, OpenAI uses 1536.
+EMBED_PROVIDER = "workers-ai"
+EMBED_MODEL = "@cf/baai/bge-large-en-v1.5"
+MAX_VIDEOS_PER_CHANNEL = "50"
+# A running pipeline job older than this (minutes) is force-failed by the Cron
+# poller so a dead Apify run can't leave a job stuck 'running' forever.
+MAX_JOB_AGE_MIN = "15"
+# Apify Store actor slugs (verify each exists at apify.com/store before deploy).
+# streamers/youtube-scraper is the most popular YouTube channel/video scraper
+# and accepts the input shape pipeline.ts uses (startUrls, maxResults, etc.).
+APIFY_VIDEO_ACTOR = "streamers/youtube-scraper"
+# pintostudio/youtube-transcript-scraper is a free, reliable transcript actor.
+APIFY_TRANSCRIPT_ACTOR = "pintostudio/youtube-transcript-scraper"
+# Set after first deploy so Apify webhooks can call back:
+PUBLIC_URL = "https://youtube-personas.dhumketu.workers.dev"
+
+# Secrets (set with `wrangler secret put NAME`, never commit):
+#   SUPABASE_SERVICE_ROLE_KEY  (Supabase -> Project Settings -> API)
+#   APIFY_TOKEN
+#   OPENAI_API_KEY    (your OpenRouter key when OPENAI_BASE_URL points there)
+#   ANTHROPIC_API_KEY (only if LLM_PROVIDER="anthropic")
+#   WEBHOOK_SECRET    (any long random string)
+#
+# No Cloudflare paid features are used: no D1, Vectorize, R2, or Queues.

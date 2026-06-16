@@ -1,0 +1,101 @@
+channel_id,niche_id,channel_name,channel_url,subscriber_count,total_videos,avg_views,format_type,language,country,description,last_scraped,status
+CH1101,N012,Fireship,https://www.youtube.com/@Fireship/,3500000,800,500000,Monologue/Screencast,en,US,Lightning-fast code explainers and 100 seconds of code series,2026-04-16,active
+CH1102,N012,freeCodeCamp,https://www.youtube.com/@freecodecamp/,11400000,2000,500000,Monologue/Screencast,en,US,Free full-length programming courses and tutorials,2026-04-16,active
+CH1103,N012,Programming with Mosh,https://www.youtube.com/@programmingwithmosh/,4000000,800,300000,Monologue/Screencast,en,CA,Clean code and professional development tutorials,2026-04-16,active
+CH1104,N012,Traversy Media,https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA/,2400000,900,200000,Monologue/Screencast,en,US,Practical project-based web development tutorials,2026-04-16,active
+CH1105,N012,Corey Schafer,https://www.youtube.com/@coreyms/,1500000,250,200000,Monologue/Screencast,en,US,In-depth Python and programming tutorials,2026-04-16,active
+CH1106,N012,Tech With Tim,https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg/,1900000,800,50000,Monologue/Screencast,en,US,Python JavaScript and ML programming tutorials,2026-04-16,active
+CH1107,N012,The Net Ninja,https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/,1800000,2000,30000,Monologue/Screencast,en,UK,Sequential programming mini-courses by Shaun Pelling,2026-04-16,active
+CH1108,N012,The Coding Train,https://www.youtube.com/@TheCodingTrain/,1800000,1000,80000,Monologue/Screencast,en,US,Creative coding with p5.js by Daniel Shiffman,2026-04-16,active
+CH1109,N012,Ania Kubow,https://www.youtube.com/@AniaKubow/,600000,400,30000,Monologue/Screencast,en,UK,JavaScript and game-based programming tutorials,2026-04-16,active
+CH1110,N012,NeetCode,https://www.youtube.com/@NeetCode/,863000,500,100000,Monologue/Screencast,en,US,LeetCode pattern-based coding interview prep,2026-04-16,active
+CH1111,N012,Clement Mihailescu,https://www.youtube.com/@cloment/,275000,200,50000,Monologue/Screencast,en,US,AlgoExpert creator sharing coding interview strategies,2026-04-16,active
+CH1112,N012,Abdul Bari,https://www.youtube.com/@abdul_bari/,607000,100,200000,Monologue/Screencast,en,IN,Data structures and algorithms with visual explanations,2026-04-16,active
+CH1113,N012,CodeWithHarry,https://www.youtube.com/@CodeWithHarry/,4800000,1600,200000,Monologue/Screencast,en,IN,Programming tutorials in Hindi and English,2026-04-16,active
+CH1114,N012,Bro Code,https://www.youtube.com/@BroCodez/,2500000,500,200000,Monologue/Screencast,en,US,Beginner-friendly programming language tutorials,2026-04-16,active
+CH1115,N012,CS Dojo,https://www.youtube.com/@CSDojo/,2000000,100,500000,Monologue/Screencast,en,US,Coding concepts by former Google engineer YK Sugi,2026-04-16,active
+CH1116,N012,Derek Banas,https://www.youtube.com/@deaborans/,1300000,1200,50000,Monologue/Screencast,en,US,Jack-of-all-trades programming language tutorials,2026-04-16,active
+CH1117,N012,thenewboston,https://www.youtube.com/@thenewboston/,2600000,4000,30000,Monologue/Screencast,en,US,Interactive programming tutorials by Bucky Roberts,2026-04-16,active
+CH1118,N012,Telusko,https://www.youtube.com/@Telusko/,1810000,1600,50000,Monologue/Screencast,en,IN,Java Python and programming tutorials by Navin Reddy,2026-04-16,active
+CH1119,N012,Caleb Curry,https://www.youtube.com/@CalebCurry/,500000,500,30000,Monologue/Screencast,en,US,Fun educational C++ JavaScript and SQL tutorials,2026-04-16,active
+CH1120,N012,Clever Programmer,https://www.youtube.com/@CleverProgrammer/,1300000,500,100000,Monologue/Screencast,en,US,Python and Django project-based tutorials,2026-04-16,active
+CH1121,N012,sentdex,https://www.youtube.com/@sentdex/,1400000,1200,40000,Monologue/Screencast,en,US,Python programming for ML and data science,2026-04-16,active
+CH1122,N012,Krish Naik,https://www.youtube.com/@krishnaik06/,1400000,1500,50000,Monologue/Screencast,en,IN,Python and programming for data science,2026-04-16,active
+CH1123,N012,CodeBasics,https://www.youtube.com/@codebasics/,1000000,600,50000,Monologue/Screencast,en,IN,Practical coding with real-world engineering focus,2026-04-16,active
+CH1124,N012,Simplilearn,https://www.youtube.com/@SimplilearnOfficial/,4000000,5000,50000,Monologue/Screencast,en,IN,Structured programming certification courses,2026-04-16,active
+CH1125,N012,edureka!,https://www.youtube.com/@edaborea/,3500000,5000,30000,Monologue/Screencast,en,IN,Programming language full courses,2026-04-16,active
+CH1126,N012,kudvenkat,https://www.youtube.com/channel/UCCTVrRB5KpIiK6V2GGVsR1Q/,847000,1500,20000,Monologue/Screencast,en,IN,C# .NET and programming tutorials,2026-04-16,active
+CH1127,N012,William Fiset,https://www.youtube.com/@WilliamFiset/,200000,150,30000,Monologue/Screencast,en,CA,Graph algorithms and data structures visual breakdowns,2026-04-16,active
+CH1128,N012,Back To Back SWE,https://www.youtube.com/@BackToBackSWE/,400000,200,50000,Monologue/Screencast,en,US,Software engineering interview preparation,2026-04-16,active
+CH1129,N012,Errichto,https://www.youtube.com/@Errichto/,150000,200,20000,Monologue/Screencast,en,PL,Competitive programming and algorithms,2026-04-16,active
+CH1130,N012,Nick White,https://www.youtube.com/@NickWhite/,300000,400,20000,Monologue/Screencast,en,US,LeetCode solutions and coding interview prep,2026-04-16,active
+CH1131,N012,Kevin Naughton Jr,https://www.youtube.com/@KevinNaughtonJr/,150000,300,15000,Monologue/Screencast,en,US,Coding interview problems explained step by step,2026-04-16,active
+CH1132,N012,Tim Ruscica (Tech With Tim),https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg/,1900000,800,50000,Monologue/Screencast,en,US,Python game development and automation tutorials,2026-04-16,active
+CH1133,N012,Mike Dane,https://www.youtube.com/@MikeDane/,250000,200,30000,Monologue/Screencast,en,US,Multi-language programming tutorials,2026-04-16,active
+CH1134,N012,Academind,https://www.youtube.com/@academind/,1000000,1000,30000,Monologue/Screencast,en,DE,Full-stack programming by Maximilian Schwarzmuller,2026-04-16,active
+CH1135,N012,Ben Awad,https://www.youtube.com/@benawad/,600000,500,50000,Monologue/Screencast,en,US,Full-stack TypeScript and React tutorials,2026-04-16,active
+CH1136,N012,Hitesh Choudhary,https://www.youtube.com/@HiteshChoudhari/,1000000,1000,30000,Monologue/Screencast,en,IN,JavaScript Python and programming career advice,2026-04-16,active
+CH1137,N012,Striver - take U forward,https://www.youtube.com/@takeUforward/,800000,500,50000,Monologue/Screencast,en,IN,DSA and competitive programming in depth,2026-04-16,active
+CH1138,N012,Jenny's Lectures CS IT,https://www.youtube.com/@JennyslecturesCSIT/,1500000,500,100000,Monologue/Screencast,en,IN,Computer science fundamentals and programming,2026-04-16,active
+CH1139,N012,mycodeschool,https://www.youtube.com/@mycodeschool/,800000,100,300000,Monologue/Screencast,en,IN,Classic data structures and algorithms tutorials,2026-04-16,active
+CH1140,N012,Reducible,https://www.youtube.com/@Reducible/,400000,30,1000000,Monologue,en,US,Beautiful animated CS and algorithm explanations,2026-04-16,active
+CH1141,N012,ArjanCodes,https://www.youtube.com/@ArjanCodes/,500000,300,50000,Monologue/Screencast,en,NL,Python software design patterns and clean code,2026-04-16,active
+CH1142,N012,Jon Gjengset,https://www.youtube.com/@jonhoo/,100000,100,20000,Monologue/Screencast,en,US,Advanced Rust programming deep dives,2026-04-16,active
+CH1143,N012,ThePrimeagen,https://www.youtube.com/@ThePrimeagen/,700000,500,100000,Monologue/Screencast,en,US,Entertaining programming with Vim and systems focus,2026-04-16,active
+CH1144,N012,Sebastian Lague,https://www.youtube.com/@SebastianLague/,2000000,100,2000000,Monologue/Screencast,en,AU,Coding adventures with beautiful visualizations,2026-04-16,active
+CH1145,N012,George Hotz,https://www.youtube.com/@gaborhuz/,500000,200,100000,Monologue/Screencast,en,US,Live coding sessions and systems programming,2026-04-16,active
+CH1146,N012,Joma Tech,https://www.youtube.com/@JomaTech/,1800000,200,500000,Monologue,en,US,Tech career comedy and programming culture,2026-04-16,active
+CH1147,N012,Andy Sterkowitz,https://www.youtube.com/@AndySterkowitz/,300000,300,30000,Monologue,en,US,Self-taught programmer career advice and tutorials,2026-04-16,active
+CH1148,N012,Forrest Knight,https://www.youtube.com/@ForrestKnight/,500000,200,100000,Monologue,en,US,Computer science education and programming career,2026-04-16,active
+CH1149,N012,Programming with Professor Wold,https://www.youtube.com/@ProfWold/,50000,100,10000,Monologue/Screencast,en,US,University-style programming lectures,2026-04-16,active
+CH1150,N012,Jacob Sorber,https://www.youtube.com/@JacobSorber/,150000,300,20000,Monologue/Screencast,en,US,C programming and systems-level coding,2026-04-16,active
+CH1151,N012,Low Level Learning,https://www.youtube.com/@LowLevelLearning/,700000,300,80000,Monologue/Screencast,en,US,Rust C and low-level systems programming,2026-04-16,active
+CH1152,N012,CodeAesthetic,https://www.youtube.com/@CodeAesthetic/,800000,20,2000000,Monologue,en,US,Code quality and programming philosophy,2026-04-16,active
+CH1153,N012,Dreams of Code,https://www.youtube.com/@dreamsofcode/,300000,80,100000,Monologue/Screencast,en,US,Developer tools and productivity tutorials,2026-04-16,active
+CH1154,N012,LearnCode.academy,https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw/,765000,200,30000,Monologue/Screencast,en,US,Web development and JavaScript programming,2026-04-16,active
+CH1155,N012,Codecademy,https://www.youtube.com/@codecademy/,200000,300,15000,Monologue/Screencast,en,US,Interactive programming education,2026-04-16,active
+CH1156,N012,Treehouse,https://www.youtube.com/channel/UCqHktcPJV7C7T3e9Cg4T4iw/,370000,500,15000,Monologue/Screencast,en,US,Structured programming skill trees,2026-04-16,active
+CH1157,N012,CodingTech,https://www.youtube.com/@CodingTech/,300000,1000,20000,Monologue,en,US,Conference talks on programming topics,2026-04-16,active
+CH1158,N012,Kalle Hallden,https://www.youtube.com/@KalleHallden/,600000,200,100000,Monologue/Screencast,en,SE,Python automation and dev lifestyle,2026-04-16,active
+CH1159,N012,TechLead,https://www.youtube.com/@TechLead/,1200000,300,200000,Monologue,en,US,Ex-Google tech lead programming insights,2026-04-16,active
+CH1160,N012,Programming Knowledge,https://www.youtube.com/@ProgrammingKnowledge/,1800000,2000,20000,Monologue/Screencast,en,US,Comprehensive multi-language programming tutorials,2026-04-16,active
+CH1161,N012,Apna College,https://www.youtube.com/@ApnaCollegeOfficial/,7000000,500,500000,Monologue/Screencast,en,IN,DSA and programming in Hindi,2026-04-16,active
+CH1162,N012,Love Babbar,https://www.youtube.com/@LoveBabbar/,1000000,200,200000,Monologue/Screencast,en,IN,DSA placement preparation and programming,2026-04-16,active
+CH1163,N012,Neso Academy,https://www.youtube.com/@nesoacademy/,2500000,1000,100000,Monologue/Screencast,en,IN,Computer science and programming fundamentals,2026-04-16,active
+CH1164,N012,Gate Smashers,https://www.youtube.com/@GateSmashers/,3000000,1500,80000,Monologue/Screencast,en,IN,CS fundamentals and programming concepts,2026-04-16,active
+CH1165,N012,CppNuts,https://www.youtube.com/@CppNuts/,150000,500,10000,Monologue/Screencast,en,IN,C++ in-depth programming tutorials,2026-04-16,active
+CH1166,N012,Alex Lee,https://www.youtube.com/@alexlorenlee/,400000,200,50000,Monologue/Screencast,en,US,Java programming tutorials for beginners,2026-04-16,active
+CH1167,N012,TechWorld with Nana,https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA/,1400000,200,100000,Monologue/Screencast,en,DE,DevOps programming and automation,2026-04-16,active
+CH1168,N012,Amigoscode,https://www.youtube.com/@amigoscode/,800000,200,80000,Monologue/Screencast,en,UK,Java Spring Boot and full-stack tutorials,2026-04-16,active
+CH1169,N012,Java Brains,https://www.youtube.com/@JavaBrainsChannel/,600000,300,50000,Monologue/Screencast,en,US,Java microservices and Spring tutorials,2026-04-16,active
+CH1170,N012,Coding with John,https://www.youtube.com/@CodingWithJohn/,300000,50,200000,Monologue/Screencast,en,US,Java fundamentals with clear explanations,2026-04-16,active
+CH1171,N012,anthonygg,https://www.youtube.com/@anthonygg_/,200000,200,30000,Monologue/Screencast,en,US,Go programming and backend tutorials,2026-04-16,active
+CH1172,N012,DevTips,https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ/,344000,300,20000,Monologue/Screencast,en,US,Web programming tips and techniques,2026-04-16,active
+CH1173,N012,Codecourse,https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g/,338000,1000,10000,Monologue/Screencast,en,UK,PHP and Laravel programming tutorials,2026-04-16,active
+CH1174,N012,mmtuts,https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw/,437000,300,20000,Monologue/Screencast,en,US,PHP MySQL and web programming tutorials,2026-04-16,active
+CH1175,N012,IAmTimCorey,https://www.youtube.com/@IAmTimCorey/,400000,500,30000,Monologue/Screencast,en,US,C# and .NET programming professional tutorials,2026-04-16,active
+CH1176,N012,Programming with Professor Sluiter,https://www.youtube.com/@ProfSluiter/,30000,100,5000,Monologue/Screencast,en,US,University programming fundamentals,2026-04-16,active
+CH1177,N012,Coding Garden,https://www.youtube.com/@CodingGarden/,200000,400,15000,Monologue/Screencast,en,US,Live coding sessions and community projects,2026-04-16,active
+CH1178,N012,Tyler McGinnis (ui.dev),https://www.youtube.com/@uidotdev/,200000,100,50000,Monologue/Screencast,en,US,JavaScript fundamentals and React education,2026-04-16,active
+CH1179,N012,Codevolution,https://www.youtube.com/@Codevolution/,500000,500,30000,Monologue/Screencast,en,IN,React Angular and frontend tutorials,2026-04-16,active
+CH1180,N012,Philip Roberts,https://www.youtube.com/@paborerts/,50000,20,200000,Monologue,en,UK,JavaScript event loop and runtime explanations,2026-04-16,active
+CH1181,N012,TheChernoProject,https://www.youtube.com/@TheCherno/,800000,400,80000,Monologue/Screencast,en,US,C++ game engine and systems programming,2026-04-16,active
+CH1182,N012,Hussein Nasser,https://www.youtube.com/@haborein/,600000,600,30000,Monologue/Screencast,en,US,Backend engineering and database programming,2026-04-16,active
+CH1183,N012,CrashCourse Computer Science,https://www.youtube.com/@crashcourse/,15000000,1500,500000,Monologue,en,US,Computer science fundamentals animated series,2026-04-16,active
+CH1184,N012,Computerphile,https://www.youtube.com/@Computerphile/,2500000,800,200000,Monologue,en,UK,Computer science concepts from university professors,2026-04-16,active
+CH1185,N012,Fun Fun Function,https://www.youtube.com/@funfunfunction/,300000,200,50000,Monologue,en,SE,JavaScript functional programming with personality,2026-04-16,active
+CH1186,N012,Stefan Mischook,https://www.youtube.com/@StefanMischook/,200000,500,15000,Monologue,en,CA,Veteran programmer career advice and tutorials,2026-04-16,active
+CH1187,N012,Coding Train Challenges,https://www.youtube.com/@TheCodingTrain/,1800000,1000,80000,Monologue/Screencast,en,US,Creative coding challenges and visualization,2026-04-16,active
+CH1188,N012,codeSTACKr,https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw/,286000,200,20000,Monologue/Screencast,en,US,Web dev tools and programming productivity,2026-04-16,active
+CH1189,N012,Florin Pop,https://www.youtube.com/@FlorinPop/,200000,300,15000,Monologue/Screencast,en,RO,Coding challenges and live programming,2026-04-16,active
+CH1190,N012,Programming Hero,https://www.youtube.com/@ProgrammingHero/,400000,200,50000,Monologue/Screencast,en,BD,App-based programming education,2026-04-16,active
+CH1191,N012,Code Bootcamp,https://www.youtube.com/@CodeBootcamp/,100000,100,20000,Monologue/Screencast,en,US,Bootcamp-style coding tutorials,2026-04-16,active
+CH1192,N012,Java Guides,https://www.youtube.com/@JavaGuides/,200000,500,10000,Monologue/Screencast,en,IN,Java and Spring framework tutorials,2026-04-16,active
+CH1193,N012,The Odin Project,https://www.youtube.com/@TheOdinProject/,50000,50,10000,Monologue/Screencast,en,US,Free full-stack curriculum companion content,2026-04-16,active
+CH1194,N012,WilliamFiset,https://www.youtube.com/@WilliamFiset/,200000,150,30000,Monologue/Screencast,en,CA,Graph algorithms and data structures education,2026-04-16,active
+CH1195,N012,Keep On Coding,https://www.youtube.com/@KeepOnCoding/,200000,200,15000,Monologue,en,US,Coding career advice and programming tips,2026-04-16,active
+CH1196,N012,Brocode,https://www.youtube.com/@BroCodez/,2500000,500,200000,Monologue/Screencast,en,US,Multi-language programming crash courses,2026-04-16,active
+CH1197,N012,Dave Gray,https://www.youtube.com/@DaveGrayTeachesCode/,300000,300,20000,Monologue/Screencast,en,US,Full-stack programming from zero to deployment,2026-04-16,active
+CH1198,N012,Dorian Develops,https://www.youtube.com/@DorianDevelops/,100000,150,15000,Monologue/Screencast,en,US,Python and web programming tutorials,2026-04-16,active
+CH1199,N012,Bukola,https://www.youtube.com/@Bukola1/,200000,100,50000,Monologue,en,US,Software engineering career and coding guidance,2026-04-16,active
+CH1200,N012,SuperSimpleDev,https://www.youtube.com/@SuperSimpleDev/,400000,50,500000,Monologue/Screencast,en,CA,HTML CSS JavaScript beginner programming,2026-04-16,active

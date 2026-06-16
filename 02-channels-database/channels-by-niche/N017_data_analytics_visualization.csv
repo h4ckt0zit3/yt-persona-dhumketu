@@ -1,0 +1,101 @@
+channel_id,niche_id,channel_name,channel_url,subscriber_count,total_videos,avg_views,format_type,language,country,description,last_scraped,status
+CH1601,N017,Ken Jee,https://www.youtube.com/@KenJee_ds/,300000,300,30000,Monologue,en,US,Data science and analytics education for practitioners,2026-04-16,active
+CH1602,N017,StatQuest with Josh Starmer,https://www.youtube.com/@statquest/,1200000,300,100000,Monologue,en,US,Statistics and data analysis algorithms simplified,2026-04-16,active
+CH1603,N017,Alex The Analyst,https://www.youtube.com/@AlexTheAnalyst/,1000000,300,30000,Monologue/Screencast,en,US,Data analyst career curriculum and tool tutorials,2026-04-16,active
+CH1604,N017,3Blue1Brown,https://www.youtube.com/@3blue1brown/,8200000,150,5000000,Monologue,en,US,Visual math and statistics for data science,2026-04-16,active
+CH1605,N017,Corey Schafer,https://www.youtube.com/@coreyms/,1500000,250,200000,Monologue/Screencast,en,US,Python Pandas and data analysis tutorials,2026-04-16,active
+CH1606,N017,Guy in a Cube,https://www.youtube.com/@GuyInACube/,300000,500,15000,Monologue/Screencast,en,US,Power BI and Microsoft data analytics by Adam and Patrick,2026-04-16,active
+CH1607,N017,Chandoo,https://www.youtube.com/@chandaboroo/,500000,500,20000,Monologue/Screencast,en,IN,Excel and data visualization mastery,2026-04-16,active
+CH1608,N017,ExcelIsFun,https://www.youtube.com/@exaborelfun/,1000000,3000,15000,Monologue/Screencast,en,US,Excel tips tricks and data analysis techniques,2026-04-16,active
+CH1609,N017,sentdex,https://www.youtube.com/@sentdex/,1400000,1200,40000,Monologue/Screencast,en,US,Python data analysis and visualization tutorials,2026-04-16,active
+CH1610,N017,Krish Naik,https://www.youtube.com/@krishnaik06/,1400000,1500,50000,Monologue/Screencast,en,IN,Data science analytics and visualization education,2026-04-16,active
+CH1611,N017,CodeBasics,https://www.youtube.com/@codebasics/,1000000,600,50000,Monologue/Screencast,en,IN,Data analytics projects with real datasets,2026-04-16,active
+CH1612,N017,365 Data Science,https://www.youtube.com/@365DataScience/,500000,300,20000,Monologue/Screencast,en,US,Data science career and analytics education,2026-04-16,active
+CH1613,N017,Tina Huang,https://www.youtube.com/@TinaHuang1/,400000,200,80000,Monologue,en,US,Data science career and analytics strategy,2026-04-16,active
+CH1614,N017,Simplilearn,https://www.youtube.com/@SimplilearnOfficial/,4000000,5000,50000,Monologue/Screencast,en,IN,Data analytics certification courses,2026-04-16,active
+CH1615,N017,edureka!,https://www.youtube.com/@edaborea/,3500000,5000,30000,Monologue/Screencast,en,IN,Data analytics and Tableau full courses,2026-04-16,active
+CH1616,N017,freeCodeCamp,https://www.youtube.com/@freecodecamp/,11400000,2000,500000,Monologue/Screencast,en,US,Free data analytics and visualization courses,2026-04-16,active
+CH1617,N017,ritvikmath,https://www.youtube.com/@ritvikmath/,80000,200,10000,Monologue,en,US,Mathematical foundations of data analysis,2026-04-16,active
+CH1618,N017,Brandon Foltz,https://www.youtube.com/@BrandonFoltz/,80000,200,10000,Monologue/Screencast,en,US,Statistics for data analytics education,2026-04-16,active
+CH1619,N017,Luke Barousse,https://www.youtube.com/@LukeBarousse/,200000,150,20000,Monologue/Screencast,en,US,Data analytics with Python and SQL tutorials,2026-04-16,active
+CH1620,N017,Tableau Tim,https://www.youtube.com/@TableauTim/,50000,100,5000,Monologue/Screencast,en,US,Hands-on Tableau data visualization lessons,2026-04-16,active
+CH1621,N017,Andy Kriebel - VizWiz,https://www.youtube.com/@VizWiz/,30000,200,3000,Monologue/Screencast,en,US,Tableau visualization best practices,2026-04-16,active
+CH1622,N017,Absent Data,https://www.youtube.com/@AbsentData/,30000,80,5000,Monologue/Screencast,en,US,Power BI and data analytics tutorials,2026-04-16,active
+CH1623,N017,Leila Gharani,https://www.youtube.com/@LeilaGharani/,800000,300,50000,Monologue/Screencast,en,AT,Excel and data analytics productivity expert,2026-04-16,active
+CH1624,N017,Storytelling with Data,https://www.youtube.com/@StorytellingWithData/,50000,80,5000,Monologue,en,US,Data visualization storytelling techniques,2026-04-16,active
+CH1625,N017,David Langer,https://www.youtube.com/@DavidLanger/,50000,100,5000,Monologue/Screencast,en,US,R programming for data analysis,2026-04-16,active
+CH1626,N017,Super Data Science Podcast,https://www.youtube.com/channel/UCMbtqTGdSsxYYhhTpV4lSTQ/,183000,500,10000,Monologue,en,US,Data science industry insights and education,2026-04-16,active
+CH1627,N017,Data Professor,https://www.youtube.com/@DataProfessor/,200000,200,15000,Monologue/Screencast,en,TH,Python data science and bioinformatics,2026-04-16,active
+CH1628,N017,Stefanovic - How to Power BI,https://www.youtube.com/@HowToPowerBI/,100000,200,10000,Monologue/Screencast,en,AU,Power BI step-by-step tutorials,2026-04-16,active
+CH1629,N017,Avi Singh - PowerBIPro,https://www.youtube.com/@PowerBIPro/,80000,150,8000,Monologue/Screencast,en,IN,Advanced Power BI DAX and analytics,2026-04-16,active
+CH1630,N017,SQLBI,https://www.youtube.com/@SQLBI/,150000,300,10000,Monologue/Screencast,en,IT,DAX Power BI and business intelligence,2026-04-16,active
+CH1631,N017,Enterprise DNA,https://www.youtube.com/@EnterpriseDNA/,100000,300,5000,Monologue/Screencast,en,AU,Advanced Power BI analytics and visualization,2026-04-16,active
+CH1632,N017,Maven Analytics,https://www.youtube.com/@MavenAnalytics/,80000,100,10000,Monologue/Screencast,en,US,Data analytics and Excel business intelligence,2026-04-16,active
+CH1633,N017,Data is Beautiful - Reddit,https://www.youtube.com/@DataIsBeautiful/,20000,50,5000,Monologue,en,US,Data visualization showcase and education,2026-04-16,active
+CH1634,N017,Curbal,https://www.youtube.com/@Curbal/,100000,500,5000,Monologue/Screencast,en,ES,Power BI tips and DAX tutorials,2026-04-16,active
+CH1635,N017,Kevin Stratvert,https://www.youtube.com/@KevinStratvert/,2000000,300,300000,Monologue/Screencast,en,US,Excel and data analytics tool tutorials,2026-04-16,active
+CH1636,N017,MyOnlineTrainingHub,https://www.youtube.com/@MyOnlineTrainingHub/,200000,300,10000,Monologue/Screencast,en,AU,Excel VBA and data analytics,2026-04-16,active
+CH1637,N017,Data36,https://www.youtube.com/@Data36/,50000,100,5000,Monologue/Screencast,en,HU,Data science methodology and analytics,2026-04-16,active
+CH1638,N017,Coding is Fun,https://www.youtube.com/@CodingIsFun/,50000,80,8000,Monologue/Screencast,en,US,Python Streamlit data visualization apps,2026-04-16,active
+CH1639,N017,Dave Ebbelaar,https://www.youtube.com/@DaveEbbelaar/,100000,150,15000,Monologue/Screencast,en,NL,Data science and analytics automation,2026-04-16,active
+CH1640,N017,Mo Chen,https://www.youtube.com/@MoChen/,50000,80,8000,Monologue/Screencast,en,US,Data analytics career and portfolio guidance,2026-04-16,active
+CH1641,N017,Thu Vu data analytics,https://www.youtube.com/@ThuVu/,100000,80,20000,Monologue/Screencast,en,US,Data analytics projects and career advice,2026-04-16,active
+CH1642,N017,Kahan Data Solutions,https://www.youtube.com/@KahanDataSolutions/,30000,80,5000,Monologue/Screencast,en,US,Data analytics consulting and Power BI,2026-04-16,active
+CH1643,N017,Data School,https://www.youtube.com/@dataschool/,200000,200,15000,Monologue/Screencast,en,US,Python and Pandas data wrangling tutorials,2026-04-16,active
+CH1644,N017,Keith Galli,https://www.youtube.com/@KeithGalli/,300000,100,50000,Monologue/Screencast,en,US,Python data analysis and visualization projects,2026-04-16,active
+CH1645,N017,Matt Brattin - Excel Campus,https://www.youtube.com/@ExcelCampus/,300000,300,15000,Monologue/Screencast,en,US,Excel VBA and data analysis automation,2026-04-16,active
+CH1646,N017,Miss Excel (Kat Norton),https://www.youtube.com/@MissExcel/,300000,200,30000,Monologue/Screencast,en,US,Excel and data analytics fun tutorials,2026-04-16,active
+CH1647,N017,Pragmatic Works,https://www.youtube.com/@PragmaticWorks/,100000,500,5000,Monologue/Screencast,en,US,Power BI and Azure data analytics training,2026-04-16,active
+CH1648,N017,ExcelJet,https://www.youtube.com/@ExcelJet/,100000,300,10000,Monologue/Screencast,en,US,Excel formulas for data analysis,2026-04-16,active
+CH1649,N017,Nicolai Nielsen,https://www.youtube.com/channel/UCpABUkWm8xMt5XmGcFb3EFg/,122000,150,15000,Monologue/Screencast,en,DK,Computer vision data analytics and visualization,2026-04-16,active
+CH1650,N017,Data Science Diaries,https://www.youtube.com/channel/UCMi2_TIHEVFWv7GBOtx6YnA/,4300,50,2000,Monologue/Screencast,en,US,Data analytics learning journey,2026-04-16,active
+CH1651,N017,KDnuggets,https://www.youtube.com/@KDnuggets/,20000,50,3000,Monologue,en,US,Data science and analytics news education,2026-04-16,active
+CH1652,N017,Data Talks Club,https://www.youtube.com/@DataTalksClub/,50000,300,3000,Monologue,en,DE,Data engineering and analytics community talks,2026-04-16,active
+CH1653,N017,Karolina Sowinska,https://www.youtube.com/@KarolinaSowinska/,80000,100,10000,Monologue/Screencast,en,UK,Data analytics portfolio and career building,2026-04-16,active
+CH1654,N017,Madhav - The Data Analyst,https://www.youtube.com/@MadhavDataAnalyst/,30000,50,5000,Monologue/Screencast,en,IN,Data analysis projects and tutorials,2026-04-16,active
+CH1655,N017,Data Tutorials,https://www.youtube.com/@DataTutorials/,30000,80,3000,Monologue/Screencast,en,US,Data analytics tool tutorials,2026-04-16,active
+CH1656,N017,Irfan Malik,https://www.youtube.com/@IrfanMalik/,30000,50,5000,Monologue/Screencast,en,US,Power BI and business analytics,2026-04-16,active
+CH1657,N017,Data Engineering,https://www.youtube.com/@DataEngineering/,30000,50,5000,Monologue/Screencast,en,US,Data pipeline and analytics engineering,2026-04-16,active
+CH1658,N017,Caleb Curry,https://www.youtube.com/@CalebCurry/,500000,500,30000,Monologue/Screencast,en,US,SQL and database analytics tutorials,2026-04-16,active
+CH1659,N017,Tech With Tim,https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg/,1900000,800,50000,Monologue/Screencast,en,US,Python data analytics projects,2026-04-16,active
+CH1660,N017,Derek Banas,https://www.youtube.com/@deaborans/,1300000,1200,50000,Monologue/Screencast,en,US,Data analysis and statistics tutorials,2026-04-16,active
+CH1661,N017,What's AI by Louis Bouchard,https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg/,71100,150,15000,Monologue,en,CA,Data science research simplified,2026-04-16,active
+CH1662,N017,Jeremy Howard,https://www.youtube.com/@howardjeremyp/,145000,200,30000,Monologue/Screencast,en,AU,Data analysis with Fast.ai tools,2026-04-16,active
+CH1663,N017,Murtaza's Workshop,https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A/,447000,300,60000,Monologue/Screencast,en,US,Computer vision data analysis projects,2026-04-16,active
+CH1664,N017,sentdex,https://www.youtube.com/@sentdex/,1400000,1200,40000,Monologue/Screencast,en,US,Python data visualization with Matplotlib,2026-04-16,active
+CH1665,N017,Venelin Valkov,https://www.youtube.com/channel/UCoW_WzQNJVAjxo4osNAxd_g/,33000,100,8000,Monologue/Screencast,en,BG,ML data analysis and visualization,2026-04-16,active
+CH1666,N017,Rithesh Sreenivasan,https://www.youtube.com/channel/UCPAfv1GeraR1WM0608He6ow/,50500,100,10000,Monologue/Screencast,en,IN,Data analysis tool implementations,2026-04-16,active
+CH1667,N017,Practical AI by Ramsri,https://www.youtube.com/channel/UCPiUU-nCV73kHKhLriyZ5ZQ/,4400,50,2000,Monologue/Screencast,en,IN,Practical data analysis implementations,2026-04-16,active
+CH1668,N017,Pradip Nichite,https://www.youtube.com/channel/UC3-uyUX8s536lUkrWwYvfDg/,6900,80,3000,Monologue/Screencast,en,IN,Data analytics for business decisions,2026-04-16,active
+CH1669,N017,Jay Shah,https://www.youtube.com/channel/UCdZ0GX-F3ULMKfxtyzSFbaw/,7200,60,3000,Monologue/Screencast,en,US,Data science project analytics,2026-04-16,active
+CH1670,N017,IBM Technology,https://www.youtube.com/channel/UCKWaEZ-_VweaEx1j62do_vQ/,1600000,1000,50000,Monologue,en,US,Enterprise data analytics concepts,2026-04-16,active
+CH1671,N017,Google Developers,https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw/,2600000,5000,30000,Monologue/Screencast,en,US,Google data analytics tools and BigQuery,2026-04-16,active
+CH1672,N017,Joma Tech,https://www.youtube.com/@JomaTech/,1800000,200,500000,Monologue,en,US,Data science career from Big Tech perspective,2026-04-16,active
+CH1673,N017,Kalle Hallden,https://www.youtube.com/@KalleHallden/,600000,200,100000,Monologue/Screencast,en,SE,Python data automation and analysis projects,2026-04-16,active
+CH1674,N017,Coding is Fun,https://www.youtube.com/@CodingIsFun/,50000,80,8000,Monologue/Screencast,en,US,Python dashboard and data app building,2026-04-16,active
+CH1675,N017,Nachiketa Hebbar,https://www.youtube.com/channel/UCJPihOKkiT7TqP7NK9-GtuQ/,19100,80,5000,Monologue/Screencast,en,IN,Data analysis coding tutorials,2026-04-16,active
+CH1676,N017,AI with Thakshila,https://www.youtube.com/channel/UCPNj_I8xUYCfDrAdP7tJXyg/,5500,50,2000,Monologue/Screencast,en,LK,Data analytics beginner tutorials,2026-04-16,active
+CH1677,N017,Mike Dane,https://www.youtube.com/@MikeDane/,250000,200,30000,Monologue/Screencast,en,US,SQL and database analytics fundamentals,2026-04-16,active
+CH1678,N017,Programming with Mosh,https://www.youtube.com/@programmingwithmosh/,4000000,800,300000,Monologue/Screencast,en,CA,SQL and data fundamentals,2026-04-16,active
+CH1679,N017,The Coding Train,https://www.youtube.com/@TheCodingTrain/,1800000,1000,80000,Monologue/Screencast,en,US,Creative data visualization with p5.js,2026-04-16,active
+CH1680,N017,Sebastian Lague,https://www.youtube.com/@SebastianLague/,2000000,100,2000000,Monologue/Screencast,en,AU,Data visualization through coding adventures,2026-04-16,active
+CH1681,N017,Reducible,https://www.youtube.com/@Reducible/,400000,30,1000000,Monologue,en,US,Animated algorithm and data structure visualization,2026-04-16,active
+CH1682,N017,Fireship,https://www.youtube.com/@Fireship/,3500000,800,500000,Monologue/Screencast,en,US,Data tools and technologies explained fast,2026-04-16,active
+CH1683,N017,Computerphile,https://www.youtube.com/@Computerphile/,2500000,800,200000,Monologue,en,UK,Data processing and analysis concepts,2026-04-16,active
+CH1684,N017,CodeWithHarry,https://www.youtube.com/@CodeWithHarry/,4800000,1600,200000,Monologue/Screencast,en,IN,Python for data analysis in Hindi,2026-04-16,active
+CH1685,N017,Telusko,https://www.youtube.com/@Telusko/,1810000,1600,50000,Monologue/Screencast,en,IN,Python data analytics basics,2026-04-16,active
+CH1686,N017,Bro Code,https://www.youtube.com/@BroCodez/,2500000,500,200000,Monologue/Screencast,en,US,Python and SQL for data analysis,2026-04-16,active
+CH1687,N017,Clever Programmer,https://www.youtube.com/@CleverProgrammer/,1300000,500,100000,Monologue/Screencast,en,US,Python data projects and portfolios,2026-04-16,active
+CH1688,N017,Hitesh Choudhary,https://www.youtube.com/@HiteshChoudhari/,1000000,1000,30000,Monologue/Screencast,en,IN,Data analysis and Python basics,2026-04-16,active
+CH1689,N017,Bukola,https://www.youtube.com/@Bukola1/,200000,100,50000,Monologue,en,US,Data analytics career transition advice,2026-04-16,active
+CH1690,N017,Andy Sterkowitz,https://www.youtube.com/@AndySterkowitz/,300000,300,30000,Monologue,en,US,Self-taught data analyst guidance,2026-04-16,active
+CH1691,N017,Keep On Coding,https://www.youtube.com/@KeepOnCoding/,200000,200,15000,Monologue,en,US,Data career advice and learning paths,2026-04-16,active
+CH1692,N017,Dorian Develops,https://www.youtube.com/@DorianDevelops/,100000,150,15000,Monologue/Screencast,en,US,Python data analysis tutorials,2026-04-16,active
+CH1693,N017,Programming Hero,https://www.youtube.com/@ProgrammingHero/,400000,200,50000,Monologue/Screencast,en,BD,Data analysis fundamentals education,2026-04-16,active
+CH1694,N017,Florin Pop,https://www.youtube.com/@FlorinPop/,200000,300,15000,Monologue/Screencast,en,RO,Data visualization web projects,2026-04-16,active
+CH1695,N017,CodingTech,https://www.youtube.com/@CodingTech/,300000,1000,20000,Monologue,en,US,Data engineering conference talks,2026-04-16,active
+CH1696,N017,Apna College,https://www.youtube.com/@ApnaCollegeOfficial/,7000000,500,500000,Monologue/Screencast,en,IN,Data analytics basics in Hindi,2026-04-16,active
+CH1697,N017,CS Dojo,https://www.youtube.com/@CSDojo/,2000000,100,500000,Monologue/Screencast,en,US,Data structures for analytics from ex-Google,2026-04-16,active
+CH1698,N017,Stefan Mischook,https://www.youtube.com/@StefanMischook/,200000,500,15000,Monologue,en,CA,Data career advice from veteran developer,2026-04-16,active
+CH1699,N017,Neso Academy,https://www.youtube.com/@nesoacademy/,2500000,1000,100000,Monologue/Screencast,en,IN,Database and data analysis fundamentals,2026-04-16,active
+CH1700,N017,TechLead,https://www.youtube.com/@TechLead/,1200000,300,200000,Monologue,en,US,Data engineering from Big Tech perspective,2026-04-16,active

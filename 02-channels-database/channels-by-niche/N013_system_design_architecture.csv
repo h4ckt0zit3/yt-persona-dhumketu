@@ -1,0 +1,101 @@
+channel_id,niche_id,channel_name,channel_url,subscriber_count,total_videos,avg_views,format_type,language,country,description,last_scraped,status
+CH1201,N013,ByteByteGo,https://www.youtube.com/@ByteByteGo/,1000000,200,300000,Monologue/Screencast,en,US,System design with production-quality animations by Alex Xu,2026-04-16,active
+CH1202,N013,Gaurav Sen,https://www.youtube.com/@gaborauv/,700000,200,200000,Monologue/Screencast,en,IN,System design whiteboard sessions from former Google engineer,2026-04-16,active
+CH1203,N013,Hussein Nasser,https://www.youtube.com/@haborein/,600000,600,30000,Monologue/Screencast,en,US,Backend engineering and system architecture deep dives,2026-04-16,active
+CH1204,N013,Tech Dummies - Narendra L,https://www.youtube.com/@TechDummiesNaworendra/,300000,300,30000,Monologue/Screencast,en,IN,Beginner-friendly system design explanations,2026-04-16,active
+CH1205,N013,System Design Interview,https://www.youtube.com/@SystemDesignInterview/,100000,80,30000,Monologue/Screencast,en,US,Focused system design interview preparation,2026-04-16,active
+CH1206,N013,NeetCode,https://www.youtube.com/@NeetCode/,863000,500,100000,Monologue/Screencast,en,US,System design and coding interview preparation,2026-04-16,active
+CH1207,N013,Fireship,https://www.youtube.com/@Fireship/,3500000,800,500000,Monologue/Screencast,en,US,Architecture concepts explained in 100 seconds,2026-04-16,active
+CH1208,N013,ArjanCodes,https://www.youtube.com/@ArjanCodes/,500000,300,50000,Monologue/Screencast,en,NL,Software design patterns and architecture in Python,2026-04-16,active
+CH1209,N013,Martin Kleppmann,https://www.youtube.com/@MartinKleppmann/,50000,50,30000,Monologue/Screencast,en,UK,Distributed systems author of Designing Data-Intensive Apps,2026-04-16,active
+CH1210,N013,CodeKarle,https://www.youtube.com/@codeKarle/,100000,50,50000,Monologue/Screencast,en,IN,System design interview walkthroughs,2026-04-16,active
+CH1211,N013,Back To Back SWE,https://www.youtube.com/@BackToBackSWE/,400000,200,50000,Monologue/Screencast,en,US,System design fundamentals and interview prep,2026-04-16,active
+CH1212,N013,Java Brains,https://www.youtube.com/@JavaBrainsChannel/,600000,300,50000,Monologue/Screencast,en,US,Microservices architecture and Spring ecosystem,2026-04-16,active
+CH1213,N013,Clement Mihailescu,https://www.youtube.com/@cloment/,275000,200,50000,Monologue/Screencast,en,US,System design mock interviews and walkthroughs,2026-04-16,active
+CH1214,N013,ThePrimeagen,https://www.youtube.com/@ThePrimeagen/,700000,500,100000,Monologue/Screencast,en,US,Systems architecture and performance engineering,2026-04-16,active
+CH1215,N013,Computerphile,https://www.youtube.com/@Computerphile/,2500000,800,200000,Monologue,en,UK,Computer architecture concepts from professors,2026-04-16,active
+CH1216,N013,IBM Technology,https://www.youtube.com/channel/UCKWaEZ-_VweaEx1j62do_vQ/,1600000,1000,50000,Monologue,en,US,Enterprise architecture and system design concepts,2026-04-16,active
+CH1217,N013,TechLead,https://www.youtube.com/@TechLead/,1200000,300,200000,Monologue,en,US,System design insights from ex-Google tech lead,2026-04-16,active
+CH1218,N013,Low Level Learning,https://www.youtube.com/@LowLevelLearning/,700000,300,80000,Monologue/Screencast,en,US,Low-level systems architecture and design,2026-04-16,active
+CH1219,N013,Amigoscode,https://www.youtube.com/@amigoscode/,800000,200,80000,Monologue/Screencast,en,UK,Microservices and system architecture with Spring,2026-04-16,active
+CH1220,N013,Academind,https://www.youtube.com/@academind/,1000000,1000,30000,Monologue/Screencast,en,DE,Full-stack architecture patterns and best practices,2026-04-16,active
+CH1221,N013,Coding with John,https://www.youtube.com/@CodingWithJohn/,300000,50,200000,Monologue/Screencast,en,US,Java architecture patterns and fundamentals,2026-04-16,active
+CH1222,N013,Ben Awad,https://www.youtube.com/@benawad/,600000,500,50000,Monologue/Screencast,en,US,Full-stack architecture decisions and trade-offs,2026-04-16,active
+CH1223,N013,anthonygg,https://www.youtube.com/@anthonygg_/,200000,200,30000,Monologue/Screencast,en,US,Go microservices architecture and design patterns,2026-04-16,active
+CH1224,N013,TheCherno,https://www.youtube.com/@TheCherno/,800000,400,80000,Monologue/Screencast,en,US,Game engine architecture and C++ system design,2026-04-16,active
+CH1225,N013,George Hotz,https://www.youtube.com/@gaborhuz/,500000,200,100000,Monologue/Screencast,en,US,Systems programming and architecture live builds,2026-04-16,active
+CH1226,N013,Jon Gjengset,https://www.youtube.com/@jonhoo/,100000,100,20000,Monologue/Screencast,en,US,Distributed systems in Rust deep dives,2026-04-16,active
+CH1227,N013,Reducible,https://www.youtube.com/@Reducible/,400000,30,1000000,Monologue,en,US,Animated system architecture algorithm explanations,2026-04-16,active
+CH1228,N013,CodeAesthetic,https://www.youtube.com/@CodeAesthetic/,800000,20,2000000,Monologue,en,US,Software architecture philosophy and patterns,2026-04-16,active
+CH1229,N013,Sebastian Lague,https://www.youtube.com/@SebastianLague/,2000000,100,2000000,Monologue/Screencast,en,AU,Complex system visualization and design,2026-04-16,active
+CH1230,N013,Dreams of Code,https://www.youtube.com/@dreamsofcode/,300000,80,100000,Monologue/Screencast,en,US,Developer tooling and architecture decisions,2026-04-16,active
+CH1231,N013,TechWorld with Nana,https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA/,1400000,200,100000,Monologue/Screencast,en,DE,DevOps architecture and infrastructure design,2026-04-16,active
+CH1232,N013,Striver - take U forward,https://www.youtube.com/@takeUforward/,800000,500,50000,Monologue/Screencast,en,IN,System design fundamentals for interviews,2026-04-16,active
+CH1233,N013,mycodeschool,https://www.youtube.com/@mycodeschool/,800000,100,300000,Monologue/Screencast,en,IN,Classic data structures for system design foundations,2026-04-16,active
+CH1234,N013,Neso Academy,https://www.youtube.com/@nesoacademy/,2500000,1000,100000,Monologue/Screencast,en,IN,Operating systems and architecture fundamentals,2026-04-16,active
+CH1235,N013,Gate Smashers,https://www.youtube.com/@GateSmashers/,3000000,1500,80000,Monologue/Screencast,en,IN,Computer architecture and OS concepts,2026-04-16,active
+CH1236,N013,Coding Garden,https://www.youtube.com/@CodingGarden/,200000,400,15000,Monologue/Screencast,en,US,Live system architecture building sessions,2026-04-16,active
+CH1237,N013,Kalle Hallden,https://www.youtube.com/@KalleHallden/,600000,200,100000,Monologue/Screencast,en,SE,Software project architecture and design,2026-04-16,active
+CH1238,N013,Forrest Knight,https://www.youtube.com/@ForrestKnight/,500000,200,100000,Monologue,en,US,CS degree concepts including system architecture,2026-04-16,active
+CH1239,N013,CNCF (Cloud Native Computing Foundation),https://www.youtube.com/@caborncf/,200000,3000,5000,Monologue,en,US,Cloud-native architecture talks and presentations,2026-04-16,active
+CH1240,N013,Confluent,https://www.youtube.com/@Confluent/,50000,500,5000,Monologue/Screencast,en,US,Event-driven architecture with Apache Kafka,2026-04-16,active
+CH1241,N013,InfoQ,https://www.youtube.com/@InfoQ/,200000,2000,10000,Monologue,en,US,Software architecture conference talks,2026-04-16,active
+CH1242,N013,Mark Richards,https://www.youtube.com/@markaborards/,50000,100,15000,Monologue,en,US,Software architecture patterns and fundamentals,2026-04-16,active
+CH1243,N013,CodingTech,https://www.youtube.com/@CodingTech/,300000,1000,20000,Monologue,en,US,Architecture conference talk compilations,2026-04-16,active
+CH1244,N013,IAmTimCorey,https://www.youtube.com/@IAmTimCorey/,400000,500,30000,Monologue/Screencast,en,US,.NET architecture and design pattern tutorials,2026-04-16,active
+CH1245,N013,Programming with Mosh,https://www.youtube.com/@programmingwithmosh/,4000000,800,300000,Monologue/Screencast,en,CA,Software design principles and architecture fundamentals,2026-04-16,active
+CH1246,N013,Derek Banas,https://www.youtube.com/@deaborans/,1300000,1200,50000,Monologue/Screencast,en,US,Design patterns and architecture tutorials,2026-04-16,active
+CH1247,N013,Java Guides,https://www.youtube.com/@JavaGuides/,200000,500,10000,Monologue/Screencast,en,IN,Microservices and Spring architecture tutorials,2026-04-16,active
+CH1248,N013,Hitesh Choudhary,https://www.youtube.com/@HiteshChoudhari/,1000000,1000,30000,Monologue/Screencast,en,IN,Backend architecture and system design in Hindi,2026-04-16,active
+CH1249,N013,Dave Gray,https://www.youtube.com/@DaveGrayTeachesCode/,300000,300,20000,Monologue/Screencast,en,US,Full-stack architecture from setup to deployment,2026-04-16,active
+CH1250,N013,Stefan Mischook,https://www.youtube.com/@StefanMischook/,200000,500,15000,Monologue,en,CA,Veteran perspective on software architecture decisions,2026-04-16,active
+CH1251,N013,Jenny's Lectures CS IT,https://www.youtube.com/@JennyslecturesCSIT/,1500000,500,100000,Monologue/Screencast,en,IN,OS and architecture fundamentals for students,2026-04-16,active
+CH1252,N013,Simplilearn,https://www.youtube.com/@SimplilearnOfficial/,4000000,5000,50000,Monologue/Screencast,en,IN,System design and architecture courses,2026-04-16,active
+CH1253,N013,edureka!,https://www.youtube.com/@edaborea/,3500000,5000,30000,Monologue/Screencast,en,IN,Microservices architecture structured courses,2026-04-16,active
+CH1254,N013,Jacob Sorber,https://www.youtube.com/@JacobSorber/,150000,300,20000,Monologue/Screencast,en,US,Systems programming and architecture concepts,2026-04-16,active
+CH1255,N013,CppNuts,https://www.youtube.com/@CppNuts/,150000,500,10000,Monologue/Screencast,en,IN,C++ system-level design and architecture,2026-04-16,active
+CH1256,N013,Tyler McGinnis (ui.dev),https://www.youtube.com/@uidotdev/,200000,100,50000,Monologue/Screencast,en,US,Frontend architecture patterns and decisions,2026-04-16,active
+CH1257,N013,Codevolution,https://www.youtube.com/@Codevolution/,500000,500,30000,Monologue/Screencast,en,IN,React and frontend architecture patterns,2026-04-16,active
+CH1258,N013,kudvenkat,https://www.youtube.com/channel/UCCTVrRB5KpIiK6V2GGVsR1Q/,847000,1500,20000,Monologue/Screencast,en,IN,.NET architecture and design patterns,2026-04-16,active
+CH1259,N013,Caleb Curry,https://www.youtube.com/@CalebCurry/,500000,500,30000,Monologue/Screencast,en,US,Database design and software architecture basics,2026-04-16,active
+CH1260,N013,Mike Dane,https://www.youtube.com/@MikeDane/,250000,200,30000,Monologue/Screencast,en,US,Database and system design fundamentals,2026-04-16,active
+CH1261,N013,Nick White,https://www.youtube.com/@NickWhite/,300000,400,20000,Monologue/Screencast,en,US,System design interview problem solving,2026-04-16,active
+CH1262,N013,Kevin Naughton Jr,https://www.youtube.com/@KevinNaughtonJr/,150000,300,15000,Monologue/Screencast,en,US,System design basics for FAANG interviews,2026-04-16,active
+CH1263,N013,Errichto,https://www.youtube.com/@Errichto/,150000,200,20000,Monologue/Screencast,en,PL,Algorithmic system design and optimization,2026-04-16,active
+CH1264,N013,Andy Sterkowitz,https://www.youtube.com/@AndySterkowitz/,300000,300,30000,Monologue,en,US,Self-taught developer system design learning path,2026-04-16,active
+CH1265,N013,Love Babbar,https://www.youtube.com/@LoveBabbar/,1000000,200,200000,Monologue/Screencast,en,IN,System design placement preparation,2026-04-16,active
+CH1266,N013,Apna College,https://www.youtube.com/@ApnaCollegeOfficial/,7000000,500,500000,Monologue/Screencast,en,IN,System design basics in Hindi,2026-04-16,active
+CH1267,N013,Philip Roberts,https://www.youtube.com/@paborerts/,50000,20,200000,Monologue,en,UK,JavaScript runtime architecture deep dives,2026-04-16,active
+CH1268,N013,Alex Lee,https://www.youtube.com/@alexlorenlee/,400000,200,50000,Monologue/Screencast,en,US,OOP design principles and patterns,2026-04-16,active
+CH1269,N013,Bukola,https://www.youtube.com/@Bukola1/,200000,100,50000,Monologue,en,US,System design career preparation guidance,2026-04-16,active
+CH1270,N013,SuperSimpleDev,https://www.youtube.com/@SuperSimpleDev/,400000,50,500000,Monologue/Screencast,en,CA,Web architecture fundamentals for beginners,2026-04-16,active
+CH1271,N013,Programming Hero,https://www.youtube.com/@ProgrammingHero/,400000,200,50000,Monologue/Screencast,en,BD,Software architecture fundamentals,2026-04-16,active
+CH1272,N013,Joma Tech,https://www.youtube.com/@JomaTech/,1800000,200,500000,Monologue,en,US,System design from Big Tech perspective,2026-04-16,active
+CH1273,N013,CrashCourse Computer Science,https://www.youtube.com/@crashcourse/,15000000,1500,500000,Monologue,en,US,Computer architecture basics animated series,2026-04-16,active
+CH1274,N013,Fun Fun Function,https://www.youtube.com/@funfunfunction/,300000,200,50000,Monologue,en,SE,Software design philosophy discussions,2026-04-16,active
+CH1275,N013,Florin Pop,https://www.youtube.com/@FlorinPop/,200000,300,15000,Monologue/Screencast,en,RO,Project architecture live coding sessions,2026-04-16,active
+CH1276,N013,Keep On Coding,https://www.youtube.com/@KeepOnCoding/,200000,200,15000,Monologue,en,US,System design career advice for developers,2026-04-16,active
+CH1277,N013,CodeBootcamp,https://www.youtube.com/@CodeBootcamp/,100000,100,20000,Monologue/Screencast,en,US,Architecture fundamentals for bootcamp grads,2026-04-16,active
+CH1278,N013,The Odin Project,https://www.youtube.com/@TheOdinProject/,50000,50,10000,Monologue/Screencast,en,US,Full-stack architecture curriculum content,2026-04-16,active
+CH1279,N013,Dorian Develops,https://www.youtube.com/@DorianDevelops/,100000,150,15000,Monologue/Screencast,en,US,Application architecture and design tutorials,2026-04-16,active
+CH1280,N013,Programming Knowledge,https://www.youtube.com/@ProgrammingKnowledge/,1800000,2000,20000,Monologue/Screencast,en,US,Multi-language architecture and design,2026-04-16,active
+CH1281,N013,freeCodeCamp,https://www.youtube.com/@freecodecamp/,11400000,2000,500000,Monologue/Screencast,en,US,Free system design and architecture courses,2026-04-16,active
+CH1282,N013,Clever Programmer,https://www.youtube.com/@CleverProgrammer/,1300000,500,100000,Monologue/Screencast,en,US,Full-stack project architecture tutorials,2026-04-16,active
+CH1283,N013,thenewboston,https://www.youtube.com/@thenewboston/,2600000,4000,30000,Monologue/Screencast,en,US,Software engineering and architecture basics,2026-04-16,active
+CH1284,N013,Telusko,https://www.youtube.com/@Telusko/,1810000,1600,50000,Monologue/Screencast,en,IN,Java microservices and design patterns,2026-04-16,active
+CH1285,N013,Bro Code,https://www.youtube.com/@BroCodez/,2500000,500,200000,Monologue/Screencast,en,US,OOP and design pattern basics,2026-04-16,active
+CH1286,N013,CS Dojo,https://www.youtube.com/@CSDojo/,2000000,100,500000,Monologue/Screencast,en,US,CS fundamentals for system design from ex-Google,2026-04-16,active
+CH1287,N013,William Fiset,https://www.youtube.com/@WilliamFiset/,200000,150,30000,Monologue/Screencast,en,CA,Graph algorithms for distributed system design,2026-04-16,active
+CH1288,N013,Codecademy,https://www.youtube.com/@codecademy/,200000,300,15000,Monologue/Screencast,en,US,Interactive architecture learning content,2026-04-16,active
+CH1289,N013,Treehouse,https://www.youtube.com/channel/UCqHktcPJV7C7T3e9Cg4T4iw/,370000,500,15000,Monologue/Screencast,en,US,Structured web architecture learning,2026-04-16,active
+CH1290,N013,Fullstack Academy,https://www.youtube.com/channel/UCjFO5t0MLyQaidKGpGoRewg/,55200,100,10000,Monologue/Screencast,en,US,Full-stack architecture bootcamp content,2026-04-16,active
+CH1291,N013,LearnCode.academy,https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw/,765000,200,30000,Monologue/Screencast,en,US,Web application architecture tutorials,2026-04-16,active
+CH1292,N013,Wes Bos,https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA/,173000,200,15000,Monologue/Screencast,en,CA,Modern web architecture with Node and React,2026-04-16,active
+CH1293,N013,JSConf,https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA/,287000,500,20000,Monologue,en,US,JavaScript architecture conference talks,2026-04-16,active
+CH1294,N013,LevelUpTuts,https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg/,455000,1500,10000,Monologue/Screencast,en,US,Modern web framework architecture tutorials,2026-04-16,active
+CH1295,N013,Brad Hussey,https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA/,53400,100,5000,Monologue/Screencast,en,CA,Web project architecture from freelance perspective,2026-04-16,active
+CH1296,N013,Confluent Developers,https://www.youtube.com/@ConfluentDevelopers/,30000,200,5000,Monologue/Screencast,en,US,Event-streaming architecture patterns,2026-04-16,active
+CH1297,N013,Google Cloud Tech,https://www.youtube.com/@googlecloudtech/,1000000,2000,20000,Monologue/Screencast,en,US,Cloud architecture patterns on GCP,2026-04-16,active
+CH1298,N013,AWS Events,https://www.youtube.com/@AWSEventsChannel/,300000,3000,10000,Monologue,en,US,AWS architecture talks and re:Invent sessions,2026-04-16,active
+CH1299,N013,Docker,https://www.youtube.com/channel/UC76AVf2JkrwjxNKMuPpscHQ/,113000,300,10000,Monologue/Screencast,en,US,Container architecture and Docker patterns,2026-04-16,active
+CH1300,N013,HashiCorp,https://www.youtube.com/@HashiCorp/,80000,500,5000,Monologue/Screencast,en,US,Infrastructure architecture with Terraform and Vault,2026-04-16,active
