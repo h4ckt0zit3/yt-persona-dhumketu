@@ -89,7 +89,7 @@ def main():
         try:
             resp = (
                 supabase.table(SOURCE_TABLE)
-                .select(f"id, {CONTENT_COL}")
+                .select(f"id, channel_id, {CONTENT_COL}")
                 .not_.is_(CONTENT_COL, "null")
                 .order("id")
                 .range(offset, offset + BATCH_SIZE - 1)
@@ -106,6 +106,7 @@ def main():
 
         for row in rows:
             tid     = row["id"]
+            cid     = row.get("channel_id")
             content = (row.get(CONTENT_COL) or "").strip()
 
             # Skip if already chunked (safe resume)
@@ -127,6 +128,7 @@ def main():
             records = [
                 {
                     "transcript_id": tid,
+                    "channel_id":    cid,
                     "chunk_text":    chunk,
                     "chunk_index":   i
                 }
