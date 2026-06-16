@@ -55,9 +55,12 @@ def main():
         return
 
     processed = failed = 0
-    offset    = 0
+    last_id   = 0   # cursor — only fetch still-unembedded chunks with id > last_id
     start     = time.time()
 
+    # Cursor pagination, NOT offset. Embedded chunks drop out of the `is null`
+    # filter, so an advancing offset over a shrinking result set silently SKIPS
+    # chunks. Filtering by id > last_id and advancing past each batch never skips.
     while True:
         # Fetch chunks without embeddings
         try:
@@ -65,8 +68,9 @@ def main():
                 supabase.table(CHUNK_TABLE)
                 .select("id, chunk_text")
                 .is_("embedding", "null")
+                .gt("id", last_id)
                 .order("id")
-                .range(offset, offset + BATCH_SIZE - 1)
+                .limit(BATCH_SIZE)
                 .execute()
             )
             rows = resp.data
@@ -81,6 +85,7 @@ def main():
         # Extract texts and ids
         ids   = [row["id"]         for row in rows]
         texts = [row["chunk_text"] for row in rows]
+        last_id = max(ids)  # advance cursor past this batch (success or fail)
 
         # Generate embeddings in one batch (fast!)
         try:
@@ -92,7 +97,6 @@ def main():
             )
         except Exception as e:
             print(f"🔥 Embedding error: {e}")
-            offset += BATCH_SIZE
             continue
 
         # Save each embedding to Supabase
@@ -114,8 +118,6 @@ def main():
             except Exception as e:
                 print(f"  🔥 Save error for {chunk_id}: {e}")
                 failed += 1
-
-        offset += BATCH_SIZE
 
     elapsed = int(time.time() - start)
     m, s    = divmod(elapsed, 60)

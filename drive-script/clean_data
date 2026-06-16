@@ -196,18 +196,24 @@ def main():
         return
 
     processed = skipped = failed = 0
-    offset = 0
+    last_id = 0   # cursor — only fetch still-null rows with id > last_id
     BATCH_SIZE = 50
     start = time.time()
 
+    # Cursor pagination, NOT offset. Cleaned rows drop out of the `is null`
+    # filter, so an advancing offset over a shrinking result set silently SKIPS
+    # rows (that's why a full run only cleaned ~half). Filtering by id > last_id
+    # and advancing the cursor past every processed row never skips, and never
+    # re-attempts a permanently-failing row (so no infinite loop).
     while True:
         try:
             resp = (
                 supabase_client.table(TABLE_NAME)
                 .select(f"id, {CONTENT_COL}")
                 .is_(CLEAN_COL, "null")
+                .gt("id", last_id)
                 .order("id")
-                .range(offset, offset + BATCH_SIZE - 1)
+                .limit(BATCH_SIZE)
                 .execute()
             )
             rows = resp.data
@@ -221,6 +227,7 @@ def main():
 
         for row in rows:
             row_id  = row["id"]
+            last_id = row_id  # advance cursor even if this row is skipped/failed
             content = (row.get(CONTENT_COL) or "").strip()
             count   = processed + skipped + failed + 1
 
@@ -255,8 +262,6 @@ def main():
             except Exception as e:
                 print(f"  🔥 Supabase error: {e}")
                 failed += 1
-
-        offset += BATCH_SIZE
 
     elapsed = int(time.time() - start)
     h, rem = divmod(elapsed, 3600)
