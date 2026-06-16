@@ -1,0 +1,37 @@
+name: drive-script pipeline
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "0 3 * * *"            # daily at 03:00 UTC
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    defaults:
+      run:
+        working-directory: drive-script
+    env:
+      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+      SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+      APIFY_API_TOKEN: ${{ secrets.APIFY_API_TOKEN }}
+      GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+      GROQ_API_KEYS: ${{ secrets.GROQ_API_KEYS }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+          cache-dependency-path: drive-script/requirements.txt
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: 1) Scrape transcripts (Apify)
+        run: python apify_to_supabase.py
+      - name: 2) Clean transcripts (Groq)
+        run: python clean_data
+      - name: 3) Chunk
+        run: python chunking.py
+      - name: 4) Embed (MiniLM)
+        run: python embedding.py
