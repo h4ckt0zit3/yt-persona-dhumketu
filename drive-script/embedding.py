@@ -1,9 +1,11 @@
 """
 STEP 4 — EMBEDDINGS
 ====================
-Converts chunk_text → vector using free local model
-Model: all-MiniLM-L6-v2 (384 dimensions, excellent quality)
-No API needed — runs 100% on your machine!
+Converts chunk_text → vector using the free local model all-MiniLM-L6-v2
+(384 dims). Designed to run on the cloud runner (GitHub Actions): the model
+weights (~90MB) are pulled from the HuggingFace cache once (cached across runs
+by the workflow's actions/cache step, authenticated via the HF_TOKEN env var)
+and reused — nothing is re-installed each run.
 
 pip install sentence-transformers
 """
@@ -22,10 +24,10 @@ CHUNK_TABLE = "MarquesBrownlee_chunks"
 BATCH_SIZE  = 100   # process 100 chunks at a time (faster than one by one)
 # ──────────────────────────────────────────────────────────────────────────────
 
-print("⏳ Loading embedding model (first time downloads ~500MB)...")
-model    = SentenceTransformer("all-MiniLM-L6-v2")
-supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
-print("✅ Model loaded!\n")
+# Model is loaded lazily inside main() — only when there are chunks to embed —
+# so a no-op run (everything already embedded) never downloads the weights.
+MODEL_NAME = "all-MiniLM-L6-v2"
+supabase   = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 
 def main():
@@ -53,6 +55,13 @@ def main():
     if remaining == 0:
         print("\n🎉 All chunks already embedded!")
         return
+
+    # Load the model only now that there's work to do. On the cloud runner the
+    # weights come from the HuggingFace cache (authenticated via HF_TOKEN), so
+    # nothing is re-installed each run.
+    print("⏳ Loading embedding model...")
+    model = SentenceTransformer(MODEL_NAME)
+    print("✅ Model loaded!\n")
 
     processed = failed = 0
     last_id   = 0   # cursor — only fetch still-unembedded chunks with id > last_id
@@ -100,7 +109,7 @@ def main():
             continue
 
         # Save each embedding to Supabase
-        for i, (chunk_id, embedding) in enumerate(zip(ids, embeddings)):
+        for chunk_id, embedding in zip(ids, embeddings):
             try:
                 supabase.table(CHUNK_TABLE).update(
                     {"embedding": embedding.tolist()}
